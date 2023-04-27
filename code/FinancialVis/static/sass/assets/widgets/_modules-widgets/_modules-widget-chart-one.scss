@@ -1,0 +1,49 @@
+/*
+    ==================
+        Revenue
+    ==================
+*/
+
+.widget-chart-one {
+  .widget-heading {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  #revenueMonthly {
+    background: rgb(250, 252, 255);
+    padding: 15px;
+    border-radius: 22px;
+    overflow: hidden;
+    border: 1px solid $m-color_2;
+  }
+
+  .widget-content .apexcharts-canvas {
+    transition: .5s;
+
+    svg {
+      transition: .5s;
+    }
+  }
+
+  .apexcharts-legend-marker {
+    left: -5px !important;
+  }
+
+  .apexcharts-yaxis-title, .apexcharts-xaxis-title {
+    font-weight: 600;
+    fill: #888e88;
+  }
+
+  .widget-heading .task-action {
+    svg {
+      color: $m-color_6;
+      width: 19px;
+      height: 19px;
+    }
+
+    .dropdown-menu {
+      transform: translate3d(-141px, 0, 0px);
+    }
+  }
+}

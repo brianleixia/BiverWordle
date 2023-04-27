@@ -1,0 +1,6 @@
+Sotck Code: 000002	time: 2015-6	mean emotion: 0.012562226123051214
+Sotck Code: 002594	time: 2016-8	mean emotion: -0.1721138411001008
+Sotck Code: 000651	time: 2015-7	mean emotion: 0.2523759301617944
+Sotck Code: 000002	time: 2016-9	mean emotion: -0.19593861478256916
+Sotck Code: 002594	time: 2017-8	mean emotion: 0.12069528344687312
+Sotck Code: 000651	time: 2016-7	mean emotion: -0.05557221728510483

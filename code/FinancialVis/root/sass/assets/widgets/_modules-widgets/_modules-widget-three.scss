@@ -1,0 +1,147 @@
+/*
+    ====================
+        Order Summary
+    ====================
+*/
+
+.widget-three {
+  position: relative;
+  background: #fff;
+  padding: 20px;
+  border-radius: 6px;
+  height: 100%;
+
+  border: 1px solid $m-color_3;
+  box-shadow: 0 0 40px 0 rgba(94, 92, 154, 0.06);
+
+  .widget-heading {
+    display: flex;
+    margin-bottom: 25px;
+    justify-content: space-between;
+
+    .task-action {
+      .dropdown-toggle svg {
+        color: $m-color_6;
+        width: 19px;
+        height: 19px;
+      }
+
+      .dropdown-menu {
+        transform: translate3d(-141px, 0, 0px);
+      }
+    }
+  }
+
+  .widget-content {
+    font-size: 17px;
+
+    .summary-list {
+      position: relative;
+      padding: 15px;
+      background: rgba(224, 230, 237, 40%);
+      border-radius: 6px;
+
+      &.summary-income {
+        background: rgba(220, 207, 247, 0.34);
+      }
+
+      &.summary-profit {
+        background: rgba(186, 231, 255, 0.34);
+      }
+
+      &.summary-expenses {
+        background: rgba(255, 236, 203, 0.34);
+      }
+
+      .summery-info {
+        display: flex;
+        margin-bottom: 0;
+      }
+
+      &:not(:last-child) {
+        margin-bottom: 9px;
+      }
+    }
+
+    .w-icon {
+      border-radius: 12px;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      height: 35px;
+      width: 35px;
+      margin-right: 12px;
+
+      svg {
+        display: block;
+        width: 22px;
+        height: 22px;
+        stroke-width: 1px;
+      }
+    }
+
+    .summary-list {
+      &:nth-child(1) .w-icon svg {
+        color: $secondary;
+        fill: rgba(92, 26, 195, 0.16);
+      }
+
+      &:nth-child(2) .w-icon svg {
+        color: $info;
+        fill: rgba(33, 150, 243, 0.16);
+      }
+
+      &:nth-child(3) .w-icon svg {
+        color: $warning;
+        fill: rgba(226, 160, 63, 0.16);
+      }
+    }
+
+    .w-summary-details {
+      width: 100%;
+      align-self: center;
+    }
+
+    .w-summary-info {
+      display: flex;
+      justify-content: space-between;
+      margin-bottom: 1px;
+
+      h6 {
+        font-size: 13px;
+        font-weight: 600;
+        margin-bottom: 0;
+        color: $m-color_6;
+      }
+
+      .summary-count {
+        display: block;
+        font-size: 16px;
+        margin-top: 4px;
+        font-weight: 600;
+        color: $m-color_9;
+      }
+
+      .summary-average {
+        font-size: 14px;
+        font-weight: 500;
+        margin-bottom: 0;
+        color: $m-color_6;
+      }
+    }
+
+    .summary-list {
+      &.summary-income .w-summary-info .summary-average {
+        color: $secondary;
+      }
+
+      &.summary-profit .w-summary-info .summary-average {
+        color: $info;
+      }
+
+      &.summary-expenses .w-summary-info .summary-average {
+        color: $warning;
+      }
+    }
+  }
+}

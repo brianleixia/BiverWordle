@@ -1,0 +1,43 @@
+absl-py @ file:///C:/ci/absl-py_1623867344508/work
+astor==0.8.1
+bleach==1.5.0
+certifi==2021.5.30
+coverage @ file:///C:/ci/coverage_1614614921360/work
+cycler==0.10.0
+Cython @ file:///C:/ci/cython_1626257069493/work
+dataclasses @ file:///tmp/build/80754af9/dataclasses_1614363715916/work
+gast @ file:///tmp/build/80754af9/gast_1632115987108/work
+grpcio @ file:///C:/ci/grpcio_1614884461394/work
+h5py==2.10.0
+html5lib==0.9999999
+importlib-metadata @ file:///C:/ci/importlib-metadata_1631916885413/work
+joblib @ file:///tmp/build/80754af9/joblib_1613502643832/work
+Keras==2.3.1
+Keras-Applications @ file:///tmp/build/80754af9/keras-applications_1594366238411/work
+Keras-Preprocessing @ file:///tmp/build/80754af9/keras-preprocessing_1612283640596/work
+kiwisolver @ file:///C:/ci/kiwisolver_1612282446297/work
+Markdown @ file:///C:/ci/markdown_1614364003005/work
+matplotlib @ file:///C:/ci/matplotlib-suite_1613408055530/work
+mkl-fft==1.3.0
+mkl-random==1.0.4
+mkl-service==2.3.0
+numpy==1.17.0
+olefile==0.46
+Pillow @ file:///C:/ci/pillow_1617386325740/work
+protobuf==3.17.2
+pyparsing @ file:///home/linux1/recipes/ci/pyparsing_1610983426697/work
+pyreadline==2.1
+python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
+PyYAML==5.4.1
+scikit-learn @ file:///C:/ci/scikit-learn_1614446902030/work
+scipy @ file:///C:/bld/scipy_1604304921754/work
+six @ file:///tmp/build/80754af9/six_1623709665295/work
+tensorboard==1.8.0
+tensorflow==1.8.0
+termcolor==1.1.0
+threadpoolctl @ file:///Users/ktietz/demo/mc3/conda-bld/threadpoolctl_1629802263681/work
+tornado @ file:///C:/ci/tornado_1606942379977/work
+typing-extensions @ file:///tmp/build/80754af9/typing_extensions_1631814937681/work
+Werkzeug @ file:///tmp/build/80754af9/werkzeug_1631818832573/work
+wincertstore==0.2
+zipp @ file:///tmp/build/80754af9/zipp_1633618647012/work

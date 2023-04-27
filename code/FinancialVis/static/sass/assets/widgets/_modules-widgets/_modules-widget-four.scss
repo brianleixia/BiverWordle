@@ -1,0 +1,147 @@
+/*
+    ====================
+        Visitors by Browser
+    ====================
+*/
+.widget-four {
+  position: relative;
+  background: #fff;
+  padding: 20px;
+  border-radius: 6px;
+  height: 100%;
+  box-shadow: none;
+
+  border: 1px solid #e0e6ed;
+  box-shadow: 0 0 40px 0 rgba(94, 92, 154, 0.06);
+
+  .widget-heading {
+    margin-bottom: 25px;
+
+    h5 {
+      font-size: 17px;
+      display: block;
+      color: #0e1726;
+      font-weight: 600;
+      margin-bottom: 0;
+    }
+  }
+
+  .widget-content {
+    font-size: 17px;
+
+    .browser-list {
+      display: flex;
+
+      &:not(:last-child) {
+        margin-bottom: 30px;
+      }
+    }
+
+    .w-icon {
+      display: inline-block;
+      padding: 10px 9px;
+      border-radius: 50%;
+      display: inline-flex;
+      align-self: center;
+      height: 34px;
+      width: 34px;
+      margin-right: 12px;
+
+      svg {
+        display: block;
+        width: 15px;
+        height: 15px;
+      }
+    }
+
+    .browser-list {
+      &:nth-child(1) .w-icon {
+        background: #eaf1ff;
+      }
+
+      &:nth-child(2) .w-icon {
+        background: #fff5f5;
+      }
+
+      &:nth-child(3) .w-icon {
+        background: #fff9ed;
+      }
+
+      &:nth-child(1) .w-icon svg {
+        color: #4361ee;
+      }
+
+      &:nth-child(2) .w-icon svg {
+        color: #e7515a;
+      }
+
+      &:nth-child(3) .w-icon svg {
+        color: #e2a03f;
+      }
+    }
+
+    .w-browser-details {
+      width: 100%;
+      align-self: center;
+    }
+
+    .w-browser-info {
+      display: flex;
+      justify-content: space-between;
+      margin-bottom: 1px;
+
+      h6 {
+        font-size: 13px;
+        font-weight: 600;
+        margin-bottom: 0;
+        color: #888ea8;
+      }
+
+      p {
+        font-size: 12px;
+        font-weight: 600;
+        margin-bottom: 0;
+        color: #888ea8;
+      }
+    }
+
+    .w-browser-stats .progress {
+      margin-bottom: 0;
+      height: 22px;
+      padding: 4px;
+      border-radius: 20px;
+      box-shadow: 0 2px 2px rgba(224, 230, 237, 0.4588235294), 1px 6px 7px rgba(224, 230, 237, 0.4588235294);
+
+      .progress-bar {
+        position: relative;
+      }
+    }
+  }
+}
+
+.progress .progress-bar {
+  &.bg-gradient-primary {
+    background-color: #2a2a72;
+    background-image: linear-gradient(315deg, #2a2a72 0%, #009ffd 74%);
+  }
+
+  &.bg-gradient-danger {
+    background-image: linear-gradient(315deg, #3f0d12 0%, #a71d31 74%);
+  }
+
+  &.bg-gradient-warning {
+    background-color: #fc9842;
+    background-image: linear-gradient(315deg, #fc9842 0%, #fe5f75 74%);
+  }
+}
+
+.widget-four .widget-content .w-browser-stats .progress .progress-bar:before {
+  content: '';
+  height: 7px;
+  width: 7px;
+  background: #fff;
+  position: absolute;
+  right: 3px;
+  border-radius: 50%;
+  top: 3.4px;
+}

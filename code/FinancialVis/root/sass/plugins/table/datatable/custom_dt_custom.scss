@@ -1,0 +1,134 @@
+//  =================
+//      Imports
+//  =================
+
+@import '../../../base/base';    // Base Variables
+
+
+.widget-content-area {
+  box-shadow: none !important;
+  border: none;
+  border-radius: 6px;
+}
+
+.table-hover:not(.table-dark) tbody tr {
+  td:first-child {
+    border-left: none !important;
+    border-left: none !important;
+  }
+
+  &:hover .new-control.new-checkbox .new-control-indicator {
+    border: 1px solid $primary;
+  }
+}
+
+/*Style. 1*/
+
+.style-1 {
+  .user-name {
+    font-size: 15px;
+    color: $secondary;
+  }
+
+  .profile-img img {
+    border-radius: 6px;
+    background-color: $m-color_2;
+    padding: 2px;
+    width: 35px;
+    height: 35px;
+  }
+}
+
+/*Style. 2*/
+
+.style-2 {
+  .new-control.new-checkbox .new-control-indicator {
+    top: 1px;
+  }
+
+  .user-name {
+    font-size: 15px;
+    font-weight: 600;
+    color: $warning;
+  }
+
+  .profile-img {}
+
+  img.profile-img {
+    background-color: $m-color_2;
+    padding: 2px;
+    width: 35px;
+    height: 35px;
+  }
+}
+
+/*Style. 3*/
+
+.style-3 {
+  .new-control.new-checkbox .new-control-indicator {
+    top: 1px;
+  }
+
+  .user-name {
+    font-size: 15px;
+    font-weight: 600;
+    color: $warning;
+  }
+
+  .profile-img {}
+
+  img.profile-img {
+    border-radius: 6px;
+    background-color: $m-color_2;
+    padding: 2px;
+    width: 35px;
+    height: 35px;
+  }
+
+  .table-controls {
+    padding: 0;
+    margin-bottom: 0;
+
+    li {
+      list-style: none;
+      display: inline;
+
+      svg {
+        /* color: $m-color_6;
+        vertical-align: middle;
+        width: 28px;
+        height: 28px;
+        fill: rgba(0, 23, 55, 0.08);
+        cursor: pointer; */
+
+        /* color: $dark;
+        margin-right: 6px;
+        vertical-align: middle;
+        fill: $m-color_1; */
+        cursor: pointer;
+
+        /* stroke-width: 1; */
+
+        margin: 0;
+        vertical-align: middle;
+        cursor: pointer;
+        color: $m-color_9;
+        stroke-width: 1.5;
+        width: 28px;
+        height: 28px;
+      }
+    }
+  }
+
+  &.table-hover:not(.table-dark) tbody tr:hover {
+    .table-controls li svg {
+      color: $m-color_18;
+
+      /* fill: rgba(231, 81, 90, 0.2196078431372549); */
+    }
+
+    td:first-child {
+      color: $primary !important;
+    }
+  }
+}

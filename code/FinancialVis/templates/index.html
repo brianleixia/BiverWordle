@@ -1,0 +1,376 @@
+{% extends "base.html" %}{% load static %}{% block title %}Financial Vis Main
+Page{% endblock %} {% block CustomCss %}
+<link
+  href="{% static 'assets/css/scrollspyNav.css' %}"
+  rel="stylesheet"
+  type="text/css"
+/>
+<link
+  rel="stylesheet"
+  type="text/css"
+  href="{% static 'plugins/bootstrap-select/bootstrap-select.min.css' %}"
+/>
+{% endblock %} {%block content %}
+<!--  BEGIN CONTENT PART  -->
+<div id="content" class="main-content">
+  <div class="layout-px-spacing">
+    <div class="page-header">
+      <nav class="breadcrumb-one" aria-label="breadcrumb">
+        <ol class="breadcrumb">
+          <li class="breadcrumb-item">
+            <a href="javascript:void(0);">Dashboad</a>
+          </li>
+          <li class="breadcrumb-item active" aria-current="page">
+            <a href="javascript:void(0);">Analytics</a>
+          </li>
+        </ol>
+      </nav>
+    </div>
+
+    <!-- <div class="row layout-top-spacing">
+      <svg width="1500" height="800" id="mainsvg" class="svgs"></svg>
+    </div> -->
+    <div class="row">
+      <div class="col-lg-12">
+        <select class="selectpicker" id="xxx" onchange="test(value)">
+          <option value="0">请选择</option>
+          <option value="1">万科A</option>
+          <option value="2">科大讯飞</option>
+          <option value="3">双汇发展</option>
+          <option value="4">双鹭药业</option>
+          <option value="5">格力电器</option>
+          <option value="6">比亚迪</option>
+          <option value="7">泸州老窖</option>
+        </select>
+        <button class="btn btn-primary mb-2" onClick="reload()">Refresh</button>
+
+        <div id="title" style="justify-content: center">Stock:</div>
+        <div id="c1"></div>
+        <div id="slider"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!--  END CONTENT PART  -->
+{% endblock %} {% block CustomJS %}
+<!-- BEGIN D3.js visualization-->
+<script src="{% static 'G2/2.3.13/index.js' %}"></script>
+<script>
+  function reload() {
+    window.location.reload();
+  }
+  var indexValue = 0;
+  function test(value) {
+    stock = document.getElementById("xxx");
+    indexValue = value;
+    console.log(stock);
+    // stock.options[value].selected = true;
+    // alert(stock.value);
+    var stockList = [
+      "000000",
+      "000002",
+      "002230",
+      "000895",
+      "002038",
+      "000651",
+      "002594",
+      "000568",
+    ];
+    var stockCode = stockList[indexValue];
+
+    // 导入stock json数据
+    var Ajax = (function () {
+      $.getJSON(
+        "../static/data/stock_json/" + stockCode + "test.json",
+        function (stockdata) {
+          displayStockData(stockdata); //传入一个函数
+        }
+      );
+    })();
+
+    // 导入theme river json数据
+    var Ajax = (function () {
+      $.getJSON(
+        "../static/data/sample_theme_json/" + stockCode + "_total.json",
+        function (themeriverdata) {
+          displayThemeData(themeriverdata); //传入一个函数
+        }
+      );
+    })();
+
+    document.getElementById("title").innerHTML = "Stock:" + stockCode;
+  }
+
+  var displayStockData = function (stockdata) {
+    console.log(stockdata);
+    var Frame = G2.Frame;
+    var frame = new Frame(stockdata.stock);
+
+    // 股票数据归一化
+    frame.addCol("trendNew", function (obj) {
+      return obj.start <= obj.end ? "up" : "down";
+    });
+    frame.addCol("startNew", function (obj) {
+      return Math.round((obj.start - (obj.start + obj.end) / 2) * 1000) / 1000;
+    });
+    frame.addCol("endNew", function (obj) {
+      return Math.round((obj.end - (obj.start + obj.end) / 2) * 1000) / 1000;
+    });
+    frame.addCol("maxNew", function (obj) {
+      return Math.round((obj.max - (obj.start + obj.end) / 2) * 1000) / 1000;
+    });
+    frame.addCol("minNew", function (obj) {
+      return Math.round((obj.min - (obj.start + obj.end) / 2) * 1000) / 1000;
+    });
+    frame.addCol("extremeNew", function (obj) {
+      return [obj.minNew, obj.maxNew];
+    });
+    frame.addCol("rangeNew", function (obj) {
+      return [obj.startNew, obj.endNew];
+    });
+    frame = Frame.combinColumns(
+      frame,
+      ["extremeNew", "rangeNew"],
+      "value",
+      "type"[("time", "start", "end", "min", "max", "volumn", "money", "trend")]
+    );
+
+    // console.log(frame);
+
+    // stock表格初始化
+    var chart = new G2.Chart({
+      id: "c1",
+      forceFit: true,
+      height: 450,
+    });
+
+    chart.source(frame, {
+      time: {
+        type: "time",
+        // nice: false,
+        mask: "yyyy-mm",
+        ticks: [
+          "2013-01",
+          "2014-01",
+          "2015-01",
+          "2016-01",
+          "2017-01",
+          "2018-01",
+          "2019-01",
+        ],
+      },
+    });
+
+    //尝试横坐标加入图片
+    chart.axis("time", {
+      title: null,
+    });
+    chart.axis("range", {
+      title: null,
+    });
+    chart.axis("startNew+endNew+maxNew+minNew", false);
+    chart.legend(false);
+    chart.tooltip({
+      crosshairs: true,
+    });
+
+    chart
+      .area()
+      .position("time*value")
+      .shape("smooth")
+      .color("type", ["#d8d8ff", "#ef6c00"])
+      .opacity(1);
+    // chart.area().position('time*range').shape('smooth').color('#ef6c00');
+
+    chart
+      .schema()
+      .position("time*(startNew+endNew+maxNew+minNew)")
+      .color("trendNew", ["#CF352E", "#64b5f6"])
+      .shape("candle")
+      .tooltip("startNew*endNew*maxNew*minNew");
+    chart.render();
+  };
+
+  var imageMap = [
+    {},
+    {
+      "2013-01": "../static/data/image/pic5.png",
+      "2014-01": "../static/data/image/pic5.png",
+      "2015-01": "../static/data/image/pic5.png",
+      "2015-06": "../static/data/image/000002_15_6.png",
+      "2015-07": "../static/data/image/pic5.png",
+      "2016-01": "../static/data/image/pic5.png",
+      "2016-07": "../static/data/image/000002_16_7.png",
+      "2016-08": "../static/data/image/pic5.png",
+      "2016-09": "../static/data/image/pic5.png",
+      "2017-01": "../static/data/image/pic5.png",
+      "2017-08": "../static/data/image/pic5.png",
+      "2018-01": "../static/data/image/pic5.png",
+      "2019-01": "../static/data/image/pic5.png",
+    },
+    {
+      "2013-01": "../static/data/image/pic5.png",
+      "2014-01": "../static/data/image/pic5.png",
+      "2015-01": "../static/data/image/pic5.png",
+      "2015-06": "../static/data/image/pic5.png",
+      "2015-07": "../static/data/image/pic5.png",
+      "2016-01": "../static/data/image/pic5.png",
+      "2016-07": "../static/data/image/pic5.png",
+      "2016-08": "../static/data/image/pic5.png",
+      "2016-09": "../static/data/image/pic5.png",
+      "2017-01": "../static/data/image/pic5.png",
+      "2017-08": "../static/data/image/pic5.png",
+      "2018-01": "../static/data/image/pic5.png",
+      "2019-01": "../static/data/image/pic5.png",
+    },
+    {
+      "2013-01": "../static/data/image/pic5.png",
+      "2014-01": "../static/data/image/pic5.png",
+      "2015-01": "../static/data/image/pic5.png",
+      "2015-06": "../static/data/image/pic5.png",
+      "2015-07": "../static/data/image/pic5.png",
+      "2016-01": "../static/data/image/pic5.png",
+      "2016-07": "../static/data/image/pic5.png",
+      "2016-08": "../static/data/image/pic5.png",
+      "2016-09": "../static/data/image/pic5.png",
+      "2017-01": "../static/data/image/pic5.png",
+      "2017-08": "../static/data/image/pic5.png",
+      "2018-01": "../static/data/image/pic5.png",
+      "2019-01": "../static/data/image/pic5.png",
+    },
+    {
+      "2013-01": "../static/data/image/pic5.png",
+      "2014-01": "../static/data/image/pic5.png",
+      "2015-01": "../static/data/image/pic5.png",
+      "2015-06": "../static/data/image/pic5.png",
+      "2015-07": "../static/data/image/pic5.png",
+      "2016-01": "../static/data/image/pic5.png",
+      "2016-07": "../static/data/image/pic5.png",
+      "2016-08": "../static/data/image/pic5.png",
+      "2016-09": "../static/data/image/pic5.png",
+      "2017-01": "../static/data/image/pic5.png",
+      "2017-08": "../static/data/image/pic5.png",
+      "2018-01": "../static/data/image/pic5.png",
+      "2019-01": "../static/data/image/pic5.png",
+    },
+    {
+      "2013-01": "../static/data/image/pic5.png",
+      "2014-01": "../static/data/image/pic5.png",
+      "2015-01": "../static/data/image/pic5.png",
+      "2015-06": "../static/data/image/pic5.png",
+      "2015-07": "../static/data/image/000651_15_7.png",
+      "2016-01": "../static/data/image/pic5.png",
+      "2016-07": "../static/data/image/pic5.png",
+      "2016-08": "../static/data/image/pic5.png",
+      "2016-09": "../static/data/image/000651_16_9.png",
+      "2017-01": "../static/data/image/pic5.png",
+      "2017-08": "../static/data/image/pic5.png",
+      "2018-01": "../static/data/image/pic5.png",
+      "2019-01": "../static/data/image/pic5.png",
+    },
+    {
+      "2013-01": "../static/data/image/pic5.png",
+      "2014-01": "../static/data/image/pic5.png",
+      "2015-01": "../static/data/image/pic5.png",
+      "2015-06": "../static/data/image/pic5.png",
+      "2015-07": "../static/data/image/pic5.png",
+      "2016-01": "../static/data/image/pic5.png",
+      "2016-07": "../static/data/image/pic5.png",
+      "2016-08": "../static/data/image/002594_16_8.png",
+      "2016-09": "../static/data/image/pic5.png",
+      "2017-01": "../static/data/image/pic5.png",
+      "2017-08": "../static/data/image/002594_17_8.png",
+      "2018-01": "../static/data/image/pic5.png",
+      "2019-01": "../static/data/image/pic5.png",
+    },
+    {
+      "2013-01": "../static/data/image/pic5.png",
+      "2014-01": "../static/data/image/pic5.png",
+      "2015-01": "../static/data/image/pic5.png",
+      "2015-06": "../static/data/image/pic5.png",
+      "2015-07": "../static/data/image/pic5.png",
+      "2016-01": "../static/data/image/pic5.png",
+      "2016-07": "../static/data/image/pic5.png",
+      "2016-08": "../static/data/image/pic5.png",
+      "2016-09": "../static/data/image/pic5.png",
+      "2017-01": "../static/data/image/pic5.png",
+      "2017-08": "../static/data/image/pic5.png",
+      "2018-01": "../static/data/image/pic5.png",
+      "2019-01": "../static/data/image/pic5.png",
+    },
+  ];
+
+  var displayThemeData = function (themeriverdata) {
+    console.log(themeriverdata);
+    var Frame = G2.Frame;
+    var frame = new Frame(themeriverdata.themeRiver);
+    var groups = Frame.group(frame, ["year", "label"]);
+
+    var Stat = G2.Stat;
+    var chart1 = new G2.Chart({
+      id: "c1",
+      forceFit: true,
+      height: 450,
+    });
+
+    chart1.source(frame, {
+      year: {
+        type: "time",
+        mask: "yyyy-mm",
+        ticks: [
+          "2013-01",
+          "2014-01",
+          "2015-01",
+          "2015-06",
+          "2015-07",
+          "2016-01",
+          "2016-07",
+          "2016-08",
+          "2016-09",
+          "2017-01",
+          "2017-08",
+          "2018-01",
+          "2019-01",
+        ],
+      },
+      value: {
+        nice: false,
+      },
+    });
+    chart1.legend(false);
+    chart1.axis("year", {
+      title: null,
+      labels: {
+        custom: true,
+        renderer: function (value) {
+          return (
+            '<img src="' +
+            imageMap[indexValue][value] +
+            '" style="width:250px;"/>'
+          );
+        },
+      },
+      tickLine: null,
+    });
+    chart1.axis("value", {
+      title: null,
+      line: null,
+      tickLine: null,
+      grid: null,
+    });
+    chart1.tooltip({
+      crosshairs: true,
+    });
+
+    chart1
+      .area(["stack", "symmetric"])
+      .position(Stat.summary.sum("year*value"))
+      .color("label")
+      .shape("smooth")
+      .opacity(1);
+    chart1.render();
+  };
+</script>
+<!-- END D3.js visualization-->
+{% endblock %}

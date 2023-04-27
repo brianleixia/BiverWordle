@@ -1,0 +1,6611 @@
+[
+    {
+        "value": 17,
+        "name": "比亚迪"
+    },
+    {
+        "value": 35,
+        "name": "云轨"
+    },
+    {
+        "value": 7,
+        "name": "毛利"
+    },
+    {
+        "value": 17,
+        "name": "新能源"
+    },
+    {
+        "value": 27,
+        "name": "汽车"
+    },
+    {
+        "value": 1,
+        "name": "金属"
+    },
+    {
+        "value": 1,
+        "name": "机壳"
+    },
+    {
+        "value": 27,
+        "name": "电池"
+    },
+    {
+        "value": 21,
+        "name": "技术"
+    },
+    {
+        "value": 3,
+        "name": "领先"
+    },
+    {
+        "value": 4,
+        "name": "股价"
+    },
+    {
+        "value": 4,
+        "name": "不好"
+    },
+    {
+        "value": 2,
+        "name": "李董"
+    },
+    {
+        "value": 20,
+        "name": "你好"
+    },
+    {
+        "value": 6,
+        "name": "重点"
+    },
+    {
+        "value": 1,
+        "name": "放在"
+    },
+    {
+        "value": 11,
+        "name": "电动车"
+    },
+    {
+        "value": 2,
+        "name": "两个"
+    },
+    {
+        "value": 3,
+        "name": "梦想"
+    },
+    {
+        "value": 5,
+        "name": "太阳能"
+    },
+    {
+        "value": 6,
+        "name": "储能"
+    },
+    {
+        "value": 13,
+        "name": "计划"
+    },
+    {
+        "value": 6,
+        "name": "提高"
+    },
+    {
+        "value": 2,
+        "name": "两种"
+    },
+    {
+        "value": 30,
+        "name": "产品"
+    },
+    {
+        "value": 15,
+        "name": "销量"
+    },
+    {
+        "value": 6,
+        "name": "研发"
+    },
+    {
+        "value": 16,
+        "name": "推出"
+    },
+    {
+        "value": 1,
+        "name": "面向"
+    },
+    {
+        "value": 9,
+        "name": "消费者"
+    },
+    {
+        "value": 1,
+        "name": "光储"
+    },
+    {
+        "value": 6,
+        "name": "想"
+    },
+    {
+        "value": 4,
+        "name": "放弃"
+    },
+    {
+        "value": 3,
+        "name": "这是"
+    },
+    {
+        "value": 1,
+        "name": "能量"
+    },
+    {
+        "value": 3,
+        "name": "生产"
+    },
+    {
+        "value": 1,
+        "name": "储存"
+    },
+    {
+        "value": 2,
+        "name": "工具"
+    },
+    {
+        "value": 23,
+        "name": "年"
+    },
+    {
+        "value": 3,
+        "name": "小型"
+    },
+    {
+        "value": 3,
+        "name": "能力"
+    },
+    {
+        "value": 2,
+        "name": "发展"
+    },
+    {
+        "value": 3,
+        "name": "几年"
+    },
+    {
+        "value": 13,
+        "name": "优势"
+    },
+    {
+        "value": 1,
+        "name": "菲律宾"
+    },
+    {
+        "value": 4,
+        "name": "投产"
+    },
+    {
+        "value": 1,
+        "name": "保证"
+    },
+    {
+        "value": 1,
+        "name": "工程"
+    },
+    {
+        "value": 1,
+        "name": "尾款"
+    },
+    {
+        "value": 1,
+        "name": "顺利"
+    },
+    {
+        "value": 3,
+        "name": "回收"
+    },
+    {
+        "value": 7,
+        "name": "股东"
+    },
+    {
+        "value": 1,
+        "name": "交代"
+    },
+    {
+        "value": 1,
+        "name": "商用车"
+    },
+    {
+        "value": 3,
+        "name": "采用"
+    },
+    {
+        "value": 1,
+        "name": "磷酸"
+    },
+    {
+        "value": 1,
+        "name": "铁"
+    },
+    {
+        "value": 4,
+        "name": "锂电池"
+    },
+    {
+        "value": 1,
+        "name": "理由"
+    },
+    {
+        "value": 5,
+        "name": "私家车"
+    },
+    {
+        "value": 2,
+        "name": "股"
+    },
+    {
+        "value": 1,
+        "name": "三元"
+    },
+    {
+        "value": 1,
+        "name": "今年以来"
+    },
+    {
+        "value": 10,
+        "name": "国内"
+    },
+    {
+        "value": 12,
+        "name": "电动"
+    },
+    {
+        "value": 2,
+        "name": "公交车"
+    },
+    {
+        "value": 13,
+        "name": "销售"
+    },
+    {
+        "value": 2,
+        "name": "解释"
+    },
+    {
+        "value": 8,
+        "name": "原因"
+    },
+    {
+        "value": 5,
+        "name": "面对"
+    },
+    {
+        "value": 5,
+        "name": "宁德"
+    },
+    {
+        "value": 7,
+        "name": "时代"
+    },
+    {
+        "value": 18,
+        "name": "市场"
+    },
+    {
+        "value": 9,
+        "name": "时间"
+    },
+    {
+        "value": 4,
+        "name": "点"
+    },
+    {
+        "value": 3,
+        "name": "竞争"
+    },
+    {
+        "value": 2,
+        "name": "想要"
+    },
+    {
+        "value": 6,
+        "name": "去年"
+    },
+    {
+        "value": 7,
+        "name": "补贴"
+    },
+    {
+        "value": 3,
+        "name": "下降"
+    },
+    {
+        "value": 11,
+        "name": "说"
+    },
+    {
+        "value": 2,
+        "name": "没事"
+    },
+    {
+        "value": 1,
+        "name": "有事"
+    },
+    {
+        "value": 3,
+        "name": "西安"
+    },
+    {
+        "value": 1,
+        "name": "进度缓慢"
+    },
+    {
+        "value": 1,
+        "name": "暂停"
+    },
+    {
+        "value": 5,
+        "name": "通车"
+    },
+    {
+        "value": 1,
+        "name": "有意"
+    },
+    {
+        "value": 1,
+        "name": "房地产"
+    },
+    {
+        "value": 11,
+        "name": "业务"
+    },
+    {
+        "value": 1,
+        "name": "网上"
+    },
+    {
+        "value": 1,
+        "name": "曝光"
+    },
+    {
+        "value": 1,
+        "name": "新款"
+    },
+    {
+        "value": 2,
+        "name": "钥匙"
+    },
+    {
+        "value": 3,
+        "name": "专利"
+    },
+    {
+        "value": 1,
+        "name": "图"
+    },
+    {
+        "value": 14,
+        "name": "唐"
+    },
+    {
+        "value": 8,
+        "name": "二代"
+    },
+    {
+        "value": 1,
+        "name": "银"
+    },
+    {
+        "value": 9,
+        "name": "您好"
+    },
+    {
+        "value": 32,
+        "name": "李总"
+    },
+    {
+        "value": 1,
+        "name": "万科"
+    },
+    {
+        "value": 2,
+        "name": "合作"
+    },
+    {
+        "value": 6,
+        "name": "深圳"
+    },
+    {
+        "value": 1,
+        "name": "限外"
+    },
+    {
+        "value": 5,
+        "name": "升级"
+    },
+    {
+        "value": 2,
+        "name": "地区"
+    },
+    {
+        "value": 7,
+        "name": "影响"
+    },
+    {
+        "value": 2,
+        "name": "商业"
+    },
+    {
+        "value": 16,
+        "name": "充电"
+    },
+    {
+        "value": 5,
+        "name": "桩"
+    },
+    {
+        "value": 1,
+        "name": "1.5"
+    },
+    {
+        "value": 1,
+        "name": "1.8"
+    },
+    {
+        "value": 4,
+        "name": "元"
+    },
+    {
+        "value": 1,
+        "name": "损耗"
+    },
+    {
+        "value": 1,
+        "name": "接近"
+    },
+    {
+        "value": 1,
+        "name": "一度"
+    },
+    {
+        "value": 4,
+        "name": "电"
+    },
+    {
+        "value": 1,
+        "name": "费"
+    },
+    {
+        "value": 3,
+        "name": "实在"
+    },
+    {
+        "value": 5,
+        "name": "推广"
+    },
+    {
+        "value": 1,
+        "name": "解读"
+    },
+    {
+        "value": 1,
+        "name": "定价"
+    },
+    {
+        "value": 1,
+        "name": "机制"
+    },
+    {
+        "value": 3,
+        "name": "国家"
+    },
+    {
+        "value": 5,
+        "name": "政策"
+    },
+    {
+        "value": 1,
+        "name": "利益"
+    },
+    {
+        "value": 2,
+        "name": "相关"
+    },
+    {
+        "value": 2,
+        "name": "地补"
+    },
+    {
+        "value": 10,
+        "name": "城市"
+    },
+    {
+        "value": 20,
+        "name": "车"
+    },
+    {
+        "value": 2,
+        "name": "实行"
+    },
+    {
+        "value": 1,
+        "name": "全国"
+    },
+    {
+        "value": 1,
+        "name": "统一"
+    },
+    {
+        "value": 2,
+        "name": "支付"
+    },
+    {
+        "value": 2,
+        "name": "价"
+    },
+    {
+        "value": 3,
+        "name": "落实"
+    },
+    {
+        "value": 6,
+        "name": "大巴车"
+    },
+    {
+        "value": 2,
+        "name": "预期"
+    },
+    {
+        "value": 1,
+        "name": "退坡"
+    },
+    {
+        "value": 1,
+        "name": "公交"
+    },
+    {
+        "value": 1,
+        "name": "化有何"
+    },
+    {
+        "value": 1,
+        "name": "预估"
+    },
+    {
+        "value": 18,
+        "name": "未来"
+    },
+    {
+        "value": 1,
+        "name": "走向"
+    },
+    {
+        "value": 2,
+        "name": "补贴款"
+    },
+    {
+        "value": 2,
+        "name": "回款"
+    },
+    {
+        "value": 1,
+        "name": "周期"
+    },
+    {
+        "value": 2,
+        "name": "多久"
+    },
+    {
+        "value": 2,
+        "name": "看待"
+    },
+    {
+        "value": 1,
+        "name": "科陆"
+    },
+    {
+        "value": 3,
+        "name": "电子"
+    },
+    {
+        "value": 1,
+        "name": "南"
+    },
+    {
+        "value": 4,
+        "name": "电源"
+    },
+    {
+        "value": 1,
+        "name": "阳光"
+    },
+    {
+        "value": 7,
+        "name": "领域"
+    },
+    {
+        "value": 1,
+        "name": "打算"
+    },
+    {
+        "value": 8,
+        "name": "降低"
+    },
+    {
+        "value": 1,
+        "name": "负债率"
+    },
+    {
+        "value": 1,
+        "name": "拟"
+    },
+    {
+        "value": 1,
+        "name": "措施"
+    },
+    {
+        "value": 1,
+        "name": "密度"
+    },
+    {
+        "value": 1,
+        "name": "不高"
+    },
+    {
+        "value": 1,
+        "name": "推"
+    },
+    {
+        "value": 1,
+        "name": "超长"
+    },
+    {
+        "value": 13,
+        "name": "续航"
+    },
+    {
+        "value": 14,
+        "name": "车型"
+    },
+    {
+        "value": 4,
+        "name": "性价比"
+    },
+    {
+        "value": 3,
+        "name": "低"
+    },
+    {
+        "value": 20,
+        "name": "建议"
+    },
+    {
+        "value": 6,
+        "name": "主打"
+    },
+    {
+        "value": 8,
+        "name": "混动"
+    },
+    {
+        "value": 5,
+        "name": "公里"
+    },
+    {
+        "value": 1,
+        "name": "唐宋"
+    },
+    {
+        "value": 8,
+        "name": "价格"
+    },
+    {
+        "value": 16,
+        "name": "月"
+    },
+    {
+        "value": 1,
+        "name": "日晚"
+    },
+    {
+        "value": 1,
+        "name": "公布"
+    },
+    {
+        "value": 2,
+        "name": "三季度"
+    },
+    {
+        "value": 4,
+        "name": "业绩"
+    },
+    {
+        "value": 2,
+        "name": "预告"
+    },
+    {
+        "value": 8,
+        "name": "中"
+    },
+    {
+        "value": 1,
+        "name": "值"
+    },
+    {
+        "value": 1,
+        "name": "环比"
+    },
+    {
+        "value": 1,
+        "name": "零增长"
+    },
+    {
+        "value": 1,
+        "name": "公开场合"
+    },
+    {
+        "value": 1,
+        "name": "宣称"
+    },
+    {
+        "value": 6,
+        "name": "越来越"
+    },
+    {
+        "value": 1,
+        "name": "发差"
+    },
+    {
+        "value": 1,
+        "name": "忽悠"
+    },
+    {
+        "value": 10,
+        "name": "请"
+    },
+    {
+        "value": 1,
+        "name": "给出"
+    },
+    {
+        "value": 3,
+        "name": "美国"
+    },
+    {
+        "value": 5,
+        "name": "多年"
+    },
+    {
+        "value": 1,
+        "name": "未见"
+    },
+    {
+        "value": 9,
+        "name": "乘用车"
+    },
+    {
+        "value": 7,
+        "name": "明年"
+    },
+    {
+        "value": 2,
+        "name": "双"
+    },
+    {
+        "value": 2,
+        "name": "积分"
+    },
+    {
+        "value": 7,
+        "name": "预计"
+    },
+    {
+        "value": 1,
+        "name": "赚"
+    },
+    {
+        "value": 1,
+        "name": "钱"
+    },
+    {
+        "value": 2,
+        "name": "一年"
+    },
+    {
+        "value": 5,
+        "name": "上半年"
+    },
+    {
+        "value": 2,
+        "name": "净利润"
+    },
+    {
+        "value": 9,
+        "name": "亿"
+    },
+    {
+        "value": 3,
+        "name": "算"
+    },
+    {
+        "value": 7,
+        "name": "市值"
+    },
+    {
+        "value": 2,
+        "name": "市盈率"
+    },
+    {
+        "value": 10,
+        "name": "高"
+    },
+    {
+        "value": 1,
+        "name": "达"
+    },
+    {
+        "value": 2,
+        "name": "倍"
+    },
+    {
+        "value": 2,
+        "name": "支撑"
+    },
+    {
+        "value": 5,
+        "name": "营业"
+    },
+    {
+        "value": 6,
+        "name": "收入"
+    },
+    {
+        "value": 5,
+        "name": "应收"
+    },
+    {
+        "value": 3,
+        "name": "账款"
+    },
+    {
+        "value": 2,
+        "name": "亿元"
+    },
+    {
+        "value": 1,
+        "name": "账"
+    },
+    {
+        "value": 7,
+        "name": "信心"
+    },
+    {
+        "value": 1,
+        "name": "计入"
+    },
+    {
+        "value": 3,
+        "name": "上次"
+    },
+    {
+        "value": 2,
+        "name": "问"
+    },
+    {
+        "value": 4,
+        "name": "回答"
+    },
+    {
+        "value": 2,
+        "name": "选"
+    },
+    {
+        "value": 1,
+        "name": "代言人"
+    },
+    {
+        "value": 2,
+        "name": "为啥"
+    },
+    {
+        "value": 1,
+        "name": "莱昂纳多"
+    },
+    {
+        "value": 4,
+        "name": "战略"
+    },
+    {
+        "value": 2,
+        "name": "涉及"
+    },
+    {
+        "value": 5,
+        "name": "海外"
+    },
+    {
+        "value": 1,
+        "name": "不选"
+    },
+    {
+        "value": 1,
+        "name": "知名"
+    },
+    {
+        "value": 1,
+        "name": "人物"
+    },
+    {
+        "value": 1,
+        "name": "下探"
+    },
+    {
+        "value": 2,
+        "name": "搞"
+    },
+    {
+        "value": 1,
+        "name": "微车"
+    },
+    {
+        "value": 1,
+        "name": "发现"
+    },
+    {
+        "value": 4,
+        "name": "需求"
+    },
+    {
+        "value": 1,
+        "name": "大力发展"
+    },
+    {
+        "value": 4,
+        "name": "网络"
+    },
+    {
+        "value": 1,
+        "name": "给予"
+    },
+    {
+        "value": 2,
+        "name": "资源"
+    },
+    {
+        "value": 2,
+        "name": "支持"
+    },
+    {
+        "value": 2,
+        "name": "第三方"
+    },
+    {
+        "value": 30,
+        "name": "做"
+    },
+    {
+        "value": 1,
+        "name": "类似"
+    },
+    {
+        "value": 1,
+        "name": "ppp"
+    },
+    {
+        "value": 1,
+        "name": "形式"
+    },
+    {
+        "value": 1,
+        "name": "私人"
+    },
+    {
+        "value": 1,
+        "name": "意向"
+    },
+    {
+        "value": 4,
+        "name": "打造"
+    },
+    {
+        "value": 7,
+        "name": "银川"
+    },
+    {
+        "value": 5,
+        "name": "日"
+    },
+    {
+        "value": 4,
+        "name": "开通"
+    },
+    {
+        "value": 3,
+        "name": "一点"
+    },
+    {
+        "value": 1,
+        "name": "官方"
+    },
+    {
+        "value": 5,
+        "name": "宣传"
+    },
+    {
+        "value": 1,
+        "name": "乜"
+    },
+    {
+        "value": 2,
+        "name": "始终"
+    },
+    {
+        "value": 2,
+        "name": "第一条"
+    },
+    {
+        "value": 1,
+        "name": "历史"
+    },
+    {
+        "value": 1,
+        "name": "marketing"
+    },
+    {
+        "value": 1,
+        "name": "PR"
+    },
+    {
+        "value": 1,
+        "name": "如止"
+    },
+    {
+        "value": 2,
+        "name": "终于"
+    },
+    {
+        "value": 3,
+        "name": "A0"
+    },
+    {
+        "value": 4,
+        "name": "级别"
+    },
+    {
+        "value": 1,
+        "name": "这部分"
+    },
+    {
+        "value": 2,
+        "name": "河南"
+    },
+    {
+        "value": 1,
+        "name": "挺大"
+    },
+    {
+        "value": 2,
+        "name": "牌照"
+    },
+    {
+        "value": 8,
+        "name": "卖"
+    },
+    {
+        "value": 3,
+        "name": "知豆"
+    },
+    {
+        "value": 1,
+        "name": "众泰"
+    },
+    {
+        "value": 1,
+        "name": "御捷"
+    },
+    {
+        "value": 1,
+        "name": "森源"
+    },
+    {
+        "value": 2,
+        "name": "设计"
+    },
+    {
+        "value": 2,
+        "name": "现有"
+    },
+    {
+        "value": 2,
+        "name": "将来"
+    },
+    {
+        "value": 4,
+        "name": "走"
+    },
+    {
+        "value": 2,
+        "name": "传统"
+    },
+    {
+        "value": 1,
+        "name": "4S店"
+    },
+    {
+        "value": 2,
+        "name": "渠道"
+    },
+    {
+        "value": 3,
+        "name": "面临"
+    },
+    {
+        "value": 1,
+        "name": "用元"
+    },
+    {
+        "value": 9,
+        "name": "外观"
+    },
+    {
+        "value": 4,
+        "name": "迪粉"
+    },
+    {
+        "value": 1,
+        "name": "感到"
+    },
+    {
+        "value": 1,
+        "name": "兴奋"
+    },
+    {
+        "value": 6,
+        "name": "希望"
+    },
+    {
+        "value": 6,
+        "name": "王朝"
+    },
+    {
+        "value": 2,
+        "name": "系列"
+    },
+    {
+        "value": 1,
+        "name": "家族"
+    },
+    {
+        "value": 1,
+        "name": "龙脸"
+    },
+    {
+        "value": 3,
+        "name": "底盘"
+    },
+    {
+        "value": 1,
+        "name": "NVH"
+    },
+    {
+        "value": 1,
+        "name": "调教"
+    },
+    {
+        "value": 1,
+        "name": "全系"
+    },
+    {
+        "value": 1,
+        "name": "铺开"
+    },
+    {
+        "value": 17,
+        "name": "宋"
+    },
+    {
+        "value": 4,
+        "name": "DM"
+    },
+    {
+        "value": 1,
+        "name": "大卖"
+    },
+    {
+        "value": 1,
+        "name": "祝福"
+    },
+    {
+        "value": 1,
+        "name": "大会"
+    },
+    {
+        "value": 1,
+        "name": "明是"
+    },
+    {
+        "value": 3,
+        "name": "第二季度"
+    },
+    {
+        "value": 1,
+        "name": "亮相"
+    },
+    {
+        "value": 1,
+        "name": "第三季度"
+    },
+    {
+        "value": 1,
+        "name": "最新消息"
+    },
+    {
+        "value": 2,
+        "name": "促销"
+    },
+    {
+        "value": 1,
+        "name": "活动"
+    },
+    {
+        "value": 3,
+        "name": "有个"
+    },
+    {
+        "value": 18,
+        "name": "品牌"
+    },
+    {
+        "value": 2,
+        "name": "放到"
+    },
+    {
+        "value": 1,
+        "name": "分"
+    },
+    {
+        "value": 2,
+        "name": "是因为"
+    },
+    {
+        "value": 2,
+        "name": "影响力"
+    },
+    {
+        "value": 1,
+        "name": "顺带"
+    },
+    {
+        "value": 1,
+        "name": "dm"
+    },
+    {
+        "value": 2,
+        "name": "f3"
+    },
+    {
+        "value": 2,
+        "name": "广告"
+    },
+    {
+        "value": 1,
+        "name": "里"
+    },
+    {
+        "value": 1,
+        "name": "拉底"
+    },
+    {
+        "value": 11,
+        "name": "营销"
+    },
+    {
+        "value": 2,
+        "name": "真让人"
+    },
+    {
+        "value": 1,
+        "name": "上火"
+    },
+    {
+        "value": 1,
+        "name": "指引"
+    },
+    {
+        "value": 1,
+        "name": "自愿"
+    },
+    {
+        "value": 3,
+        "name": "自动"
+    },
+    {
+        "value": 10,
+        "name": "无人驾驶"
+    },
+    {
+        "value": 2,
+        "name": "研究"
+    },
+    {
+        "value": 6,
+        "name": "客车"
+    },
+    {
+        "value": 3,
+        "name": "行业"
+    },
+    {
+        "value": 1,
+        "name": "发展趋势"
+    },
+    {
+        "value": 1,
+        "name": "进军"
+    },
+    {
+        "value": 2,
+        "name": "高性能"
+    },
+    {
+        "value": 2,
+        "name": "具备"
+    },
+    {
+        "value": 1,
+        "name": "条件"
+    },
+    {
+        "value": 1,
+        "name": "喜欢"
+    },
+    {
+        "value": 4,
+        "name": "客户"
+    },
+    {
+        "value": 1,
+        "name": "比唐"
+    },
+    {
+        "value": 1,
+        "name": "可行"
+    },
+    {
+        "value": 1,
+        "name": "慎重考虑"
+    },
+    {
+        "value": 1,
+        "name": "车芒"
+    },
+    {
+        "value": 1,
+        "name": "夏佐全"
+    },
+    {
+        "value": 2,
+        "name": "减持"
+    },
+    {
+        "value": 2,
+        "name": "同期"
+    },
+    {
+        "value": 2,
+        "name": "大幅度"
+    },
+    {
+        "value": 2,
+        "name": "夏"
+    },
+    {
+        "value": 2,
+        "name": "精准"
+    },
+    {
+        "value": 1,
+        "name": "股神"
+    },
+    {
+        "value": 4,
+        "name": "李"
+    },
+    {
+        "value": 4,
+        "name": "总"
+    },
+    {
+        "value": 1,
+        "name": "道"
+    },
+    {
+        "value": 1,
+        "name": "公共"
+    },
+    {
+        "value": 3,
+        "name": "停车场"
+    },
+    {
+        "value": 4,
+        "name": "免费"
+    },
+    {
+        "value": 1,
+        "name": "停车"
+    },
+    {
+        "value": 3,
+        "name": "小时"
+    },
+    {
+        "value": 2,
+        "name": "贵司"
+    },
+    {
+        "value": 5,
+        "name": "核心"
+    },
+    {
+        "value": 8,
+        "name": "竞争力"
+    },
+    {
+        "value": 1,
+        "name": "避而不答"
+    },
+    {
+        "value": 1,
+        "name": "先驱"
+    },
+    {
+        "value": 1,
+        "name": "颓废"
+    },
+    {
+        "value": 3,
+        "name": "成"
+    },
+    {
+        "value": 1,
+        "name": "先烈"
+    },
+    {
+        "value": 3,
+        "name": "两年"
+    },
+    {
+        "value": 2,
+        "name": "前"
+    },
+    {
+        "value": 4,
+        "name": "太"
+    },
+    {
+        "value": 1,
+        "name": "补助"
+    },
+    {
+        "value": 1,
+        "name": "日子"
+    },
+    {
+        "value": 1,
+        "name": "过得"
+    },
+    {
+        "value": 1,
+        "name": "逍遥"
+    },
+    {
+        "value": 1,
+        "name": "进"
+    },
+    {
+        "value": 3,
+        "name": "e6"
+    },
+    {
+        "value": 2,
+        "name": "区别"
+    },
+    {
+        "value": 1,
+        "name": "感谢"
+    },
+    {
+        "value": 2,
+        "name": "回复"
+    },
+    {
+        "value": 1,
+        "name": "续问"
+    },
+    {
+        "value": 1,
+        "name": "一项"
+    },
+    {
+        "value": 1,
+        "name": "强项"
+    },
+    {
+        "value": 1,
+        "name": "若"
+    },
+    {
+        "value": 1,
+        "name": "以"
+    },
+    {
+        "value": 1,
+        "name": "分制"
+    },
+    {
+        "value": 1,
+        "name": "衡量"
+    },
+    {
+        "value": 6,
+        "name": "吉利"
+    },
+    {
+        "value": 3,
+        "name": "长城"
+    },
+    {
+        "value": 1,
+        "name": "这"
+    },
+    {
+        "value": 1,
+        "name": "类"
+    },
+    {
+        "value": 1,
+        "name": "友商"
+    },
+    {
+        "value": 2,
+        "name": "难度"
+    },
+    {
+        "value": 1,
+        "name": "值有"
+    },
+    {
+        "value": 1,
+        "name": "几分"
+    },
+    {
+        "value": 1,
+        "name": "老实"
+    },
+    {
+        "value": 1,
+        "name": "油耗"
+    },
+    {
+        "value": 1,
+        "name": "指标"
+    },
+    {
+        "value": 1,
+        "name": "创始人"
+    },
+    {
+        "value": 3,
+        "name": "王传福"
+    },
+    {
+        "value": 1,
+        "name": "名"
+    },
+    {
+        "value": 7,
+        "name": "成立"
+    },
+    {
+        "value": 1,
+        "name": "传福纯"
+    },
+    {
+        "value": 2,
+        "name": "子"
+    },
+    {
+        "value": 1,
+        "name": "销售价格"
+    },
+    {
+        "value": 4,
+        "name": "亏损"
+    },
+    {
+        "value": 1,
+        "name": "公开"
+    },
+    {
+        "value": 2,
+        "name": "信息"
+    },
+    {
+        "value": 1,
+        "name": "单个"
+    },
+    {
+        "value": 13,
+        "name": "用户"
+    },
+    {
+        "value": 4,
+        "name": "订单"
+    },
+    {
+        "value": 1,
+        "name": "持续性"
+    },
+    {
+        "value": 1,
+        "name": "散乱"
+    },
+    {
+        "value": 2,
+        "name": "规模"
+    },
+    {
+        "value": 1,
+        "name": "车体"
+    },
+    {
+        "value": 1,
+        "name": "部件"
+    },
+    {
+        "value": 2,
+        "name": "采购"
+    },
+    {
+        "value": 2,
+        "name": "导致"
+    },
+    {
+        "value": 11,
+        "name": "成本"
+    },
+    {
+        "value": 1,
+        "name": "高昂"
+    },
+    {
+        "value": 5,
+        "name": "模式"
+    },
+    {
+        "value": 1,
+        "name": "反思"
+    },
+    {
+        "value": 2,
+        "name": "云"
+    },
+    {
+        "value": 1,
+        "name": "计算"
+    },
+    {
+        "value": 1,
+        "name": "合作伙伴"
+    },
+    {
+        "value": 8,
+        "name": "董秘"
+    },
+    {
+        "value": 1,
+        "name": "恨铁不成钢"
+    },
+    {
+        "value": 1,
+        "name": "贴子"
+    },
+    {
+        "value": 1,
+        "name": "一针见血"
+    },
+    {
+        "value": 2,
+        "name": "体系"
+    },
+    {
+        "value": 5,
+        "name": "换"
+    },
+    {
+        "value": 1,
+        "name": "思想"
+    },
+    {
+        "value": 1,
+        "name": "换人"
+    },
+    {
+        "value": 1,
+        "name": "留给"
+    },
+    {
+        "value": 4,
+        "name": "不"
+    },
+    {
+        "value": 1,
+        "name": "多"
+    },
+    {
+        "value": 1,
+        "name": "枉费"
+    },
+    {
+        "value": 1,
+        "name": "两万多"
+    },
+    {
+        "value": 1,
+        "name": "工程师"
+    },
+    {
+        "value": 1,
+        "name": "心血"
+    },
+    {
+        "value": 2,
+        "name": "官网"
+    },
+    {
+        "value": 1,
+        "name": "人员"
+    },
+    {
+        "value": 1,
+        "name": "招聘广告"
+    },
+    {
+        "value": 1,
+        "name": "错"
+    },
+    {
+        "value": 1,
+        "name": "多个"
+    },
+    {
+        "value": 1,
+        "name": "名企"
+    },
+    {
+        "value": 1,
+        "name": "队伍"
+    },
+    {
+        "value": 1,
+        "name": "赛"
+    },
+    {
+        "value": 1,
+        "name": "筛"
+    },
+    {
+        "value": 1,
+        "name": "高速成长"
+    },
+    {
+        "value": 1,
+        "name": "阶段"
+    },
+    {
+        "value": 1,
+        "name": "流动"
+    },
+    {
+        "value": 1,
+        "name": "～"
+    },
+    {
+        "value": 2,
+        "name": "30%"
+    },
+    {
+        "value": 1,
+        "name": "常态"
+    },
+    {
+        "value": 1,
+        "name": "https"
+    },
+    {
+        "value": 1,
+        "name": ":"
+    },
+    {
+        "value": 4,
+        "name": "/"
+    },
+    {
+        "value": 2,
+        "name": "m"
+    },
+    {
+        "value": 1,
+        "name": "weibo"
+    },
+    {
+        "value": 1,
+        "name": "cn"
+    },
+    {
+        "value": 2,
+        "name": "MAX"
+    },
+    {
+        "value": 2,
+        "name": "什"
+    },
+    {
+        "value": 2,
+        "name": "麽"
+    },
+    {
+        "value": 2,
+        "name": "上午"
+    },
+    {
+        "value": 1,
+        "name": "次"
+    },
+    {
+        "value": 1,
+        "name": "初期"
+    },
+    {
+        "value": 7,
+        "name": "产能"
+    },
+    {
+        "value": 1,
+        "name": "爬波"
+    },
+    {
+        "value": 2,
+        "name": "年初"
+    },
+    {
+        "value": 2,
+        "name": "定下"
+    },
+    {
+        "value": 3,
+        "name": "大巴"
+    },
+    {
+        "value": 2,
+        "name": "辆"
+    },
+    {
+        "value": 2,
+        "name": "目标"
+    },
+    {
+        "value": 1,
+        "name": "原材料"
+    },
+    {
+        "value": 1,
+        "name": "涨价"
+    },
+    {
+        "value": 1,
+        "name": "厉害"
+    },
+    {
+        "value": 5,
+        "name": "政府"
+    },
+    {
+        "value": 1,
+        "name": "力度"
+    },
+    {
+        "value": 1,
+        "name": "逐年"
+    },
+    {
+        "value": 2,
+        "name": "两"
+    },
+    {
+        "value": 2,
+        "name": "利润"
+    },
+    {
+        "value": 2,
+        "name": "面积"
+    },
+    {
+        "value": 1,
+        "name": "压"
+    },
+    {
+        "value": 1,
+        "name": "消除"
+    },
+    {
+        "value": 3,
+        "name": "增长"
+    },
+    {
+        "value": 1,
+        "name": "李先生"
+    },
+    {
+        "value": 1,
+        "name": "身边"
+    },
+    {
+        "value": 2,
+        "name": "推荐"
+    },
+    {
+        "value": 2,
+        "name": "成功"
+    },
+    {
+        "value": 1,
+        "name": "一例"
+    },
+    {
+        "value": 1,
+        "name": "万公里"
+    },
+    {
+        "value": 1,
+        "name": "司机"
+    },
+    {
+        "value": 1,
+        "name": "十五年"
+    },
+    {
+        "value": 2,
+        "name": "经验"
+    },
+    {
+        "value": 1,
+        "name": "郁闷"
+    },
+    {
+        "value": 1,
+        "name": "第二句"
+    },
+    {
+        "value": 1,
+        "name": "机会"
+    },
+    {
+        "value": 1,
+        "name": "排斥"
+    },
+    {
+        "value": 1,
+        "name": "昨天"
+    },
+    {
+        "value": 1,
+        "name": "同事"
+    },
+    {
+        "value": 2,
+        "name": "介绍"
+    },
+    {
+        "value": 6,
+        "name": "股票"
+    },
+    {
+        "value": 1,
+        "name": "津津有味"
+    },
+    {
+        "value": 1,
+        "name": "听"
+    },
+    {
+        "value": 1,
+        "name": "半小时"
+    },
+    {
+        "value": 1,
+        "name": "牛"
+    },
+    {
+        "value": 1,
+        "name": "感叹"
+    },
+    {
+        "value": 1,
+        "name": "信息点"
+    },
+    {
+        "value": 3,
+        "name": "间"
+    },
+    {
+        "value": 2,
+        "name": "闭环"
+    },
+    {
+        "value": 1,
+        "name": "流转"
+    },
+    {
+        "value": 1,
+        "name": "广宣"
+    },
+    {
+        "value": 2,
+        "name": "突破口"
+    },
+    {
+        "value": 1,
+        "name": "专业人士"
+    },
+    {
+        "value": 3,
+        "name": "…"
+    },
+    {
+        "value": 1,
+        "name": "过用"
+    },
+    {
+        "value": 3,
+        "name": "互联网"
+    },
+    {
+        "value": 1,
+        "name": "思维"
+    },
+    {
+        "value": 3,
+        "name": "卖车"
+    },
+    {
+        "value": 2,
+        "name": "购买"
+    },
+    {
+        "value": 16,
+        "name": "提升"
+    },
+    {
+        "value": 4,
+        "name": "租车"
+    },
+    {
+        "value": 2,
+        "name": "交"
+    },
+    {
+        "value": 1,
+        "name": "押金"
+    },
+    {
+        "value": 1,
+        "name": "租金"
+    },
+    {
+        "value": 1,
+        "name": "车开"
+    },
+    {
+        "value": 1,
+        "name": "回家"
+    },
+    {
+        "value": 2,
+        "name": "太高"
+    },
+    {
+        "value": 6,
+        "name": "共享"
+    },
+    {
+        "value": 1,
+        "name": "有求必应"
+    },
+    {
+        "value": 3,
+        "name": "按年"
+    },
+    {
+        "value": 3,
+        "name": "将会"
+    },
+    {
+        "value": 1,
+        "name": "汽车行业"
+    },
+    {
+        "value": 1,
+        "name": "革命性"
+    },
+    {
+        "value": 3,
+        "name": "改变"
+    },
+    {
+        "value": 3,
+        "name": "找"
+    },
+    {
+        "value": 4,
+        "name": "交易"
+    },
+    {
+        "value": 1,
+        "name": "交给"
+    },
+    {
+        "value": 1,
+        "name": "现"
+    },
+    {
+        "value": 4,
+        "name": "车主"
+    },
+    {
+        "value": 1,
+        "name": "相当于"
+    },
+    {
+        "value": 3,
+        "name": "二手车"
+    },
+    {
+        "value": 1,
+        "name": "操作"
+    },
+    {
+        "value": 2,
+        "name": "没什么"
+    },
+    {
+        "value": 1,
+        "name": "差别"
+    },
+    {
+        "value": 1,
+        "name": "作"
+    },
+    {
+        "value": 1,
+        "name": "抢占"
+    },
+    {
+        "value": 2,
+        "name": "先机"
+    },
+    {
+        "value": 1,
+        "name": "接上"
+    },
+    {
+        "value": 1,
+        "name": "篇"
+    },
+    {
+        "value": 3,
+        "name": "买车"
+    },
+    {
+        "value": 1,
+        "name": "是从"
+    },
+    {
+        "value": 1,
+        "name": "贷款"
+    },
+    {
+        "value": 1,
+        "name": "变化"
+    },
+    {
+        "value": 1,
+        "name": "口号"
+    },
+    {
+        "value": 2,
+        "name": "变"
+    },
+    {
+        "value": 2,
+        "name": "服务公司"
+    },
+    {
+        "value": 1,
+        "name": "好坏"
+    },
+    {
+        "value": 1,
+        "name": "取决于"
+    },
+    {
+        "value": 2,
+        "name": "服务质量"
+    },
+    {
+        "value": 1,
+        "name": "积累"
+    },
+    {
+        "value": 1,
+        "name": "行车"
+    },
+    {
+        "value": 4,
+        "name": "数据"
+    },
+    {
+        "value": 1,
+        "name": "信用"
+    },
+    {
+        "value": 1,
+        "name": "高可靠性"
+    },
+    {
+        "value": 1,
+        "name": "后付费"
+    },
+    {
+        "value": 2,
+        "name": "终身"
+    },
+    {
+        "value": 1,
+        "name": "绑定"
+    },
+    {
+        "value": 1,
+        "name": "付费"
+    },
+    {
+        "value": 1,
+        "name": "详聊"
+    },
+    {
+        "value": 1,
+        "name": "请发"
+    },
+    {
+        "value": 1,
+        "name": "mail"
+    },
+    {
+        "value": 1,
+        "name": "ninghao37"
+    },
+    {
+        "value": 1,
+        "name": "com"
+    },
+    {
+        "value": 1,
+        "name": "我常"
+    },
+    {
+        "value": 1,
+        "name": "答"
+    },
+    {
+        "value": 4,
+        "name": "投资者"
+    },
+    {
+        "value": 1,
+        "name": "文采"
+    },
+    {
+        "value": 1,
+        "name": "飞扬"
+    },
+    {
+        "value": 1,
+        "name": "机智幽默"
+    },
+    {
+        "value": 2,
+        "name": "一种"
+    },
+    {
+        "value": 2,
+        "name": "享受"
+    },
+    {
+        "value": 1,
+        "name": "耐心"
+    },
+    {
+        "value": 1,
+        "name": "礼貌"
+    },
+    {
+        "value": 1,
+        "name": "A股"
+    },
+    {
+        "value": 1,
+        "name": "提法"
+    },
+    {
+        "value": 1,
+        "name": "意见"
+    },
+    {
+        "value": 1,
+        "name": "企业管理者"
+    },
+    {
+        "value": 1,
+        "name": "管理"
+    },
+    {
+        "value": 1,
+        "name": "内容"
+    },
+    {
+        "value": 1,
+        "name": "高估"
+    },
+    {
+        "value": 1,
+        "name": "低估"
+    },
+    {
+        "value": 1,
+        "name": "沟通"
+    },
+    {
+        "value": 4,
+        "name": "价值"
+    },
+    {
+        "value": 1,
+        "name": "正确"
+    },
+    {
+        "value": 2,
+        "name": "形象"
+    },
+    {
+        "value": 1,
+        "name": "信任"
+    },
+    {
+        "value": 1,
+        "name": "良性循环"
+    },
+    {
+        "value": 1,
+        "name": "分拆"
+    },
+    {
+        "value": 1,
+        "name": "成交"
+    },
+    {
+        "value": 1,
+        "name": "意愿"
+    },
+    {
+        "value": 2,
+        "name": "判断"
+    },
+    {
+        "value": 5,
+        "name": "增加"
+    },
+    {
+        "value": 2,
+        "name": "负债"
+    },
+    {
+        "value": 3,
+        "name": "风险"
+    },
+    {
+        "value": 1,
+        "name": "售车"
+    },
+    {
+        "value": 1,
+        "name": "建立"
+    },
+    {
+        "value": 1,
+        "name": "完善"
+    },
+    {
+        "value": 1,
+        "name": "直营店"
+    },
+    {
+        "value": 1,
+        "name": "直营"
+    },
+    {
+        "value": 2,
+        "name": "出租"
+    },
+    {
+        "value": 3,
+        "name": "功能"
+    },
+    {
+        "value": 8,
+        "name": "特斯拉"
+    },
+    {
+        "value": 1,
+        "name": "玩"
+    },
+    {
+        "value": 1,
+        "name": "长安"
+    },
+    {
+        "value": 2,
+        "name": "系统"
+    },
+    {
+        "value": 3,
+        "name": "不错"
+    },
+    {
+        "value": 1,
+        "name": "技术储备"
+    },
+    {
+        "value": 1,
+        "name": "没用到"
+    },
+    {
+        "value": 1,
+        "name": "实处"
+    },
+    {
+        "value": 1,
+        "name": "等于"
+    },
+    {
+        "value": 2,
+        "name": "逼格"
+    },
+    {
+        "value": 2,
+        "name": "置换"
+    },
+    {
+        "value": 4,
+        "name": "广安"
+    },
+    {
+        "value": 3,
+        "name": "建设"
+    },
+    {
+        "value": 1,
+        "name": "试运行"
+    },
+    {
+        "value": 1,
+        "name": "雄安"
+    },
+    {
+        "value": 1,
+        "name": "新区"
+    },
+    {
+        "value": 1,
+        "name": "实质性"
+    },
+    {
+        "value": 3,
+        "name": "进展"
+    },
+    {
+        "value": 7,
+        "name": "纯电"
+    },
+    {
+        "value": 1,
+        "name": "路线"
+    },
+    {
+        "value": 4,
+        "name": "厂商"
+    },
+    {
+        "value": 3,
+        "name": "有何"
+    },
+    {
+        "value": 2,
+        "name": "主流"
+    },
+    {
+        "value": 5,
+        "name": "方向"
+    },
+    {
+        "value": 6,
+        "name": "电机"
+    },
+    {
+        "value": 3,
+        "name": "驱动"
+    },
+    {
+        "value": 1,
+        "name": "放电"
+    },
+    {
+        "value": 1,
+        "name": "倍率"
+    },
+    {
+        "value": 2,
+        "name": "加速"
+    },
+    {
+        "value": 3,
+        "name": "轮边"
+    },
+    {
+        "value": 1,
+        "name": "迟迟"
+    },
+    {
+        "value": 3,
+        "name": "强大"
+    },
+    {
+        "value": 5,
+        "name": "竞争对手"
+    },
+    {
+        "value": 1,
+        "name": "过渡"
+    },
+    {
+        "value": 1,
+        "name": "最终"
+    },
+    {
+        "value": 1,
+        "name": "纯电是"
+    },
+    {
+        "value": 1,
+        "name": "共识"
+    },
+    {
+        "value": 1,
+        "name": "船夫"
+    },
+    {
+        "value": 1,
+        "name": "哥"
+    },
+    {
+        "value": 7,
+        "name": "买"
+    },
+    {
+        "value": 1,
+        "name": "被套"
+    },
+    {
+        "value": 1,
+        "name": "解套"
+    },
+    {
+        "value": 4,
+        "name": "丰田"
+    },
+    {
+        "value": 1,
+        "name": "广为人知"
+    },
+    {
+        "value": 1,
+        "name": "产出"
+    },
+    {
+        "value": 1,
+        "name": "库存"
+    },
+    {
+        "value": 1,
+        "name": "周转"
+    },
+    {
+        "value": 1,
+        "name": "交期"
+    },
+    {
+        "value": 3,
+        "name": "世界"
+    },
+    {
+        "value": 1,
+        "name": "一流"
+    },
+    {
+        "value": 5,
+        "name": "工厂"
+    },
+    {
+        "value": 4,
+        "name": "差距"
+    },
+    {
+        "value": 1,
+        "name": "e5DM"
+    },
+    {
+        "value": 7,
+        "name": "上市"
+    },
+    {
+        "value": 1,
+        "name": "G5DM"
+    },
+    {
+        "value": 5,
+        "name": "定位"
+    },
+    {
+        "value": 1,
+        "name": "两驱"
+    },
+    {
+        "value": 2,
+        "name": "版本"
+    },
+    {
+        "value": 1,
+        "name": "惠州"
+    },
+    {
+        "value": 1,
+        "name": "bsc"
+    },
+    {
+        "value": 4,
+        "name": "情况"
+    },
+    {
+        "value": 1,
+        "name": "博世"
+    },
+    {
+        "value": 1,
+        "name": "esp"
+    },
+    {
+        "value": 1,
+        "name": "哪款"
+    },
+    {
+        "value": 3,
+        "name": "开发"
+    },
+    {
+        "value": 1,
+        "name": "插"
+    },
+    {
+        "value": 2,
+        "name": "混"
+    },
+    {
+        "value": 2,
+        "name": "省油"
+    },
+    {
+        "value": 1,
+        "name": "车站"
+    },
+    {
+        "value": 3,
+        "name": "充"
+    },
+    {
+        "value": 1,
+        "name": "跨城"
+    },
+    {
+        "value": 1,
+        "name": "跨省"
+    },
+    {
+        "value": 1,
+        "name": "出行"
+    },
+    {
+        "value": 1,
+        "name": "惊悉"
+    },
+    {
+        "value": 3,
+        "name": "花博园"
+    },
+    {
+        "value": 3,
+        "name": "长久"
+    },
+    {
+        "value": 6,
+        "name": "运营"
+    },
+    {
+        "value": 1,
+        "name": "冬天"
+    },
+    {
+        "value": 1,
+        "name": "夏天"
+    },
+    {
+        "value": 1,
+        "name": "游客"
+    },
+    {
+        "value": 1,
+        "name": "空"
+    },
+    {
+        "value": 1,
+        "name": "生锈"
+    },
+    {
+        "value": 5,
+        "name": "王总"
+    },
+    {
+        "value": 1,
+        "name": "现阶段"
+    },
+    {
+        "value": 2,
+        "name": "产品线"
+    },
+    {
+        "value": 2,
+        "name": "长"
+    },
+    {
+        "value": 3,
+        "name": "聚焦"
+    },
+    {
+        "value": 3,
+        "name": "单品"
+    },
+    {
+        "value": 1,
+        "name": "切入点"
+    },
+    {
+        "value": 1,
+        "name": "超跑"
+    },
+    {
+        "value": 2,
+        "name": "SUV"
+    },
+    {
+        "value": 1,
+        "name": "迷你车"
+    },
+    {
+        "value": 2,
+        "name": "型"
+    },
+    {
+        "value": 4,
+        "name": "做好"
+    },
+    {
+        "value": 2,
+        "name": "体验"
+    },
+    {
+        "value": 1,
+        "name": "时尚"
+    },
+    {
+        "value": 1,
+        "name": "引领"
+    },
+    {
+        "value": 2,
+        "name": "抓住"
+    },
+    {
+        "value": 1,
+        "name": "心理特点"
+    },
+    {
+        "value": 1,
+        "name": "斯巴鲁"
+    },
+    {
+        "value": 1,
+        "name": "JEEP"
+    },
+    {
+        "value": 1,
+        "name": "地盘"
+    },
+    {
+        "value": 1,
+        "name": "紧凑"
+    },
+    {
+        "value": 1,
+        "name": "松散"
+    },
+    {
+        "value": 1,
+        "name": "刹车"
+    },
+    {
+        "value": 1,
+        "name": "偏软"
+    },
+    {
+        "value": 1,
+        "name": "B"
+    },
+    {
+        "value": 1,
+        "name": "柱门"
+    },
+    {
+        "value": 1,
+        "name": "开度"
+    },
+    {
+        "value": 1,
+        "name": "持有"
+    },
+    {
+        "value": 1,
+        "name": "BYD"
+    },
+    {
+        "value": 1,
+        "name": "无人"
+    },
+    {
+        "value": 1,
+        "name": "人工智能"
+    },
+    {
+        "value": 1,
+        "name": "家"
+    },
+    {
+        "value": 4,
+        "name": "租赁"
+    },
+    {
+        "value": 5,
+        "name": "经营"
+    },
+    {
+        "value": 2,
+        "name": "接受"
+    },
+    {
+        "value": 2,
+        "name": "媒体"
+    },
+    {
+        "value": 1,
+        "name": "专访"
+    },
+    {
+        "value": 7,
+        "name": "A00"
+    },
+    {
+        "value": 2,
+        "name": "级"
+    },
+    {
+        "value": 1,
+        "name": "信息沟通"
+    },
+    {
+        "value": 1,
+        "name": "畅"
+    },
+    {
+        "value": 1,
+        "name": "临时"
+    },
+    {
+        "value": 1,
+        "name": "意"
+    },
+    {
+        "value": 1,
+        "name": "会新设"
+    },
+    {
+        "value": 1,
+        "name": "拉低"
+    },
+    {
+        "value": 1,
+        "name": "品牌形象"
+    },
+    {
+        "value": 1,
+        "name": "北汽"
+    },
+    {
+        "value": 1,
+        "name": "ec"
+    },
+    {
+        "value": 1,
+        "name": "奇瑞"
+    },
+    {
+        "value": 1,
+        "name": "eQ"
+    },
+    {
+        "value": 1,
+        "name": "每条"
+    },
+    {
+        "value": 4,
+        "name": "轨道交通"
+    },
+    {
+        "value": 1,
+        "name": "运行"
+    },
+    {
+        "value": 5,
+        "name": "测试"
+    },
+    {
+        "value": 2,
+        "name": "交付"
+    },
+    {
+        "value": 2,
+        "name": "几个"
+    },
+    {
+        "value": 3,
+        "name": "地铁"
+    },
+    {
+        "value": 2,
+        "name": "单轨"
+    },
+    {
+        "value": 2,
+        "name": "成熟"
+    },
+    {
+        "value": 2,
+        "name": "内部测试"
+    },
+    {
+        "value": 1,
+        "name": "认证"
+    },
+    {
+        "value": 1,
+        "name": "自说自话"
+    },
+    {
+        "value": 1,
+        "name": "算数"
+    },
+    {
+        "value": 3,
+        "name": "线路"
+    },
+    {
+        "value": 2,
+        "name": "半个"
+    },
+    {
+        "value": 2,
+        "name": "这太"
+    },
+    {
+        "value": 1,
+        "name": "草率"
+    },
+    {
+        "value": 2,
+        "name": "公共交通"
+    },
+    {
+        "value": 2,
+        "name": "第一"
+    },
+    {
+        "value": 1,
+        "name": "忘记"
+    },
+    {
+        "value": 1,
+        "name": "高铁"
+    },
+    {
+        "value": 1,
+        "name": "惨痛教训"
+    },
+    {
+        "value": 1,
+        "name": "中铁"
+    },
+    {
+        "value": 1,
+        "name": "地能"
+    },
+    {
+        "value": 1,
+        "name": "效益"
+    },
+    {
+        "value": 1,
+        "name": "引进人才"
+    },
+    {
+        "value": 1,
+        "name": "战略规划"
+    },
+    {
+        "value": 6,
+        "name": "感觉"
+    },
+    {
+        "value": 1,
+        "name": "一两年"
+    },
+    {
+        "value": 1,
+        "name": "较慢"
+    },
+    {
+        "value": 1,
+        "name": "珈"
+    },
+    {
+        "value": 1,
+        "name": "伟"
+    },
+    {
+        "value": 3,
+        "name": "股份"
+    },
+    {
+        "value": 4,
+        "name": "发布"
+    },
+    {
+        "value": 5,
+        "name": "固态"
+    },
+    {
+        "value": 1,
+        "name": "快充"
+    },
+    {
+        "value": 1,
+        "name": "合体"
+    },
+    {
+        "value": 1,
+        "name": "猛攻"
+    },
+    {
+        "value": 1,
+        "name": "横店"
+    },
+    {
+        "value": 1,
+        "name": "东磁"
+    },
+    {
+        "value": 1,
+        "name": "纷纷表示"
+    },
+    {
+        "value": 3,
+        "name": "布局"
+    },
+    {
+        "value": 1,
+        "name": "程度"
+    },
+    {
+        "value": 6,
+        "name": "秦"
+    },
+    {
+        "value": 1,
+        "name": "换装"
+    },
+    {
+        "value": 1,
+        "name": "隔热"
+    },
+    {
+        "value": 2,
+        "name": "玻璃"
+    },
+    {
+        "value": 1,
+        "name": "隐私"
+    },
+    {
+        "value": 2,
+        "name": "提"
+    },
+    {
+        "value": 1,
+        "name": "牌子"
+    },
+    {
+        "value": 1,
+        "name": "不改"
+    },
+    {
+        "value": 2,
+        "name": "难"
+    },
+    {
+        "value": 3,
+        "name": "上汽"
+    },
+    {
+        "value": 1,
+        "name": "广汽"
+    },
+    {
+        "value": 4,
+        "name": "宇通"
+    },
+    {
+        "value": 1,
+        "name": "中车"
+    },
+    {
+        "value": 1,
+        "name": "隆基"
+    },
+    {
+        "value": 1,
+        "name": "独家"
+    },
+    {
+        "value": 1,
+        "name": "生意"
+    },
+    {
+        "value": 1,
+        "name": "重量级"
+    },
+    {
+        "value": 1,
+        "name": "中国"
+    },
+    {
+        "value": 1,
+        "name": "优秀"
+    },
+    {
+        "value": 3,
+        "name": "产业"
+    },
+    {
+        "value": 1,
+        "name": "局面"
+    },
+    {
+        "value": 1,
+        "name": "组织"
+    },
+    {
+        "value": 1,
+        "name": "管理体系"
+    },
+    {
+        "value": 1,
+        "name": "开放"
+    },
+    {
+        "value": 2,
+        "name": "很难"
+    },
+    {
+        "value": 1,
+        "name": "打赢"
+    },
+    {
+        "value": 1,
+        "name": "华为"
+    },
+    {
+        "value": 3,
+        "name": "学习"
+    },
+    {
+        "value": 1,
+        "name": "大半年"
+    },
+    {
+        "value": 1,
+        "name": "报"
+    },
+    {
+        "value": 1,
+        "name": "以旧换新"
+    },
+    {
+        "value": 3,
+        "name": "e5"
+    },
+    {
+        "value": 1,
+        "name": "ev"
+    },
+    {
+        "value": 1,
+        "name": "使用手册"
+    },
+    {
+        "value": 3,
+        "name": "版"
+    },
+    {
+        "value": 1,
+        "name": "更新"
+    },
+    {
+        "value": 3,
+        "name": "款"
+    },
+    {
+        "value": 1,
+        "name": "棋盘"
+    },
+    {
+        "value": 2,
+        "name": "化"
+    },
+    {
+        "value": 1,
+        "name": "道路网"
+    },
+    {
+        "value": 7,
+        "name": "规划"
+    },
+    {
+        "value": 2,
+        "name": "简单"
+    },
+    {
+        "value": 5,
+        "name": "出租车"
+    },
+    {
+        "value": 1,
+        "name": "技术难度"
+    },
+    {
+        "value": 1,
+        "name": "小于"
+    },
+    {
+        "value": 1,
+        "name": "修在"
+    },
+    {
+        "value": 4,
+        "name": "商住"
+    },
+    {
+        "value": 5,
+        "name": "综合体"
+    },
+    {
+        "value": 1,
+        "name": "地下"
+    },
+    {
+        "value": 3,
+        "name": "车辆"
+    },
+    {
+        "value": 1,
+        "name": "供电"
+    },
+    {
+        "value": 3,
+        "name": "速度"
+    },
+    {
+        "value": 1,
+        "name": "很快"
+    },
+    {
+        "value": 1,
+        "name": "市民"
+    },
+    {
+        "value": 1,
+        "name": "网约"
+    },
+    {
+        "value": 1,
+        "name": "出库"
+    },
+    {
+        "value": 1,
+        "name": "接客"
+    },
+    {
+        "value": 1,
+        "name": "到达"
+    },
+    {
+        "value": 1,
+        "name": "目的地"
+    },
+    {
+        "value": 1,
+        "name": "打车"
+    },
+    {
+        "value": 1,
+        "name": "远远"
+    },
+    {
+        "value": 1,
+        "name": "低于"
+    },
+    {
+        "value": 1,
+        "name": "城里"
+    },
+    {
+        "value": 1,
+        "name": "外迁"
+    },
+    {
+        "value": 1,
+        "name": "郊区"
+    },
+    {
+        "value": 1,
+        "name": "节约"
+    },
+    {
+        "value": 1,
+        "name": "市区"
+    },
+    {
+        "value": 1,
+        "name": "地面"
+    },
+    {
+        "value": 1,
+        "name": "短短"
+    },
+    {
+        "value": 3,
+        "name": "投入"
+    },
+    {
+        "value": 1,
+        "name": "短"
+    },
+    {
+        "value": 1,
+        "name": "太仓促"
+    },
+    {
+        "value": 1,
+        "name": "注重"
+    },
+    {
+        "value": 1,
+        "name": "掌"
+    },
+    {
+        "value": 2,
+        "name": "盐湖"
+    },
+    {
+        "value": 1,
+        "name": "提取"
+    },
+    {
+        "value": 2,
+        "name": "锂"
+    },
+    {
+        "value": 2,
+        "name": "核心技术"
+    },
+    {
+        "value": 1,
+        "name": "花博会"
+    },
+    {
+        "value": 1,
+        "name": "展示"
+    },
+    {
+        "value": 1,
+        "name": "多牛"
+    },
+    {
+        "value": 1,
+        "name": "逼"
+    },
+    {
+        "value": 5,
+        "name": "平台"
+    },
+    {
+        "value": 1,
+        "name": "特色"
+    },
+    {
+        "value": 1,
+        "name": "创新"
+    },
+    {
+        "value": 1,
+        "name": "Max"
+    },
+    {
+        "value": 1,
+        "name": "是否是"
+    },
+    {
+        "value": 1,
+        "name": "全"
+    },
+    {
+        "value": 2,
+        "name": "燃油"
+    },
+    {
+        "value": 1,
+        "name": "生产线"
+    },
+    {
+        "value": 1,
+        "name": "共线"
+    },
+    {
+        "value": 1,
+        "name": "车轮"
+    },
+    {
+        "value": 2,
+        "name": "旁边"
+    },
+    {
+        "value": 1,
+        "name": "按个"
+    },
+    {
+        "value": 1,
+        "name": "轮子"
+    },
+    {
+        "value": 1,
+        "name": "加个"
+    },
+
+    {
+        "value": 1,
+        "name": "这有"
+    },
+    {
+        "value": 1,
+        "name": "技术含量"
+    },
+    {
+        "value": 1,
+        "name": "多一点"
+    },
+    {
+        "value": 1,
+        "name": "资本"
+    },
+    {
+        "value": 1,
+        "name": "看好"
+    },
+    {
+        "value": 1,
+        "name": "别老是"
+    },
+    {
+        "value": 2,
+        "name": "巴菲特"
+    },
+    {
+        "value": 1,
+        "name": "事行"
+    },
+    {
+        "value": 1,
+        "name": "毛病"
+    },
+    {
+        "value": 3,
+        "name": "品质"
+    },
+    {
+        "value": 1,
+        "name": "股票价格"
+    },
+    {
+        "value": 2,
+        "name": "长期"
+    },
+    {
+        "value": 2,
+        "name": "低迷"
+    },
+    {
+        "value": 2,
+        "name": "不行"
+    },
+    {
+        "value": 2,
+        "name": "涨"
+    },
+    {
+        "value": 2,
+        "name": "净利"
+    },
+    {
+        "value": 1,
+        "name": "要变"
+    },
+    {
+        "value": 1,
+        "name": "一变"
+    },
+    {
+        "value": 2,
+        "name": "民族"
+    },
+    {
+        "value": 2,
+        "name": "合资"
+    },
+    {
+        "value": 1,
+        "name": "同价位"
+    },
+    {
+        "value": 1,
+        "name": "搭配"
+    },
+    {
+        "value": 2,
+        "name": "配置"
+    },
+    {
+        "value": 1,
+        "name": "选用"
+    },
+    {
+        "value": 1,
+        "name": "消费"
+    },
+    {
+        "value": 1,
+        "name": "理性"
+    },
+    {
+        "value": 1,
+        "name": "付出"
+    },
+    {
+        "value": 2,
+        "name": "期待"
+    },
+    {
+        "value": 1,
+        "name": "越做越"
+    },
+    {
+        "value": 1,
+        "name": "加油"
+    },
+    {
+        "value": 5,
+        "name": "EV"
+    },
+    {
+        "value": 1,
+        "name": "我开"
+    },
+    {
+        "value": 1,
+        "name": "多公里"
+    },
+    {
+        "value": 1,
+        "name": "衰减"
+    },
+    {
+        "value": 1,
+        "name": "做工"
+    },
+    {
+        "value": 1,
+        "name": "精细"
+    },
+    {
+        "value": 1,
+        "name": "扎实"
+    },
+    {
+        "value": 1,
+        "name": "操控"
+    },
+    {
+        "value": 1,
+        "name": "远超"
+    },
+    {
+        "value": 1,
+        "name": "期望"
+    },
+    {
+        "value": 1,
+        "name": "壳子"
+    },
+    {
+        "value": 1,
+        "name": "迎合"
+    },
+    {
+        "value": 1,
+        "name": "限购"
+    },
+    {
+        "value": 1,
+        "name": "没想到"
+    },
+    {
+        "value": 1,
+        "name": "出色"
+    },
+    {
+        "value": 1,
+        "name": "再接再厉"
+    },
+    {
+        "value": 1,
+        "name": "青睐"
+    },
+    {
+        "value": 1,
+        "name": "一部"
+    },
+    {
+        "value": 1,
+        "name": "PS"
+    },
+    {
+        "value": 2,
+        "name": "一名"
+    },
+    {
+        "value": 1,
+        "name": "坚定"
+    },
+    {
+        "value": 1,
+        "name": "成长"
+    },
+    {
+        "value": 1,
+        "name": "有用"
+    },
+    {
+        "value": 5,
+        "name": "青海"
+    },
+    {
+        "value": 1,
+        "name": "基地"
+    },
+    {
+        "value": 1,
+        "name": "起伏"
+    },
+    {
+        "value": 2,
+        "name": "月销"
+    },
+    {
+        "value": 1,
+        "name": "高峰"
+    },
+    {
+        "value": 1,
+        "name": "几百"
+    },
+    {
+        "value": 2,
+        "name": "协调"
+    },
+    {
+        "value": 1,
+        "name": "产线"
+    },
+    {
+        "value": 2,
+        "name": "通用"
+    },
+    {
+        "value": 1,
+        "name": "利用率"
+    },
+    {
+        "value": 3,
+        "name": "五"
+    },
+    {
+        "value": 1,
+        "name": "大块"
+    },
+    {
+        "value": 1,
+        "name": "力量"
+    },
+    {
+        "value": 1,
+        "name": "投放"
+    },
+    {
+        "value": 1,
+        "name": "板块"
+    },
+    {
+        "value": 1,
+        "name": "确保"
+    },
+    {
+        "value": 2,
+        "name": "专注"
+    },
+    {
+        "value": 2,
+        "name": "220V"
+    },
+    {
+        "value": 1,
+        "name": "7KW"
+    },
+    {
+        "value": 1,
+        "name": "100%"
+    },
+    {
+        "value": 1,
+        "name": "度电约"
+    },
+    {
+        "value": 1,
+        "name": "正好"
+    },
+    {
+        "value": 1,
+        "name": "上班时间"
+    },
+    {
+        "value": 1,
+        "name": "充满"
+    },
+    {
+        "value": 1,
+        "name": "约莫"
+    },
+    {
+        "value": 1,
+        "name": "跑"
+    },
+    {
+        "value": 3,
+        "name": "电耗"
+    },
+    {
+        "value": 3,
+        "name": "约"
+    },
+    {
+        "value": 1,
+        "name": "度电"
+    },
+    {
+        "value": 2,
+        "name": "意义"
+    },
+    {
+        "value": 1,
+        "name": "能充"
+    },
+    {
+        "value": 1,
+        "name": "多度"
+    },
+    {
+        "value": 2,
+        "name": "百公里"
+    },
+    {
+        "value": 1,
+        "name": "天花板"
+    },
+    {
+        "value": 1,
+        "name": "抱负"
+    },
+    {
+        "value": 1,
+        "name": "实业"
+    },
+    {
+        "value": 1,
+        "name": "民企"
+    },
+    {
+        "value": 1,
+        "name": "本质"
+    },
+    {
+        "value": 2,
+        "name": "车企"
+    },
+    {
+        "value": 2,
+        "name": "格局"
+    },
+    {
+        "value": 1,
+        "name": "横跨"
+    },
+    {
+        "value": 1,
+        "name": "能源"
+    },
+    {
+        "value": 1,
+        "name": "交通"
+    },
+    {
+        "value": 1,
+        "name": "环保"
+    },
+    {
+        "value": 5,
+        "name": "提供"
+    },
+    {
+        "value": 1,
+        "name": "整体"
+    },
+    {
+        "value": 1,
+        "name": "解决方案"
+    },
+    {
+        "value": 2,
+        "name": "自我"
+    },
+    {
+        "value": 4,
+        "name": "评估"
+    },
+    {
+        "value": 1,
+        "name": "几何"
+    },
+    {
+        "value": 1,
+        "name": "高管"
+    },
+    {
+        "value": 4,
+        "name": "团队"
+    },
+    {
+        "value": 3,
+        "name": "短板"
+    },
+    {
+        "value": 1,
+        "name": "听到"
+    },
+    {
+        "value": 1,
+        "name": "争议"
+    },
+    {
+        "value": 1,
+        "name": "单独"
+    },
+    {
+        "value": 1,
+        "name": "每"
+    },
+    {
+        "value": 1,
+        "name": "项"
+    },
+    {
+        "value": 1,
+        "name": "不难"
+    },
+    {
+        "value": 1,
+        "name": "几样"
+    },
+    {
+        "value": 1,
+        "name": "台"
+    },
+    {
+        "value": 1,
+        "name": "车上"
+    },
+    {
+        "value": 2,
+        "name": "厂家"
+    },
+    {
+        "value": 1,
+        "name": "理解"
+    },
+    {
+        "value": 1,
+        "name": "引入"
+    },
+    {
+        "value": 1,
+        "name": "经销商"
+    },
+    {
+        "value": 1,
+        "name": "持股"
+    },
+    {
+        "value": 7,
+        "name": "一款"
+    },
+    {
+        "value": 2,
+        "name": "高端"
+    },
+    {
+        "value": 2,
+        "name": "质量"
+    },
+    {
+        "value": 3,
+        "name": "科技"
+    },
+    {
+        "value": 1,
+        "name": "充分保证"
+    },
+    {
+        "value": 2,
+        "name": "基础"
+    },
+    {
+        "value": 5,
+        "name": "服务"
+    },
+    {
+        "value": 1,
+        "name": "在外"
+    },
+    {
+        "value": 2,
+        "name": "代驾"
+    },
+    {
+        "value": 2,
+        "name": "事故"
+    },
+    {
+        "value": 1,
+        "name": "非核心"
+    },
+    {
+        "value": 1,
+        "name": "配件"
+    },
+    {
+        "value": 1,
+        "name": "更换"
+    },
+    {
+        "value": 1,
+        "name": "定期"
+    },
+    {
+        "value": 1,
+        "name": "上门"
+    },
+    {
+        "value": 1,
+        "name": "保养"
+    },
+    {
+        "value": 1,
+        "name": "平时"
+    },
+    {
+        "value": 2,
+        "name": "用车"
+    },
+    {
+        "value": 1,
+        "name": "琐碎"
+    },
+    {
+        "value": 1,
+        "name": "一并"
+    },
+    {
+        "value": 1,
+        "name": "售价"
+    },
+    {
+        "value": 1,
+        "name": "跟上"
+    },
+    {
+        "value": 1,
+        "name": "前期"
+    },
+    {
+        "value": 1,
+        "name": "限量"
+    },
+    {
+        "value": 1,
+        "name": "求"
+    },
+    {
+        "value": 2,
+        "name": "盈利"
+    },
+    {
+        "value": 1,
+        "name": "人群"
+    },
+    {
+        "value": 3,
+        "name": "口碑"
+    },
+    {
+        "value": 1,
+        "name": "提个"
+    },
+    {
+        "value": 2,
+        "name": "精简"
+    },
+    {
+        "value": 1,
+        "name": "百万"
+    },
+    {
+        "value": 1,
+        "name": "感"
+    },
+    {
+        "value": 1,
+        "name": "十足"
+    },
+    {
+        "value": 1,
+        "name": "拉高"
+    },
+    {
+        "value": 1,
+        "name": "档次"
+    },
+    {
+        "value": 3,
+        "name": "二"
+    },
+    {
+        "value": 1,
+        "name": "中端"
+    },
+    {
+        "value": 1,
+        "name": "商务人士"
+    },
+    {
+        "value": 1,
+        "name": "三"
+    },
+    {
+        "value": 1,
+        "name": "四"
+    },
+    {
+        "value": 1,
+        "name": "低端"
+    },
+    {
+        "value": 1,
+        "name": "新手"
+    },
+    {
+        "value": 1,
+        "name": "保护"
+    },
+    {
+        "value": 1,
+        "name": "用于"
+    },
+    {
+        "value": 1,
+        "name": "短途"
+    },
+    {
+        "value": 2,
+        "name": "代步"
+    },
+    {
+        "value": 1,
+        "name": "两座"
+    },
+    {
+        "value": 2,
+        "name": "电车"
+    },
+    {
+        "value": 1,
+        "name": "缓出"
+    },
+    {
+        "value": 1,
+        "name": "出"
+    },
+    {
+        "value": 1,
+        "name": "太弱"
+    },
+    {
+        "value": 2,
+        "name": "地方"
+    },
+    {
+        "value": 1,
+        "name": "资金来源"
+    },
+    {
+        "value": 2,
+        "name": "解决"
+    },
+    {
+        "value": 1,
+        "name": "大额"
+    },
+    {
+        "value": 4,
+        "name": "资金"
+    },
+    {
+        "value": 1,
+        "name": "占用"
+    },
+    {
+        "value": 3,
+        "name": "大幅"
+    },
+    {
+        "value": 1,
+        "name": "借款"
+    },
+    {
+        "value": 1,
+        "name": "发行"
+    },
+    {
+        "value": 1,
+        "name": "债券"
+    },
+    {
+        "value": 1,
+        "name": "募集"
+    },
+    {
+        "value": 1,
+        "name": "借用"
+    },
+    {
+        "value": 1,
+        "name": "流动资金"
+    },
+    {
+        "value": 1,
+        "name": "状况"
+    },
+    {
+        "value": 3,
+        "name": "应对"
+    },
+    {
+        "value": 1,
+        "name": "外籍"
+    },
+    {
+        "value": 3,
+        "name": "专家"
+    },
+    {
+        "value": 2,
+        "name": "艾格"
+    },
+    {
+        "value": 1,
+        "name": "设计师"
+    },
+    {
+        "value": 1,
+        "name": "奔驰"
+    },
+    {
+        "value": 1,
+        "name": "日本"
+    },
+    {
+        "value": 1,
+        "name": "模具"
+    },
+    {
+        "value": 1,
+        "name": "F1"
+    },
+    {
+        "value": 1,
+        "name": "赛车手"
+    },
+    {
+        "value": 1,
+        "name": "人才"
+    },
+    {
+        "value": 2,
+        "name": "梯队"
+    },
+    {
+        "value": 1,
+        "name": "北美"
+    },
+    {
+        "value": 1,
+        "name": "家里"
+    },
+    {
+        "value": 1,
+        "name": "自带"
+    },
+    {
+        "value": 1,
+        "name": "车位"
+    },
+    {
+        "value": 1,
+        "name": "120V"
+    },
+    {
+        "value": 1,
+        "name": "交流电"
+    },
+    {
+        "value": 1,
+        "name": "应用环境"
+    },
+    {
+        "value": 1,
+        "name": "远好"
+    },
+    {
+        "value": 1,
+        "name": "考量"
+    },
+    {
+        "value": 2,
+        "name": "处于"
+    },
+    {
+        "value": 2,
+        "name": "地位"
+    },
+    {
+        "value": 1,
+        "name": "人数"
+    },
+    {
+        "value": 1,
+        "name": "车有何"
+    },
+    {
+        "value": 2,
+        "name": "管理水平"
+    },
+    {
+        "value": 1,
+        "name": "位置"
+    },
+    {
+        "value": 1,
+        "name": "建厂"
+    },
+    {
+        "value": 1,
+        "name": "场地"
+    },
+    {
+        "value": 1,
+        "name": "性质"
+    },
+    {
+        "value": 1,
+        "name": "出钱"
+    },
+    {
+        "value": 1,
+        "name": "买断"
+    },
+    {
+        "value": 3,
+        "name": "买卖"
+    },
+    {
+        "value": 1,
+        "name": "使用权"
+    },
+    {
+        "value": 1,
+        "name": "爆发"
+    },
+    {
+        "value": 1,
+        "name": "金融危机"
+    },
+    {
+        "value": 1,
+        "name": "抵御"
+    },
+    {
+        "value": 1,
+        "name": "iPhone"
+    },
+    {
+        "value": 1,
+        "name": "产业链"
+    },
+    {
+        "value": 2,
+        "name": "苹果"
+    },
+    {
+        "value": 1,
+        "name": "手机"
+    },
+    {
+        "value": 1,
+        "name": "万州"
+    },
+    {
+        "value": 1,
+        "name": "盼望已久"
+    },
+    {
+        "value": 1,
+        "name": "轻轨"
+    },
+    {
+        "value": 1,
+        "name": "要"
+    },
+    {
+        "value": 1,
+        "name": "来"
+    },
+    {
+        "value": 1,
+        "name": "日起"
+    },
+    {
+        "value": 1,
+        "name": "万州区"
+    },
+    {
+        "value": 1,
+        "name": "城市轨道"
+    },
+    {
+        "value": 1,
+        "name": "交通线"
+    },
+    {
+        "value": 1,
+        "name": "网"
+    },
+    {
+        "value": 1,
+        "name": "正式"
+    },
+    {
+        "value": 1,
+        "name": "公开招标"
+    },
+    {
+        "value": 1,
+        "name": "参加"
+    },
+    {
+        "value": 1,
+        "name": "翻新"
+    },
+    {
+        "value": 1,
+        "name": "交易平台"
+    },
+    {
+        "value": 2,
+        "name": "子公司"
+    },
+    {
+        "value": 3,
+        "name": "选择"
+    },
+    {
+        "value": 1,
+        "name": "年限"
+    },
+    {
+        "value": 1,
+        "name": "以内"
+    },
+    {
+        "value": 1,
+        "name": "关心"
+    },
+    {
+        "value": 1,
+        "name": "检查"
+    },
+    {
+        "value": 1,
+        "name": "欺骗"
+    },
+    {
+        "value": 1,
+        "name": "至少"
+    },
+    {
+        "value": 1,
+        "name": "到"
+    },
+    {
+        "value": 1,
+        "name": "烂"
+    },
+    {
+        "value": 1,
+        "name": "泡"
+    },
+    {
+        "value": 1,
+        "name": "水车"
+    },
+    {
+        "value": 1,
+        "name": "大大提高"
+    },
+    {
+        "value": 1,
+        "name": "保值"
+    },
+    {
+        "value": 1,
+        "name": "率"
+    },
+    {
+        "value": 1,
+        "name": "溢价"
+    },
+    {
+        "value": 1,
+        "name": "伯克"
+    },
+    {
+        "value": 1,
+        "name": "希尔"
+    },
+    {
+        "value": 2,
+        "name": "占"
+    },
+    {
+        "value": 2,
+        "name": "10%"
+    },
+    {
+        "value": 1,
+        "name": "派"
+    },
+    {
+        "value": 1,
+        "name": "董事"
+    },
+    {
+        "value": 1,
+        "name": "进驻"
+    },
+    {
+        "value": 1,
+        "name": "旗下"
+    },
+    {
+        "value": 1,
+        "name": "包含"
+    },
+    {
+        "value": 1,
+        "name": "技术壁垒"
+    },
+    {
+        "value": 5,
+        "name": "新"
+    },
+    {
+        "value": 1,
+        "name": "插电式"
+    },
+    {
+        "value": 1,
+        "name": "专利费"
+    },
+    {
+        "value": 1,
+        "name": "龙头"
+    },
+    {
+        "value": 1,
+        "name": "相符合"
+    },
+    {
+        "value": 1,
+        "name": "配合"
+    },
+    {
+        "value": 1,
+        "name": "机构"
+    },
+    {
+        "value": 1,
+        "name": "打压"
+    },
+    {
+        "value": 1,
+        "name": "吸筹"
+    },
+    {
+        "value": 2,
+        "name": "全固态"
+    },
+    {
+        "value": 3,
+        "name": "水平"
+    },
+    {
+        "value": 1,
+        "name": "国际"
+    },
+    {
+        "value": 2,
+        "name": "策略"
+    },
+    {
+        "value": 1,
+        "name": "能出"
+    },
+    {
+        "value": 3,
+        "name": "认可"
+    },
+    {
+        "value": 1,
+        "name": "遗留问题"
+    },
+    {
+        "value": 2,
+        "name": "慢慢"
+    },
+    {
+        "value": 2,
+        "name": "可否"
+    },
+    {
+        "value": 1,
+        "name": "牌"
+    },
+    {
+        "value": 1,
+        "name": "违章"
+    },
+    {
+        "value": 5,
+        "name": "生活"
+    },
+    {
+        "value": 1,
+        "name": "常用"
+    },
+    {
+        "value": 1,
+        "name": "常会"
+    },
+    {
+        "value": 1,
+        "name": "陷阱"
+    },
+    {
+        "value": 1,
+        "name": "打响"
+    },
+    {
+        "value": 1,
+        "name": "品牌价值"
+    },
+    {
+        "value": 2,
+        "name": "目的"
+    },
+    {
+        "value": 1,
+        "name": "保本"
+    },
+    {
+        "value": 1,
+        "name": "即可"
+    },
+    {
+        "value": 1,
+        "name": "重在"
+    },
+    {
+        "value": 1,
+        "name": "满足感"
+    },
+    {
+        "value": 1,
+        "name": "来源于"
+    },
+    {
+        "value": 3,
+        "name": "每次"
+    },
+    {
+        "value": 1,
+        "name": "切入"
+    },
+    {
+        "value": 1,
+        "name": "表象"
+    },
+    {
+        "value": 1,
+        "name": "极致"
+    },
+    {
+        "value": 3,
+        "name": "站"
+    },
+    {
+        "value": 1,
+        "name": "对手"
+    },
+    {
+        "value": 1,
+        "name": "赶上"
+    },
+    {
+        "value": 1,
+        "name": "包括"
+    },
+    {
+        "value": 1,
+        "name": "专用车"
+    },
+    {
+        "value": 1,
+        "name": "趋势"
+    },
+    {
+        "value": 1,
+        "name": "切实"
+    },
+    {
+        "value": 2,
+        "name": "角度"
+    },
+    {
+        "value": 1,
+        "name": "代表"
+    },
+    {
+        "value": 1,
+        "name": "方式"
+    },
+    {
+        "value": 1,
+        "name": "切身体会"
+    },
+    {
+        "value": 1,
+        "name": "探索"
+    },
+    {
+        "value": 1,
+        "name": "申请"
+    },
+    {
+        "value": 1,
+        "name": "用到"
+    },
+    {
+        "value": 3,
+        "name": "量产"
+    },
+    {
+        "value": 1,
+        "name": "经济效益"
+    },
+    {
+        "value": 2,
+        "name": "里程"
+    },
+    {
+        "value": 2,
+        "name": "费用"
+    },
+    {
+        "value": 1,
+        "name": "营业额"
+    },
+    {
+        "value": 4,
+        "name": "比例"
+    },
+    {
+        "value": 1,
+        "name": "车顶"
+    },
+    {
+        "value": 1,
+        "name": "电动汽车"
+    },
+    {
+        "value": 1,
+        "name": "性能指标"
+    },
+    {
+        "value": 2,
+        "name": "整车"
+    },
+    {
+        "value": 1,
+        "name": "特别"
+    },
+    {
+        "value": 1,
+        "name": "国内外"
+    },
+    {
+        "value": 1,
+        "name": "超越"
+    },
+    {
+        "value": 1,
+        "name": "一发"
+    },
+    {
+        "value": 2,
+        "name": "力"
+    },
+    {
+        "value": 1,
+        "name": "赶上来"
+    },
+    {
+        "value": 1,
+        "name": "市场份额"
+    },
+    {
+        "value": 1,
+        "name": "缩小"
+    },
+    {
+        "value": 1,
+        "name": "业界"
+    },
+    {
+        "value": 1,
+        "name": "领跑"
+    },
+    {
+        "value": 1,
+        "name": "赶超"
+    },
+    {
+        "value": 1,
+        "name": "hi"
+    },
+    {
+        "value": 2,
+        "name": "＂"
+    },
+    {
+        "value": 3,
+        "name": "做出"
+    },
+    {
+        "value": 1,
+        "name": "更大"
+    },
+    {
+        "value": 1,
+        "name": "疑问"
+    },
+    {
+        "value": 1,
+        "name": "顶尖"
+    },
+    {
+        "value": 1,
+        "name": "轮"
+    },
+    {
+        "value": 1,
+        "name": "英雄"
+    },
+    {
+        "value": 1,
+        "name": "推迟"
+    },
+    {
+        "value": 1,
+        "name": "缺钱"
+    },
+    {
+        "value": 1,
+        "name": "证实"
+    },
+    {
+        "value": 1,
+        "name": "互动"
+    },
+    {
+        "value": 1,
+        "name": "月底"
+    },
+    {
+        "value": 1,
+        "name": "有变"
+    },
+    {
+        "value": 3,
+        "name": "公告"
+    },
+    {
+        "value": 1,
+        "name": "收购"
+    },
+    {
+        "value": 1,
+        "name": "蓝科"
+    },
+    {
+        "value": 1,
+        "name": "锂业"
+    },
+    {
+        "value": 2,
+        "name": "51.42%"
+    },
+    {
+        "value": 3,
+        "name": "股权"
+    },
+    {
+        "value": 1,
+        "name": "且经"
+    },
+    {
+        "value": 1,
+        "name": "青海省"
+    },
+    {
+        "value": 1,
+        "name": "国资委"
+    },
+    {
+        "value": 1,
+        "name": "批准"
+    },
+    {
+        "value": 1,
+        "name": "工作日内"
+    },
+    {
+        "value": 1,
+        "name": "转让"
+    },
+    {
+        "value": 1,
+        "name": "此事"
+    },
+    {
+        "value": 1,
+        "name": "单次"
+    },
+    {
+        "value": 1,
+        "name": "看法"
+    },
+    {
+        "value": 1,
+        "name": "侧底"
+    },
+    {
+        "value": 2,
+        "name": "落后"
+    },
+    {
+        "value": 2,
+        "name": "合计"
+    },
+    {
+        "value": 1,
+        "name": "造"
+    },
+    {
+        "value": 1,
+        "name": "早"
+    },
+    {
+        "value": 1,
+        "name": "环节"
+    },
+    {
+        "value": 1,
+        "name": "正极"
+    },
+    {
+        "value": 1,
+        "name": "负极"
+    },
+    {
+        "value": 1,
+        "name": "电解液"
+    },
+    {
+        "value": 1,
+        "name": "整装"
+    },
+    {
+        "value": 1,
+        "name": "弄"
+    },
+    {
+        "value": 1,
+        "name": "氢氧化锂"
+    },
+    {
+        "value": 1,
+        "name": "飞涨"
+    },
+    {
+        "value": 1,
+        "name": "生存"
+    },
+    {
+        "value": 1,
+        "name": "只能"
+    },
+    {
+        "value": 1,
+        "name": "汉"
+    },
+    {
+        "value": 1,
+        "name": "明"
+    },
+    {
+        "value": 1,
+        "name": "清等"
+    },
+    {
+        "value": 1,
+        "name": "通用五菱"
+    },
+    {
+        "value": 1,
+        "name": "名气"
+    },
+    {
+        "value": 2,
+        "name": "菱宏光"
+    },
+    {
+        "value": 1,
+        "name": "宝骏"
+    },
+    {
+        "value": 1,
+        "name": "眼前一亮"
+    },
+    {
+        "value": 2,
+        "name": "几辆"
+    },
+    {
+        "value": 1,
+        "name": "象五"
+    },
+    {
+        "value": 1,
+        "name": "亲民"
+    },
+    {
+        "value": 1,
+        "name": "一半"
+    },
+    {
+        "value": 1,
+        "name": "好过"
+    },
+    {
+        "value": 2,
+        "name": "精力"
+    },
+    {
+        "value": 1,
+        "name": "捣鼓"
+    },
+    {
+        "value": 1,
+        "name": "几下"
+    },
+    {
+        "value": 1,
+        "name": "象"
+    },
+    {
+        "value": 1,
+        "name": "专"
+    },
+    {
+        "value": 1,
+        "name": "钻"
+    },
+    {
+        "value": 1,
+        "name": "牛角尖"
+    },
+    {
+        "value": 1,
+        "name": "蛇"
+    },
+    {
+        "value": 1,
+        "name": "无头"
+    },
+    {
+        "value": 1,
+        "name": "无一"
+    },
+    {
+        "value": 1,
+        "name": "强"
+    },
+    {
+        "value": 1,
+        "name": "之下"
+    },
+    {
+        "value": 1,
+        "name": "哈弗有"
+    },
+    {
+        "value": 1,
+        "name": "H6"
+    },
+    {
+        "value": 1,
+        "name": "有博越"
+    },
+    {
+        "value": 1,
+        "name": "强烈建议"
+    },
+    {
+        "value": 1,
+        "name": "唐秦"
+    },
+    {
+        "value": 2,
+        "name": "区间"
+    },
+    {
+        "value": 1,
+        "name": "容易接受"
+    },
+    {
+        "value": 1,
+        "name": "买得起"
+    },
+    {
+        "value": 1,
+        "name": "易出"
+    },
+    {
+        "value": 1,
+        "name": "暴款"
+    },
+    {
+        "value": 1,
+        "name": "诟病"
+    },
+    {
+        "value": 1,
+        "name": "标"
+    },
+    {
+        "value": 1,
+        "name": "必大卖"
+    },
+    {
+        "value": 1,
+        "name": "祝"
+    },
+    {
+        "value": 1,
+        "name": "愉快"
+    },
+    {
+        "value": 2,
+        "name": "王"
+    },
+    {
+        "value": 2,
+        "name": "总和"
+    },
+    {
+        "value": 1,
+        "name": "李柯"
+    },
+    {
+        "value": 1,
+        "name": "三电"
+    },
+    {
+        "value": 1,
+        "name": "车子"
+    },
+    {
+        "value": 1,
+        "name": "换个"
+    },
+    {
+        "value": 1,
+        "name": "漂亮"
+    },
+    {
+        "value": 1,
+        "name": "壳"
+    },
+    {
+        "value": 1,
+        "name": "容"
+    },
+    {
+        "value": 2,
+        "name": "事"
+    },
+    {
+        "value": 1,
+        "name": "公认"
+    },
+    {
+        "value": 1,
+        "name": "神级"
+    },
+    {
+        "value": 1,
+        "name": "遍遍"
+    },
+    {
+        "value": 1,
+        "name": "不去"
+    },
+    {
+        "value": 1,
+        "name": "发力"
+    },
+    {
+        "value": 1,
+        "name": "星"
+    },
+    {
+        "value": 1,
+        "name": "苦衷"
+    },
+    {
+        "value": 1,
+        "name": "外面"
+    },
+    {
+        "value": 1,
+        "name": "二手"
+    },
+    {
+        "value": 1,
+        "name": "商给"
+    },
+    {
+        "value": 1,
+        "name": "理想"
+    },
+    {
+        "value": 1,
+        "name": "新闻"
+    },
+    {
+        "value": 1,
+        "name": "见到"
+    },
+    {
+        "value": 1,
+        "name": "几十个"
+    },
+    {
+        "value": 1,
+        "name": "投"
+    },
+    {
+        "value": 1,
+        "name": "见见"
+    },
+    {
+        "value": 1,
+        "name": "好多"
+    },
+    {
+        "value": 1,
+        "name": "哪项"
+    },
+    {
+        "value": 1,
+        "name": "技术指标"
+    },
+    {
+        "value": 1,
+        "name": "确实"
+    },
+    {
+        "value": 1,
+        "name": "不到"
+    },
+    {
+        "value": 2,
+        "name": "层次"
+    },
+    {
+        "value": 2,
+        "name": "吹牛"
+    },
+    {
+        "value": 2,
+        "name": "懂"
+    },
+    {
+        "value": 1,
+        "name": "鄙视"
+    },
+    {
+        "value": 1,
+        "name": "坏事"
+    },
+    {
+        "value": 1,
+        "name": "千里"
+    },
+    {
+        "value": 1,
+        "name": "懂车"
+    },
+    {
+        "value": 1,
+        "name": "踏踏实实"
+    },
+    {
+        "value": 1,
+        "name": "年度"
+    },
+    {
+        "value": 1,
+        "name": "到款"
+    },
+    {
+        "value": 1,
+        "name": "月度"
+    },
+    {
+        "value": 2,
+        "name": "开拓"
+    },
+    {
+        "value": 1,
+        "name": "进度"
+    },
+    {
+        "value": 1,
+        "name": "主动"
+    },
+    {
+        "value": 1,
+        "name": "小迪"
+    },
+    {
+        "value": 1,
+        "name": "快报"
+    },
+    {
+        "value": 1,
+        "name": "汇"
+    },
+    {
+        "value": 1,
+        "name": "论坛"
+    },
+    {
+        "value": 1,
+        "name": "人士"
+    },
+    {
+        "value": 1,
+        "name": "一清二楚"
+    },
+    {
+        "value": 1,
+        "name": "授意"
+    },
+    {
+        "value": 1,
+        "name": "言行"
+    },
+    {
+        "value": 1,
+        "name": "负责"
+    },
+    {
+        "value": 1,
+        "name": "交通部"
+    },
+    {
+        "value": 1,
+        "name": "负责人"
+    },
+    {
+        "value": 1,
+        "name": "透露"
+    },
+    {
+        "value": 1,
+        "name": "京津冀"
+    },
+    {
+        "value": 1,
+        "name": "参与"
+    },
+    {
+        "value": 1,
+        "name": "该项"
+    },
+    {
+        "value": 1,
+        "name": "一步"
+    },
+    {
+        "value": 2,
+        "name": "重视"
+    },
+    {
+        "value": 1,
+        "name": "愈"
+    },
+    {
+        "value": 1,
+        "name": "这方面"
+    },
+    {
+        "value": 3,
+        "name": "时"
+    },
+    {
+        "value": 1,
+        "name": "未"
+    },
+    {
+        "value": 1,
+        "name": "定个"
+    },
+    {
+        "value": 1,
+        "name": "预售"
+    },
+    {
+        "value": 1,
+        "name": "千元"
+    },
+    {
+        "value": 1,
+        "name": "订金"
+    },
+    {
+        "value": 2,
+        "name": "先"
+    },
+    {
+        "value": 1,
+        "name": "下单"
+    },
+    {
+        "value": 2,
+        "name": "提前"
+    },
+    {
+        "value": 1,
+        "name": "订单数"
+    },
+    {
+        "value": 1,
+        "name": "安排"
+    },
+    {
+        "value": 1,
+        "name": "max"
+    },
+    {
+        "value": 1,
+        "name": "车展"
+    },
+    {
+        "value": 1,
+        "name": "接收"
+    },
+    {
+        "value": 1,
+        "name": "预订"
+    },
+    {
+        "value": 1,
+        "name": "吸引"
+    },
+    {
+        "value": 1,
+        "name": "不知"
+    },
+    {
+        "value": 1,
+        "name": "采纳"
+    },
+    {
+        "value": 1,
+        "name": "下功夫"
+    },
+    {
+        "value": 1,
+        "name": "多向"
+    },
+    {
+        "value": 1,
+        "name": "优秀者"
+    },
+    {
+        "value": 1,
+        "name": "愿"
+    },
+    {
+        "value": 1,
+        "name": "战斗力"
+    },
+    {
+        "value": 1,
+        "name": "持续"
+    },
+    {
+        "value": 1,
+        "name": "文化"
+    },
+    {
+        "value": 1,
+        "name": "提出"
+    },
+    {
+        "value": 1,
+        "name": "失控"
+    },
+    {
+        "value": 1,
+        "name": "翻车"
+    },
+    {
+        "value": 1,
+        "name": "开设"
+    },
+    {
+        "value": 1,
+        "name": "事业"
+    },
+    {
+        "value": 1,
+        "name": "如云"
+    },
+    {
+        "value": 1,
+        "name": "轨"
+    },
+    {
+        "value": 1,
+        "name": "培养人才"
+    },
+    {
+        "value": 1,
+        "name": "现实状况"
+    },
+    {
+        "value": 3,
+        "name": "电费"
+    },
+    {
+        "value": 1,
+        "name": "块钱"
+    },
+    {
+        "value": 2,
+        "name": "小区"
+    },
+    {
+        "value": 1,
+        "name": "装"
+    },
+    {
+        "value": 1,
+        "name": "商量"
+    },
+    {
+        "value": 1,
+        "name": "物业"
+    },
+    {
+        "value": 1,
+        "name": "自"
+    },
+    {
+        "value": 1,
+        "name": "建"
+    },
+    {
+        "value": 1,
+        "name": "插座"
+    },
+    {
+        "value": 1,
+        "name": "停车费"
+    },
+    {
+        "value": 1,
+        "name": "每月"
+    },
+    {
+        "value": 1,
+        "name": "多收"
+    },
+    {
+        "value": 1,
+        "name": "发放"
+    },
+    {
+        "value": 1,
+        "name": "现金"
+    },
+    {
+        "value": 1,
+        "name": "压力"
+    },
+    {
+        "value": 1,
+        "name": "状态"
+    },
+    {
+        "value": 1,
+        "name": "退补"
+    },
+    {
+        "value": 2,
+        "name": "担心"
+    },
+    {
+        "value": 1,
+        "name": "标杆"
+    },
+    {
+        "value": 1,
+        "name": "样子"
+    },
+    {
+        "value": 1,
+        "name": "福特"
+    },
+    {
+        "value": 1,
+        "name": "对腾势"
+    },
+    {
+        "value": 1,
+        "name": "增资"
+    },
+    {
+        "value": 1,
+        "name": "何在"
+    },
+    {
+        "value": 1,
+        "name": "中是"
+    },
+    {
+        "value": 1,
+        "name": "入"
+    },
+    {
+        "value": 1,
+        "name": "提到"
+    },
+    {
+        "value": 1,
+        "name": "一块"
+    },
+    {
+        "value": 1,
+        "name": "C2B"
+    },
+    {
+        "value": 3,
+        "name": "理念"
+    },
+    {
+        "value": 1,
+        "name": "定制"
+    },
+    {
+        "value": 1,
+        "name": "个性化"
+    },
+    {
+        "value": 1,
+        "name": "c"
+    },
+    {
+        "value": 2,
+        "name": "制造"
+    },
+    {
+        "value": 1,
+        "name": "借鉴"
+    },
+    {
+        "value": 1,
+        "name": "大通"
+    },
+    {
+        "value": 1,
+        "name": "d90"
+    },
+    {
+        "value": 1,
+        "name": "做法"
+    },
+    {
+        "value": 1,
+        "name": "瓶颈"
+    },
+    {
+        "value": 1,
+        "name": "非常明显"
+    },
+    {
+        "value": 1,
+        "name": "用户群"
+    },
+    {
+        "value": 1,
+        "name": "明眼人"
+    },
+    {
+        "value": 1,
+        "name": "全而"
+    },
+    {
+        "value": 1,
+        "name": "不精"
+    },
+    {
+        "value": 1,
+        "name": "战线"
+    },
+    {
+        "value": 1,
+        "name": "突破"
+    },
+    {
+        "value": 1,
+        "name": "着重"
+    },
+    {
+        "value": 1,
+        "name": "优化"
+    },
+    {
+        "value": 1,
+        "name": "最前沿"
+    },
+    {
+        "value": 1,
+        "name": "众"
+    },
+    {
+        "value": 1,
+        "name": "迪粉加"
+    },
+    {
+        "value": 1,
+        "name": "诚挚"
+    },
+    {
+        "value": 1,
+        "name": "奔"
+    },
+    {
+        "value": 1,
+        "name": "一汽"
+    },
+    {
+        "value": 1,
+        "name": "势头"
+    },
+    {
+        "value": 2,
+        "name": "认真总结"
+    },
+    {
+        "value": 1,
+        "name": "打开"
+    },
+    {
+        "value": 1,
+        "name": "解决问题"
+    },
+    {
+        "value": 1,
+        "name": "方案"
+    },
+    {
+        "value": 1,
+        "name": "款宋"
+    },
+    {
+        "value": 2,
+        "name": "朋友"
+    },
+    {
+        "value": 1,
+        "name": "抵触"
+    },
+    {
+        "value": 1,
+        "name": "认真思考"
+    },
+    {
+        "value": 1,
+        "name": "上大销"
+    },
+    {
+        "value": 1,
+        "name": "很能"
+    },
+    {
+        "value": 1,
+        "name": "等级"
+    },
+    {
+        "value": 1,
+        "name": "产品价格"
+    },
+    {
+        "value": 1,
+        "name": "快速"
+    },
+    {
+        "value": 1,
+        "name": "早日"
+    },
+    {
+        "value": 1,
+        "name": "产李董"
+    },
+    {
+        "value": 2,
+        "name": "新车型"
+    },
+    {
+        "value": 2,
+        "name": "汽油"
+    },
+    {
+        "value": 1,
+        "name": "月份"
+    },
+    {
+        "value": 1,
+        "name": "该车"
+    },
+    {
+        "value": 1,
+        "name": "纯电版"
+    },
+    {
+        "value": 1,
+        "name": "合同"
+    },
+    {
+        "value": 1,
+        "name": "开工"
+    },
+    {
+        "value": 1,
+        "name": "量"
+    },
+    {
+        "value": 1,
+        "name": "帐面"
+    },
+    {
+        "value": 1,
+        "name": "带来"
+    },
+    {
+        "value": 1,
+        "name": "短期"
+    },
+    {
+        "value": 1,
+        "name": "关联"
+    },
+    {
+        "value": 1,
+        "name": "营收"
+    },
+    {
+        "value": 1,
+        "name": "承担"
+    },
+    {
+        "value": 1,
+        "name": "摆脱"
+    },
+    {
+        "value": 1,
+        "name": "大部分"
+    },
+    {
+        "value": 2,
+        "name": "国人"
+    },
+    {
+        "value": 1,
+        "name": "痛点"
+    },
+    {
+        "value": 1,
+        "name": "三遍"
+    },
+    {
+        "value": 2,
+        "name": "实际上"
+    },
+    {
+        "value": 1,
+        "name": "尺寸"
+    },
+    {
+        "value": 1,
+        "name": "就行了"
+    },
+    {
+        "value": 1,
+        "name": "显得"
+    },
+    {
+        "value": 1,
+        "name": "大气"
+    },
+    {
+        "value": 1,
+        "name": "长宽"
+    },
+    {
+        "value": 1,
+        "name": "佼佼者"
+    },
+    {
+        "value": 1,
+        "name": "同级"
+    },
+    {
+        "value": 1,
+        "name": "h6"
+    },
+    {
+        "value": 1,
+        "name": "博越"
+    },
+    {
+        "value": 1,
+        "name": "rx5"
+    },
+    {
+        "value": 1,
+        "name": "之流"
+    },
+    {
+        "value": 1,
+        "name": "一圈"
+    },
+    {
+        "value": 1,
+        "name": "面子"
+    },
+    {
+        "value": 1,
+        "name": "万辆"
+    },
+    {
+        "value": 12,
+        "name": "机器人"
+    },
+    {
+        "value": 1,
+        "name": "普及"
+    },
+    {
+        "value": 1,
+        "name": "既会"
+    },
+    {
+        "value": 3,
+        "name": "家务"
+    },
+    {
+        "value": 1,
+        "name": "马路"
+    },
+    {
+        "value": 3,
+        "name": "避让"
+    },
+    {
+        "value": 3,
+        "name": "机动车"
+    },
+    {
+        "value": 1,
+        "name": "导航"
+    },
+    {
+        "value": 1,
+        "name": "认路"
+    },
+    {
+        "value": 1,
+        "name": "这台"
+    },
+    {
+        "value": 1,
+        "name": "火星"
+    },
+    {
+        "value": 1,
+        "name": "探月车"
+    },
+    {
+        "value": 2,
+        "name": "意味着"
+    },
+    {
+        "value": 1,
+        "name": "买不起"
+    },
+    {
+        "value": 1,
+        "name": "街道"
+    },
+    {
+        "value": 1,
+        "name": "造价"
+    },
+    {
+        "value": 1,
+        "name": "楼层"
+    },
+    {
+        "value": 1,
+        "name": "高住"
+    },
+    {
+        "value": 1,
+        "name": "到来"
+    },
+    {
+        "value": 1,
+        "name": "高档"
+    },
+    {
+        "value": 1,
+        "name": "家用"
+    },
+    {
+        "value": 1,
+        "name": "携带"
+    },
+    {
+        "value": 1,
+        "name": "轨道"
+    },
+    {
+        "value": 1,
+        "name": "报废"
+    },
+    {
+        "value": 1,
+        "name": "台能"
+    },
+    {
+        "value": 2,
+        "name": "打扫卫生"
+    },
+    {
+        "value": 1,
+        "name": "料理"
+    },
+    {
+        "value": 1,
+        "name": "搬东西"
+    },
+    {
+        "value": 1,
+        "name": "语言"
+    },
+    {
+        "value": 1,
+        "name": "交流"
+    },
+    {
+        "value": 1,
+        "name": "家庭"
+    },
+    {
+        "value": 1,
+        "name": "太贵"
+    },
+    {
+        "value": 1,
+        "name": "万人"
+    },
+    {
+        "value": 1,
+        "name": "每人每年"
+    },
+    {
+        "value": 1,
+        "name": "花"
+    },
+    {
+        "value": 1,
+        "name": "租用"
+    },
+    {
+        "value": 1,
+        "name": "便宜"
+    },
+    {
+        "value": 1,
+        "name": "做饭"
+    },
+    {
+        "value": 1,
+        "name": "洗衣服"
+    },
+    {
+        "value": 1,
+        "name": "买菜"
+    },
+    {
+        "value": 1,
+        "name": "化妆品"
+    },
+    {
+        "value": 1,
+        "name": "人来"
+    },
+    {
+        "value": 1,
+        "name": "解放出来"
+    },
+    {
+        "value": 1,
+        "name": "有创造力"
+    },
+    {
+        "value": 1,
+        "name": "工作"
+    },
+    {
+        "value": 1,
+        "name": "娱乐"
+    },
+    {
+        "value": 1,
+        "name": "曾多次"
+    },
+    {
+        "value": 1,
+        "name": "呼吁"
+    },
+    {
+        "value": 1,
+        "name": "轨治堵"
+    },
+    {
+        "value": 1,
+        "name": "前期工作"
+    },
+    {
+        "value": 1,
+        "name": "发改委"
+    },
+    {
+        "value": 1,
+        "name": "最新"
+    },
+    {
+        "value": 1,
+        "name": "批复"
+    },
+    {
+        "value": 1,
+        "name": "条"
+    },
+    {
+        "value": 1,
+        "name": "无云轨"
+    },
+    {
+        "value": 1,
+        "name": "此前"
+    },
+    {
+        "value": 1,
+        "name": "北京"
+    },
+    {
+        "value": 1,
+        "name": "遭"
+    },
+    {
+        "value": 1,
+        "name": "夭折"
+    },
+    {
+        "value": 1,
+        "name": "轨交"
+    },
+    {
+        "value": 1,
+        "name": "流传"
+    },
+    {
+        "value": 1,
+        "name": "话"
+    },
+    {
+        "value": 1,
+        "name": "舒酉星"
+    },
+    {
+        "value": 1,
+        "name": "体制"
+    },
+    {
+        "value": 1,
+        "name": "改进"
+    },
+    {
+        "value": 1,
+        "name": "双模"
+    },
+    {
+        "value": 2,
+        "name": "省"
+    },
+    {
+        "value": 1,
+        "name": "送"
+    },
+    {
+        "value": 4,
+        "name": "性能"
+    },
+    {
+        "value": 1,
+        "name": "那点"
+    },
+    {
+        "value": 1,
+        "name": "油费"
+    },
+    {
+        "value": 1,
+        "name": "看中"
+    },
+    {
+        "value": 1,
+        "name": "以车"
+    },
+    {
+        "value": 1,
+        "name": "韩国"
+    },
+    {
+        "value": 1,
+        "name": "控股"
+    },
+    {
+        "value": 1,
+        "name": "专心"
+    },
+    {
+        "value": 2,
+        "name": "PHEV"
+    },
+    {
+        "value": 3,
+        "name": "能效"
+    },
+    {
+        "value": 2,
+        "name": "减少"
+    },
+    {
+        "value": 1,
+        "name": "能耗"
+    },
+    {
+        "value": 1,
+        "name": "动车"
+    },
+    {
+        "value": 1,
+        "name": "配"
+    },
+    {
+        "value": 1,
+        "name": "双套"
+    },
+    {
+        "value": 1,
+        "name": "动力系统"
+    },
+    {
+        "value": 1,
+        "name": "大大增加"
+    },
+    {
+        "value": 1,
+        "name": "车重"
+    },
+    {
+        "value": 1,
+        "name": "背道而驰"
+    },
+    {
+        "value": 1,
+        "name": "续品"
+    },
+    {
+        "value": 1,
+        "name": "牌航"
+    },
+    {
+        "value": 1,
+        "name": "足够"
+    },
+    {
+        "value": 1,
+        "name": "日常"
+    },
+    {
+        "value": 1,
+        "name": "关键"
+    },
+    {
+        "value": 1,
+        "name": "这才"
+    },
+    {
+        "value": 1,
+        "name": "之道"
+    },
+    {
+        "value": 1,
+        "name": "远"
+    },
+    {
+        "value": 1,
+        "name": "不及"
+    },
+    {
+        "value": 1,
+        "name": "HEV"
+    },
+    {
+        "value": 1,
+        "name": "树立"
+    },
+    {
+        "value": 1,
+        "name": "眼前利益"
+    },
+    {
+        "value": 1,
+        "name": "定性"
+    },
+    {
+        "value": 1,
+        "name": "三年"
+    },
+    {
+        "value": 1,
+        "name": "新车"
+    },
+    {
+        "value": 1,
+        "name": "优质产品"
+    },
+    {
+        "value": 1,
+        "name": "吴京"
+    },
+    {
+        "value": 1,
+        "name": "力争"
+    },
+    {
+        "value": 1,
+        "name": "战狼"
+    },
+    {
+        "value": 1,
+        "name": "越野"
+    },
+    {
+        "value": 1,
+        "name": "优异"
+    },
+    {
+        "value": 1,
+        "name": "系列产品"
+    },
+    {
+        "value": 1,
+        "name": "年末"
+    },
+    {
+        "value": 5,
+        "name": "应收款"
+    },
+    {
+        "value": 2,
+        "name": "余额"
+    },
+    {
+        "value": 1,
+        "name": "76.87"
+    },
+    {
+        "value": 1,
+        "name": "417.68"
+    },
+    {
+        "value": 2,
+        "name": "复合"
+    },
+    {
+        "value": 2,
+        "name": "增长率"
+    },
+    {
+        "value": 1,
+        "name": "75.8%"
+    },
+    {
+        "value": 1,
+        "name": "25.09%"
+    },
+    {
+        "value": 1,
+        "name": "健康"
+    },
+    {
+        "value": 3,
+        "name": "计提"
+    },
+    {
+        "value": 1,
+        "name": "过低"
+    },
+    {
+        "value": 1,
+        "name": "年内"
+    },
+    {
+        "value": 1,
+        "name": "0.04%"
+    },
+    {
+        "value": 1,
+        "name": "5%"
+    },
+    {
+        "value": 1,
+        "name": "0.68%"
+    },
+    {
+        "value": 1,
+        "name": "坏账"
+    },
+    {
+        "value": 1,
+        "name": "详解"
+    },
+    {
+        "value": 1,
+        "name": "至关重要"
+    },
+    {
+        "value": 1,
+        "name": "成本低"
+    },
+    {
+        "value": 1,
+        "name": "周期短"
+    },
+    {
+        "value": 1,
+        "name": "忧虑"
+    },
+    {
+        "value": 1,
+        "name": "貌似"
+    },
+    {
+        "value": 2,
+        "name": "运力"
+    },
+    {
+        "value": 1,
+        "name": "车厢"
+    },
+    {
+        "value": 1,
+        "name": "塞满"
+    },
+    {
+        "value": 1,
+        "name": "收不回"
+    },
+    {
+        "value": 1,
+        "name": "矿"
+    },
+    {
+        "value": 1,
+        "name": "批"
+    },
+    {
+        "value": 1,
+        "name": "目录"
+    },
+    {
+        "value": 1,
+        "name": "帝豪"
+    },
+    {
+        "value": 2,
+        "name": "申报"
+    },
+    {
+        "value": 1,
+        "name": "400km"
+    },
+    {
+        "value": 1,
+        "name": "450km"
+    },
+    {
+        "value": 1,
+        "name": "E5"
+    }
+]

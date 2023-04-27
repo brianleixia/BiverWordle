@@ -1,0 +1,2 @@
+python == 3.9.5
+pip install Django==3.2.4

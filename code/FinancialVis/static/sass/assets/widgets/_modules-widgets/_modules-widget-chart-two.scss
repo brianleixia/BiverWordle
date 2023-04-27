@@ -1,0 +1,47 @@
+/*
+    =======================
+        Sold By cateory
+    =======================
+*/
+
+.widget-chart-two {
+  padding: 0;
+}
+
+.widget.widget-chart-two .widget-heading {
+  padding: 20px 20px 0 20px;
+}
+
+.widget-chart-two .widget-heading .w-icon {
+  position: absolute;
+  right: 20px;
+  top: 15px;
+
+  a {
+    padding: 6px;
+    border-radius: 10px;
+    padding: 6px;
+    background: #c7e6e4 !important;
+    border: none;
+    -webkit-transform: translateY(0);
+    transform: translateY(0);
+
+    svg {
+      color: $m-color_14;
+    }
+  }
+}
+
+.widget.widget-chart-two .widget-content {
+  padding: 0 0 20px 0;
+}
+
+.widget-chart-two {
+  .apexcharts-canvas {
+    margin: 0 auto;
+  }
+
+  .apexcharts-legend-marker {
+    left: -5px !important;
+  }
+}

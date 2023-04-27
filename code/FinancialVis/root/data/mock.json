@@ -1,0 +1,397 @@
+[{
+  "x": "China",
+  "value": 1383220000,
+  "topic": "asia"
+}, {
+  "x": "India",
+  "value": 1316000000,
+  "topic": "asia"
+}, {
+  "x": "United States",
+  "value": 324982000,
+  "topic": "america"
+}, {
+  "x": "Indonesia",
+  "value": 263510000,
+  "topic": "asia"
+}, {
+  "x": "Brazil",
+  "value": 207505000,
+  "topic": "america"
+}, {
+  "x": "Pakistan",
+  "value": 196459000,
+  "topic": "asia"
+}, {
+  "x": "Nigeria",
+  "value": 191836000,
+  "topic": "africa"
+}, {
+  "x": "Bangladesh",
+  "value": 162459000,
+  "topic": "asia"
+}, {
+  "x": "Russia",
+  "value": 146804372,
+  "topic": "europe"
+}, {
+  "x": "Japan",
+  "value": 126790000,
+  "topic": "asia"
+}, {
+  "x": "Mexico",
+  "value": 123518000,
+  "topic": "america"
+}, {
+  "x": "Ethiopia",
+  "value": 104345000,
+  "topic": "africa"
+}, {
+  "x": "Philippines",
+  "value": 104037000,
+  "topic": "asia"
+}, {
+  "x": "Egypt",
+  "value": 93013300,
+  "topic": "africa"
+}, {
+  "x": "Vietnam",
+  "value": 92700000,
+  "topic": "asia"
+}, {
+  "x": "Germany",
+  "value": 82800000,
+  "topic": "europe"
+}, {
+  "x": "Democratic Republic of the Congo",
+  "value": 82243000,
+  "topic": "africa"
+}, {
+  "x": "Iran",
+  "value": 80135400,
+  "topic": "asia"
+}, {
+  "x": "Turkey",
+  "value": 79814871,
+  "topic": "asia"
+}, {
+  "x": "Thailand",
+  "value": 68298000,
+  "topic": "asia"
+}, {
+  "x": "France",
+  "value": 67013000,
+  "topic": "europe"
+}, {
+  "x": "United Kingdom",
+  "value": 65110000,
+  "topic": "europe"
+}, {
+  "x": "Italy",
+  "value": 60599936,
+  "topic": "europe"
+}, {
+  "x": "Tanzania",
+  "value": 56878000,
+  "topic": "africa"
+}, {
+  "x": "South Africa",
+  "value": 55908000,
+  "topic": "africa"
+}, {
+  "x": "Myanmar",
+  "value": 54836000,
+  "topic": "asia"
+}, {
+  "x": "South Korea",
+  "value": 51446201,
+  "topic": "asia"
+}, {
+  "x": "Colombia",
+  "value": 49224700,
+  "topic": "america"
+}, {
+  "x": "Kenya",
+  "value": 48467000,
+  "topic": "africa"
+}, {
+  "x": "Spain",
+  "value": 46812000,
+  "topic": "europe"
+}, {
+  "x": "Argentina",
+  "value": 43850000,
+  "topic": "america"
+}, {
+  "x": "Ukraine",
+  "value": 42541633,
+  "topic": "europe"
+}, {
+  "x": "Sudan",
+  "value": 42176000,
+  "topic": "africa"
+}, {
+  "x": "Uganda",
+  "value": 41653000,
+  "topic": "africa"
+}, {
+  "x": "Algeria",
+  "value": 41064000,
+  "topic": "africa"
+}, {
+  "x": "Poland",
+  "value": 38424000,
+  "topic": "europe"
+}, {
+  "x": "Iraq",
+  "value": 37883543,
+  "topic": "asia"
+}, {
+  "x": "Canada",
+  "value": 36541000,
+  "topic": "america"
+}, {
+  "x": "Morocco",
+  "value": 34317500,
+  "topic": "africa"
+}, {
+  "x": "Saudi Arabia",
+  "value": 33710021,
+  "topic": "asia"
+}, {
+  "x": "Uzbekistan",
+  "value": 32121000,
+  "topic": "asia"
+}, {
+  "x": "Malaysia",
+  "value": 32063200,
+  "topic": "asia"
+}, {
+  "x": "Peru",
+  "value": 31826018,
+  "topic": "america"
+}, {
+  "x": "Venezuela",
+  "value": 31431164,
+  "topic": "america"
+}, {
+  "x": "Nepal",
+  "value": 28825709,
+  "topic": "asia"
+}, {
+  "x": "Angola",
+  "value": 28359634,
+  "topic": "africa"
+}, {
+  "x": "Ghana",
+  "value": 28308301,
+  "topic": "africa"
+}, {
+  "x": "Yemen",
+  "value": 28120000,
+  "topic": "asia"
+}, {
+  "x": "Afghanistan",
+  "value": 27657145,
+  "topic": "asia"
+}, {
+  "x": "Mozambique",
+  "value": 27128530,
+  "topic": "africa"
+}, {
+  "x": "Australia",
+  "value": 24460900,
+  "topic": "australia"
+}, {
+  "x": "North Korea",
+  "value": 24213510,
+  "topic": "asia"
+}, {
+  "x": "Cameroon",
+  "value": 23248044,
+  "topic": "africa"
+}, {
+  "x": "Ivory Coast",
+  "value": 22671331,
+  "topic": "africa"
+}, {
+  "x": "Madagascar",
+  "value": 22434363,
+  "topic": "africa"
+}, {
+  "x": "Niger",
+  "value": 21564000,
+  "topic": "africa"
+}, {
+  "x": "Sri Lanka",
+  "value": 21203000,
+  "topic": "asia"
+}, {
+  "x": "Romania",
+  "value": 19760000,
+  "topic": "europe"
+}, {
+  "x": "Burkina Faso",
+  "value": 19632147,
+  "topic": "africa"
+}, {
+  "x": "Syria",
+  "value": 18907000,
+  "topic": "asia"
+}, {
+  "x": "Mali",
+  "value": 18875000,
+  "topic": "africa"
+}, {
+  "x": "Malawi",
+  "value": 18299000,
+  "topic": "africa"
+}, {
+  "x": "Chile",
+  "value": 18191900,
+  "topic": "america"
+}, {
+  "x": "Kazakhstan",
+  "value": 17975800,
+  "topic": "asia"
+}, {
+  "x": "Netherlands",
+  "value": 17121900,
+  "topic": "europe"
+}, {
+  "x": "Ecuador",
+  "value": 16737700,
+  "topic": "america"
+}, {
+  "x": "Guatemala",
+  "value": 16176133,
+  "topic": "america"
+}, {
+  "x": "Zambia",
+  "value": 15933883,
+  "topic": "africa"
+}, {
+  "x": "Cambodia",
+  "value": 15626444,
+  "topic": "asia"
+}, {
+  "x": "Senegal",
+  "value": 15256346,
+  "topic": "africa"
+}, {
+  "x": "Chad",
+  "value": 14965000,
+  "topic": "africa"
+}, {
+  "x": "Zimbabwe",
+  "value": 14542235,
+  "topic": "africa"
+}, {
+  "x": "Guinea",
+  "value": 13291000,
+  "topic": "africa"
+}, {
+  "x": "South Sudan",
+  "value": 12131000,
+  "topic": "africa"
+}, {
+  "x": "Rwanda",
+  "value": 11553188,
+  "topic": "africa"
+}, {
+  "x": "Belgium",
+  "value": 11356191,
+  "topic": "europe"
+}, {
+  "x": "Tunisia",
+  "value": 11299400,
+  "topic": "africa"
+}, {
+  "x": "Cuba",
+  "value": 11239004,
+  "topic": "america"
+}, {
+  "x": "Bolivia",
+  "value": 11145770,
+  "topic": "america"
+}, {
+  "x": "Somalia",
+  "value": 11079000,
+  "topic": "africa"
+}, {
+  "x": "Haiti",
+  "value": 11078033,
+  "topic": "america"
+}, {
+  "x": "Greece",
+  "value": 10783748,
+  "topic": "europe"
+}, {
+  "x": "Benin",
+  "value": 10653654,
+  "topic": "africa"
+}, {
+  "x": "Czech Republic",
+  "value": 10578820,
+  "topic": "europe"
+}, {
+  "x": "Portugal",
+  "value": 10341330,
+  "topic": "europe"
+}, {
+  "x": "Burundi",
+  "value": 10114505,
+  "topic": "africa"
+}, {
+  "x": "Dominican Republic",
+  "value": 10075045,
+  "topic": "america"
+}, {
+  "x": "Sweden",
+  "value": 10054100,
+  "topic": "europe"
+}, {
+  "x": "United Arab Emirates",
+  "value": 10003223,
+  "topic": "asia"
+}, {
+  "x": "Jordan",
+  "value": 9889270,
+  "topic": "asia"
+}, {
+  "x": "Azerbaijan",
+  "value": 9823667,
+  "topic": "asia"
+}, {
+  "x": "Hungary",
+  "value": 9799000,
+  "topic": "europe"
+}, {
+  "x": "Belarus",
+  "value": 9498600,
+  "topic": "europe"
+}, {
+  "x": "Honduras",
+  "value": 8866351,
+  "topic": "america"
+}, {
+  "x": "Austria",
+  "value": 8773686,
+  "topic": "europe"
+}, {
+  "x": "Tajikistan",
+  "value": 8742000,
+  "topic": "asia"
+}, {
+  "x": "Israel",
+  "value": 8690220,
+  "topic": "asia"
+}, {
+  "x": "Switzerland",
+  "value": 8417700,
+  "topic": "europe"
+}, {
+  "x": "Papua New Guinea",
+  "value": 8151300,
+  "topic": "australia"
+}]

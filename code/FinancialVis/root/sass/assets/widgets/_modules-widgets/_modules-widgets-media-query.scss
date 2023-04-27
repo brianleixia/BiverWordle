@@ -1,0 +1,124 @@
+/*
+    =====================
+        Media Query
+    =====================
+*/
+
+@media (max-width: 1249px) {
+  .widget-five {
+    .widget-content .meta-info .avatar {
+      &.more-group {
+        margin-right: -6px;
+      }
+
+      margin-left: -4px;
+    }
+
+    &:hover .widget-content .meta-info .avatar.more-group {
+      margin-right: 6px;
+    }
+  }
+}
+
+
+
+/*
+    ====================
+        Media Object
+    ====================
+*/
+@media (max-width: 1359px) and (min-width: 1200px) {
+  /*
+      ===========================
+          Top Selling Product
+      ===========================
+  */
+
+  .widget-account-invoice-three {
+    .widget-heading {
+      padding: 24px 15px 63px 15px;
+    }
+
+    .widget-amount .w-a-info {
+      padding: 10px 9px;
+      width: 44%;
+
+      &.funds-received {
+        margin-right: 1px;
+      }
+    }
+
+    .invoice-list .inv-action a {
+      font-size: 12px;
+      padding: 5px 6px;
+    }
+  }
+}
+
+@media (max-width: 575px) {
+  /*
+      ==================
+          Total Sales
+      ==================
+  */
+
+  .widget-two .w-chart {
+    position: inherit;
+  }
+
+  /*
+      ========================
+          Recent Activities
+      ========================
+  */
+
+  .widget-activity-one .mt-container {
+    height: auto;
+  }
+
+  /*
+      ===========================
+              Wallet 
+      ===========================
+  */
+
+  .widget-account-invoice-three {
+    .widget-heading {
+      padding: 24px 22px 63px 22px;
+    }
+
+    .widget-amount .w-a-info {
+      padding: 12px 12px;
+    }
+
+    .widget-heading h5 {
+      font-size: 25px;
+    }
+  }
+
+  /*
+      ===========================
+          Top Selling Product
+      ===========================
+  */
+
+  .widget-table-three .table > {
+    thead > tr > th {
+      padding-right: 15px;
+    }
+
+    tbody > tr > td {
+      border-top: none;
+      padding-top: 0;
+      padding-bottom: 0;
+      padding-right: 12px;
+      padding-left: 12px;
+    }
+  }
+}
+
+@media (max-width: 1199px) {
+  .widget-activity-five .mt-container {
+    height: 205px;
+  }
+}

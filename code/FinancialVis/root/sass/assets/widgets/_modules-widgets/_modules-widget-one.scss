@@ -1,0 +1,149 @@
+.widget {
+  &.widget-one {
+    padding: 20px 18px 12px 18px;
+    background: #fff;
+
+    .widget-heading {
+      h6 {
+        color: $m-color_10;
+        margin-bottom: 30px;
+        font-size: 17px;
+        display: block;
+        font-weight: 600;
+      }
+
+      display: flex;
+      justify-content: space-between;
+      margin-bottom: 0;
+
+      .task-action svg {
+        color: $m-color_6;
+        width: 19px;
+        height: 19px;
+      }
+    }
+
+    .w-chart {
+      display: flex;
+
+      .w-chart-section {
+        width: 49%;
+        padding: 0 12px;
+        background: #000;
+        border-radius: 16px;
+        padding: 15px;
+
+        &.total-visits-content {
+          background-color: $l-info;
+        }
+
+        &.paid-visits-content {
+          background-color: $l-warning;
+        }
+
+        &:not(:last-child) {
+          margin-right: 10px;
+        }
+
+        .w-detail {
+          color: #fff;
+        }
+
+        .w-title {
+          font-size: 13px;
+          font-weight: 500;
+          margin-bottom: 0;
+          color: $primary;
+        }
+
+        .w-stats {
+          color: $primary;
+          font-size: 18px;
+          letter-spacing: 1px;
+          margin-bottom: 0;
+          font-weight: 500;
+        }
+
+        &.paid-visits-content {
+          .w-title, .w-stats {
+            color: $m-color_16;
+          }
+        }
+      }
+    }
+  }
+}
+
+
+
+/*
+    ==================
+        Widget
+    ==================
+*/
+
+.widget-one {
+  position: relative;
+  padding: 0;
+  border-radius: 6px;
+  height: 100%;
+  border: none;
+  background-color: #fff;
+  border: 1px solid $m-color_3;
+  box-shadow: 0 0 40px 0 rgba(94, 92, 154, 0.06);
+
+  .widget-content {
+    font-size: 17px;
+  }
+
+  .w-numeric-value {
+    position: absolute;
+    display: flex;
+    color: #fff;
+    font-weight: 500;
+    padding: 20px;
+    width: 100%;
+    justify-content: space-between;
+
+    .w-icon {
+      display: inline-block;
+      background: $l-danger;
+      padding: 13px 12px;
+      border-radius: 12px;
+      display: inline-flex;
+      align-self: center;
+      height: 45px;
+      width: 45px;
+      margin-right: 14px;
+    }
+
+    svg {
+      display: block;
+      color: $danger;
+      width: 20px;
+      height: 20px;
+      fill: rgba(231, 81, 90, 49%);
+    }
+
+    .w-value {
+      font-size: 26px;
+      display: block;
+      color: $danger;
+      font-weight: 600;
+      margin-bottom: -9px;
+      text-align: right;
+    }
+
+    .w-numeric-title {
+      font-size: 13px;
+      color: $danger;
+      letter-spacing: 1px;
+      font-weight: 600;
+    }
+  }
+
+  .apexcharts-canvas svg {
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+  }
+}

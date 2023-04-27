@@ -1,0 +1,12035 @@
+[
+    {
+        "value": 7,
+        "name": "截止"
+    },
+    {
+        "value": 76,
+        "name": "月"
+    },
+    {
+        "value": 53,
+        "name": "日"
+    },
+    {
+        "value": 120,
+        "name": "股东"
+    },
+    {
+        "value": 15,
+        "name": "人数"
+    },
+    {
+        "value": 5,
+        "name": "最新"
+    },
+    {
+        "value": 47,
+        "name": "分红"
+    },
+    {
+        "value": 21,
+        "name": "想"
+    },
+    {
+        "value": 3,
+        "name": "问"
+    },
+    {
+        "value": 43,
+        "name": "董事会"
+    },
+    {
+        "value": 411,
+        "name": "万科"
+    },
+    {
+        "value": 1,
+        "name": "安徽"
+    },
+    {
+        "value": 36,
+        "name": "市场"
+    },
+    {
+        "value": 2,
+        "name": "捆绑"
+    },
+    {
+        "value": 1,
+        "name": "车位"
+    },
+    {
+        "value": 22,
+        "name": "销售"
+    },
+    {
+        "value": 1,
+        "name": "暗箱"
+    },
+    {
+        "value": 7,
+        "name": "开盘"
+    },
+    {
+        "value": 1,
+        "name": "精装"
+    },
+    {
+        "value": 24,
+        "name": "业主"
+    },
+    {
+        "value": 1,
+        "name": "加价"
+    },
+    {
+        "value": 23,
+        "name": "买"
+    },
+    {
+        "value": 11,
+        "name": "装修"
+    },
+    {
+        "value": 1,
+        "name": "花钱买"
+    },
+    {
+        "value": 5,
+        "name": "认筹"
+    },
+    {
+        "value": 9,
+        "name": "号"
+    },
+    {
+        "value": 1,
+        "name": "行径"
+    },
+    {
+        "value": 1,
+        "name": "价值观"
+    },
+    {
+        "value": 9,
+        "name": "年度"
+    },
+    {
+        "value": 11,
+        "name": "报告"
+    },
+    {
+        "value": 6,
+        "name": "监事会"
+    },
+    {
+        "value": 1,
+        "name": "未获"
+    },
+    {
+        "value": 8,
+        "name": "表决"
+    },
+    {
+        "value": 4,
+        "name": "意味着"
+    },
+    {
+        "value": 35,
+        "name": "公告"
+    },
+    {
+        "value": 2,
+        "name": "议事规则"
+    },
+    {
+        "value": 2,
+        "name": "修订"
+    },
+    {
+        "value": 18,
+        "name": "股东大会"
+    },
+    {
+        "value": 7,
+        "name": "审议"
+    },
+    {
+        "value": 2,
+        "name": "未经"
+    },
+    {
+        "value": 3,
+        "name": "互联网"
+    },
+    {
+        "value": 1,
+        "name": "直播"
+    },
+    {
+        "value": 4,
+        "name": "现场"
+    },
+    {
+        "value": 7,
+        "name": "内幕"
+    },
+    {
+        "value": 19,
+        "name": "信息"
+    },
+    {
+        "value": 12,
+        "name": "投票"
+    },
+    {
+        "value": 7,
+        "name": "公布"
+    },
+    {
+        "value": 13,
+        "name": "H股"
+    },
+    {
+        "value": 15,
+        "name": "交易"
+    },
+    {
+        "value": 3,
+        "name": "违反"
+    },
+    {
+        "value": 3,
+        "name": "信"
+    },
+    {
+        "value": 1,
+        "name": "披"
+    },
+    {
+        "value": 3,
+        "name": "原则"
+    },
+    {
+        "value": 16,
+        "name": "A股"
+    },
+    {
+        "value": 38,
+        "name": "停牌"
+    },
+    {
+        "value": 6,
+        "name": "未"
+    },
+    {
+        "value": 1,
+        "name": "歧视"
+    },
+    {
+        "value": 2,
+        "name": "同股"
+    },
+    {
+        "value": 3,
+        "name": "权"
+    },
+    {
+        "value": 3,
+        "name": "安邦"
+    },
+    {
+        "value": 28,
+        "name": "持股"
+    },
+    {
+        "value": 13,
+        "name": "超过"
+    },
+    {
+        "value": 5,
+        "name": "5%"
+    },
+    {
+        "value": 8,
+        "name": "减持"
+    },
+    {
+        "value": 1,
+        "name": "预"
+    },
+    {
+        "value": 19,
+        "name": "披露"
+    },
+    {
+        "value": 5,
+        "name": "非"
+    },
+    {
+        "value": 4,
+        "name": "指定"
+    },
+    {
+        "value": 13,
+        "name": "媒体"
+    },
+    {
+        "value": 66,
+        "name": "年"
+    },
+    {
+        "value": 1,
+        "name": "日增"
+    },
+    {
+        "value": 1,
+        "name": "持"
+    },
+    {
+        "value": 4,
+        "name": "万股"
+    },
+    {
+        "value": 7,
+        "name": "符合"
+    },
+    {
+        "value": 13,
+        "name": "上市公司"
+    },
+    {
+        "value": 19,
+        "name": "相关"
+    },
+    {
+        "value": 1,
+        "name": "筹划"
+    },
+    {
+        "value": 1,
+        "name": "起诉"
+    },
+    {
+        "value": 66,
+        "name": "管理层"
+    },
+    {
+        "value": 2,
+        "name": "泄露"
+    },
+    {
+        "value": 2,
+        "name": "打压"
+    },
+    {
+        "value": 57,
+        "name": "股价"
+    },
+    {
+        "value": 4,
+        "name": "事项"
+    },
+    {
+        "value": 4,
+        "name": "有何"
+    },
+    {
+        "value": 3,
+        "name": "看法"
+    },
+    {
+        "value": 39,
+        "name": "复牌"
+    },
+    {
+        "value": 1,
+        "name": "盼"
+    },
+    {
+        "value": 11,
+        "name": "回复"
+    },
+    {
+        "value": 4,
+        "name": "说好"
+    },
+    {
+        "value": 35,
+        "name": "前"
+    },
+    {
+        "value": 1,
+        "name": "一拖再拖"
+    },
+    {
+        "value": 3,
+        "name": "报道"
+    },
+    {
+        "value": 43,
+        "name": "说"
+    },
+    {
+        "value": 27,
+        "name": "请"
+    },
+    {
+        "value": 1,
+        "name": "证实"
+    },
+    {
+        "value": 1,
+        "name": "信誉"
+    },
+    {
+        "value": 1,
+        "name": "一而再"
+    },
+    {
+        "value": 1,
+        "name": "再而三"
+    },
+    {
+        "value": 3,
+        "name": "推迟"
+    },
+    {
+        "value": 20,
+        "name": "时间"
+    },
+    {
+        "value": 2,
+        "name": "未能"
+    },
+    {
+        "value": 2,
+        "name": "达成"
+    },
+    {
+        "value": 21,
+        "name": "重组"
+    },
+    {
+        "value": 10,
+        "name": "方案"
+    },
+    {
+        "value": 16,
+        "name": "时"
+    },
+    {
+        "value": 12,
+        "name": "下跌"
+    },
+    {
+        "value": 2,
+        "name": "遭遇"
+    },
+    {
+        "value": 4,
+        "name": "损失"
+    },
+    {
+        "value": 4,
+        "name": "有人"
+    },
+    {
+        "value": 12,
+        "name": "承诺"
+    },
+    {
+        "value": 14,
+        "name": "现金"
+    },
+    {
+        "value": 4,
+        "name": "数额"
+    },
+    {
+        "value": 1,
+        "name": "≥"
+    },
+    {
+        "value": 18,
+        "name": "真的"
+    },
+    {
+        "value": 13,
+        "name": "A"
+    },
+    {
+        "value": 7,
+        "name": "违法"
+    },
+    {
+        "value": 1,
+        "name": "日会"
+    },
+    {
+        "value": 10,
+        "name": "独立"
+    },
+    {
+        "value": 12,
+        "name": "董事"
+    },
+    {
+        "value": 5,
+        "name": "华生"
+    },
+    {
+        "value": 3,
+        "name": "薪酬"
+    },
+    {
+        "value": 1,
+        "name": "三位"
+    },
+    {
+        "value": 1,
+        "name": "年薪"
+    },
+    {
+        "value": 1,
+        "name": "几万块"
+    },
+    {
+        "value": 1,
+        "name": "财大气粗"
+    },
+    {
+        "value": 2,
+        "name": "微博"
+    },
+    {
+        "value": 5,
+        "name": "公众"
+    },
+    {
+        "value": 1,
+        "name": "肆意"
+    },
+    {
+        "value": 1,
+        "name": "敏感"
+    },
+    {
+        "value": 6,
+        "name": "制度"
+    },
+    {
+        "value": 9,
+        "name": "公开"
+    },
+    {
+        "value": 7,
+        "name": "发布"
+    },
+    {
+        "value": 8,
+        "name": "消息"
+    },
+    {
+        "value": 8,
+        "name": "回答"
+    },
+    {
+        "value": 2,
+        "name": "通讯"
+    },
+    {
+        "value": 3,
+        "name": "不算"
+    },
+    {
+        "value": 6,
+        "name": "连续"
+    },
+    {
+        "value": 2,
+        "name": "编号"
+    },
+    {
+        "value": 34,
+        "name": "你好"
+    },
+    {
+        "value": 13,
+        "name": "黑石"
+    },
+    {
+        "value": 25,
+        "name": "情况"
+    },
+    {
+        "value": 1,
+        "name": "独董"
+    },
+    {
+        "value": 2,
+        "name": "发表"
+    },
+    {
+        "value": 1,
+        "name": "意见"
+    },
+    {
+        "value": 3,
+        "name": "交易日"
+    },
+    {
+        "value": 3,
+        "name": "事宜"
+    },
+    {
+        "value": 4,
+        "name": "法律法规"
+    },
+    {
+        "value": 1,
+        "name": "公司章程"
+    },
+    {
+        "value": 1,
+        "name": "议程"
+    },
+    {
+        "value": 1,
+        "name": "或否"
+    },
+    {
+        "value": 7,
+        "name": "深交所"
+    },
+    {
+        "value": 11,
+        "name": "上市"
+    },
+    {
+        "value": 7,
+        "name": "规则"
+    },
+    {
+        "value": 1,
+        "name": "9.2"
+    },
+    {
+        "value": 1,
+        "name": "四"
+    },
+    {
+        "value": 2,
+        "name": "条"
+    },
+    {
+        "value": 1,
+        "name": "交易额"
+    },
+    {
+        "value": 3,
+        "name": "审计"
+    },
+    {
+        "value": 5,
+        "name": "净资产"
+    },
+    {
+        "value": 2,
+        "name": "10%"
+    },
+    {
+        "value": 1,
+        "name": "需"
+    },
+    {
+        "value": 2,
+        "name": "这一"
+    },
+    {
+        "value": 1,
+        "name": "标准"
+    },
+    {
+        "value": 1,
+        "name": "张利平"
+    },
+    {
+        "value": 2,
+        "name": "回避"
+    },
+    {
+        "value": 1,
+        "name": "毒"
+    },
+    {
+        "value": 2,
+        "name": "董华生"
+    },
+    {
+        "value": 1,
+        "name": "投了"
+    },
+    {
+        "value": 2,
+        "name": "赞同"
+    },
+    {
+        "value": 3,
+        "name": "票"
+    },
+    {
+        "value": 1,
+        "name": "日经"
+    },
+    {
+        "value": 1,
+        "name": "查遍"
+    },
+    {
+        "value": 5,
+        "name": "发现"
+    },
+    {
+        "value": 2,
+        "name": "七届"
+    },
+    {
+        "value": 1,
+        "name": "十一次"
+    },
+    {
+        "value": 11,
+        "name": "决议"
+    },
+    {
+        "value": 1,
+        "name": "十二次"
+    },
+    {
+        "value": 1,
+        "name": "十一点"
+    },
+    {
+        "value": 2,
+        "name": "五次"
+    },
+    {
+        "value": 7,
+        "name": "新闻"
+    },
+    {
+        "value": 3,
+        "name": "发言人"
+    },
+    {
+        "value": 2,
+        "name": "姓名"
+    },
+    {
+        "value": 3,
+        "name": "职务"
+    },
+    {
+        "value": 1,
+        "name": "告知"
+    },
+    {
+        "value": 19,
+        "name": "持有"
+    },
+    {
+        "value": 2,
+        "name": "几年"
+    },
+    {
+        "value": 10,
+        "name": "去年"
+    },
+    {
+        "value": 1,
+        "name": "暴涨"
+    },
+    {
+        "value": 1,
+        "name": "没换"
+    },
+    {
+        "value": 1,
+        "name": "爆跌"
+    },
+    {
+        "value": 29,
+        "name": "希望"
+    },
+    {
+        "value": 28,
+        "name": "利益"
+    },
+    {
+        "value": 2,
+        "name": "借口"
+    },
+    {
+        "value": 24,
+        "name": "中国"
+    },
+    {
+        "value": 1,
+        "name": "纳入"
+    },
+    {
+        "value": 1,
+        "name": "明晟"
+    },
+    {
+        "value": 3,
+        "name": "指数"
+    },
+    {
+        "value": 4,
+        "name": "是因为"
+    },
+    {
+        "value": 20,
+        "name": "长期"
+    },
+    {
+        "value": 4,
+        "name": "拖"
+    },
+    {
+        "value": 1,
+        "name": "后腿"
+    },
+    {
+        "value": 1,
+        "name": "无中生有"
+    },
+    {
+        "value": 4,
+        "name": "恶意"
+    },
+    {
+        "value": 1,
+        "name": "造谣中伤"
+    },
+    {
+        "value": 34,
+        "name": "建议"
+    },
+    {
+        "value": 1,
+        "name": "报案"
+    },
+    {
+        "value": 1,
+        "name": "找出"
+    },
+    {
+        "value": 1,
+        "name": "罪恶"
+    },
+    {
+        "value": 1,
+        "name": "源头"
+    },
+    {
+        "value": 1,
+        "name": "以正视听"
+    },
+    {
+        "value": 1,
+        "name": "6.18"
+    },
+    {
+        "value": 3,
+        "name": "多久"
+    },
+    {
+        "value": 2,
+        "name": "能复牌"
+    },
+    {
+        "value": 3,
+        "name": "反对"
+    },
+    {
+        "value": 26,
+        "name": "深圳"
+    },
+    {
+        "value": 15,
+        "name": "地铁"
+    },
+    {
+        "value": 7,
+        "name": "机会"
+    },
+    {
+        "value": 25,
+        "name": "地产"
+    },
+    {
+        "value": 23,
+        "name": "合作"
+    },
+    {
+        "value": 22,
+        "name": "未来"
+    },
+    {
+        "value": 2,
+        "name": "超越"
+    },
+    {
+        "value": 2,
+        "name": "二"
+    },
+    {
+        "value": 30,
+        "name": "做"
+    },
+    {
+        "value": 3,
+        "name": "强"
+    },
+    {
+        "value": 11,
+        "name": "控股"
+    },
+    {
+        "value": 25,
+        "name": "发展"
+    },
+    {
+        "value": 5,
+        "name": "空间"
+    },
+    {
+        "value": 1,
+        "name": "两大"
+    },
+    {
+        "value": 2,
+        "name": "否定"
+    },
+    {
+        "value": 1,
+        "name": "没面子"
+    },
+    {
+        "value": 2,
+        "name": "盖"
+    },
+    {
+        "value": 33,
+        "name": "物业"
+    },
+    {
+        "value": 25,
+        "name": "华润"
+    },
+    {
+        "value": 6,
+        "name": "宝能系"
+    },
+    {
+        "value": 1,
+        "name": "吃亏"
+    },
+    {
+        "value": 40,
+        "name": "宝能"
+    },
+    {
+        "value": 3,
+        "name": "一家"
+    },
+    {
+        "value": 2,
+        "name": "假设"
+    },
+    {
+        "value": 32,
+        "name": "计划"
+    },
+    {
+        "value": 1,
+        "name": "设立"
+    },
+    {
+        "value": 1,
+        "name": "算盘"
+    },
+    {
+        "value": 3,
+        "name": "计算"
+    },
+    {
+        "value": 1,
+        "name": "太细"
+    },
+    {
+        "value": 1,
+        "name": "后悔莫及"
+    },
+    {
+        "value": 1,
+        "name": "做梦"
+    },
+    {
+        "value": 12,
+        "name": "董事长"
+    },
+    {
+        "value": 2,
+        "name": "离任"
+    },
+    {
+        "value": 2,
+        "name": "自保"
+    },
+    {
+        "value": 4,
+        "name": "可靠"
+    },
+    {
+        "value": 5,
+        "name": "标的"
+    },
+    {
+        "value": 2,
+        "name": "火速"
+    },
+    {
+        "value": 2,
+        "name": "一系列"
+    },
+    {
+        "value": 2,
+        "name": "轻敌"
+    },
+    {
+        "value": 4,
+        "name": "失误"
+    },
+    {
+        "value": 2,
+        "name": "付"
+    },
+    {
+        "value": 3,
+        "name": "代价"
+    },
+    {
+        "value": 13,
+        "name": "属实"
+    },
+    {
+        "value": 3,
+        "name": "否"
+    },
+    {
+        "value": 6,
+        "name": "合法"
+    },
+    {
+        "value": 6,
+        "name": "规划"
+    },
+    {
+        "value": 6,
+        "name": "主动"
+    },
+    {
+        "value": 7,
+        "name": "退市"
+    },
+    {
+        "value": 1,
+        "name": "心思"
+    },
+    {
+        "value": 2,
+        "name": "放在"
+    },
+    {
+        "value": 7,
+        "name": "控制权"
+    },
+    {
+        "value": 1,
+        "name": "精力"
+    },
+    {
+        "value": 1,
+        "name": "团结"
+    },
+    {
+        "value": 1,
+        "name": "力量"
+    },
+    {
+        "value": 10,
+        "name": "搞"
+    },
+    {
+        "value": 16,
+        "name": "经营"
+    },
+    {
+        "value": 1,
+        "name": "为争"
+    },
+    {
+        "value": 1,
+        "name": "无谓"
+    },
+    {
+        "value": 1,
+        "name": "闹"
+    },
+    {
+        "value": 1,
+        "name": "沸沸扬扬"
+    },
+    {
+        "value": 1,
+        "name": "满城风雨"
+    },
+    {
+        "value": 3,
+        "name": "最终"
+    },
+    {
+        "value": 1,
+        "name": "尴尬"
+    },
+    {
+        "value": 2,
+        "name": "笑话"
+    },
+    {
+        "value": 2,
+        "name": "一方"
+    },
+    {
+        "value": 3,
+        "name": "开放"
+    },
+    {
+        "value": 1,
+        "name": "包容"
+    },
+    {
+        "value": 2,
+        "name": "心胸"
+    },
+    {
+        "value": 2,
+        "name": "当初"
+    },
+    {
+        "value": 1,
+        "name": "赢"
+    },
+    {
+        "value": 7,
+        "name": "损害"
+    },
+    {
+        "value": 9,
+        "name": "影响"
+    },
+    {
+        "value": 5,
+        "name": "不好"
+    },
+    {
+        "value": 19,
+        "name": "您好"
+    },
+    {
+        "value": 3,
+        "name": "内部"
+    },
+    {
+        "value": 1,
+        "name": "一团糟"
+    },
+    {
+        "value": 1,
+        "name": "不复牌"
+    },
+    {
+        "value": 1,
+        "name": "无赖"
+    },
+    {
+        "value": 1,
+        "name": "誊好"
+    },
+    {
+        "value": 3,
+        "name": "赶紧"
+    },
+    {
+        "value": 2,
+        "name": "抛"
+    },
+    {
+        "value": 33,
+        "name": "股票"
+    },
+    {
+        "value": 1,
+        "name": "进退自如"
+    },
+    {
+        "value": 1,
+        "name": "主动权"
+    },
+    {
+        "value": 16,
+        "name": "支持"
+    },
+    {
+        "value": 50,
+        "name": "王石"
+    },
+    {
+        "value": 12,
+        "name": "郁亮"
+    },
+    {
+        "value": 1,
+        "name": "度过"
+    },
+    {
+        "value": 2,
+        "name": "危机"
+    },
+    {
+        "value": 3,
+        "name": "借鉴"
+    },
+    {
+        "value": 7,
+        "name": "当年"
+    },
+    {
+        "value": 1,
+        "name": "国美"
+    },
+    {
+        "value": 1,
+        "name": "创始人"
+    },
+    {
+        "value": 3,
+        "name": "离开"
+    },
+    {
+        "value": 6,
+        "name": "提前"
+    },
+    {
+        "value": 5,
+        "name": "做好"
+    },
+    {
+        "value": 3,
+        "name": "离职"
+    },
+    {
+        "value": 1,
+        "name": "算清楚"
+    },
+    {
+        "value": 1,
+        "name": "账目"
+    },
+    {
+        "value": 2,
+        "name": "已过"
+    },
+    {
+        "value": 8,
+        "name": "这是"
+    },
+    {
+        "value": 1,
+        "name": "违规"
+    },
+    {
+        "value": 1,
+        "name": "合规"
+    },
+    {
+        "value": 1,
+        "name": "只想"
+    },
+    {
+        "value": 6,
+        "name": "证监会"
+    },
+    {
+        "value": 1,
+        "name": "脸"
+    },
+    {
+        "value": 3,
+        "name": "证券市场"
+    },
+    {
+        "value": 1,
+        "name": "法治"
+    },
+    {
+        "value": 1,
+        "name": "进程"
+    },
+    {
+        "value": 9,
+        "name": "带来"
+    },
+    {
+        "value": 1,
+        "name": "恶劣影响"
+    },
+    {
+        "value": 10,
+        "name": "股"
+    },
+    {
+        "value": 2,
+        "name": "参加"
+    },
+    {
+        "value": 1,
+        "name": "拒之门外"
+    },
+    {
+        "value": 2,
+        "name": "财富"
+    },
+    {
+        "value": 1,
+        "name": "贫困"
+    },
+    {
+        "value": 1,
+        "name": "公平"
+    },
+    {
+        "value": 1,
+        "name": "亚当斯"
+    },
+    {
+        "value": 1,
+        "name": "密"
+    },
+    {
+        "value": 2,
+        "name": "老姚"
+    },
+    {
+        "value": 8,
+        "name": "钱"
+    },
+    {
+        "value": 1,
+        "name": "优质"
+    },
+    {
+        "value": 24,
+        "name": "股权"
+    },
+    {
+        "value": 3,
+        "name": "分散"
+    },
+    {
+        "value": 2,
+        "name": "老百姓"
+    },
+    {
+        "value": 3,
+        "name": "手中"
+    },
+    {
+        "value": 5,
+        "name": "国家"
+    },
+    {
+        "value": 1,
+        "name": "总体经济"
+    },
+    {
+        "value": 3,
+        "name": "化解"
+    },
+    {
+        "value": 1,
+        "name": "经济危机"
+    },
+    {
+        "value": 1,
+        "name": "市场经济"
+    },
+    {
+        "value": 1,
+        "name": "脆弱性"
+    },
+    {
+        "value": 1,
+        "name": "无法无天"
+    },
+    {
+        "value": 2,
+        "name": "折腾"
+    },
+    {
+        "value": 1,
+        "name": "越乱"
+    },
+    {
+        "value": 1,
+        "name": "越"
+    },
+    {
+        "value": 8,
+        "name": "大盘"
+    },
+    {
+        "value": 1,
+        "name": "争取时间"
+    },
+    {
+        "value": 5,
+        "name": "找"
+    },
+    {
+        "value": 9,
+        "name": "点"
+    },
+    {
+        "value": 1,
+        "name": "惨"
+    },
+    {
+        "value": 7,
+        "name": "走"
+    },
+    {
+        "value": 8,
+        "name": "完"
+    },
+    {
+        "value": 4,
+        "name": "员工"
+    },
+    {
+        "value": 3,
+        "name": "跟着"
+    },
+    {
+        "value": 1,
+        "name": "接"
+    },
+    {
+        "value": 1,
+        "name": "死"
+    },
+    {
+        "value": 2,
+        "name": "丢"
+    },
+    {
+        "value": 1,
+        "name": "掉"
+    },
+    {
+        "value": 3,
+        "name": "罢免"
+    },
+    {
+        "value": 1,
+        "name": "高薪"
+    },
+    {
+        "value": 2,
+        "name": "彊"
+    },
+    {
+        "value": 3,
+        "name": "山"
+    },
+    {
+        "value": 5,
+        "name": "难"
+    },
+    {
+        "value": 1,
+        "name": "守"
+    },
+    {
+        "value": 1,
+        "name": "历害"
+    },
+    {
+        "value": 1,
+        "name": "高高在上"
+    },
+    {
+        "value": 1,
+        "name": "钻"
+    },
+    {
+        "value": 1,
+        "name": "空"
+    },
+    {
+        "value": 1,
+        "name": "后悔"
+    },
+    {
+        "value": 1,
+        "name": "活该"
+    },
+    {
+        "value": 1,
+        "name": "干扰"
+    },
+    {
+        "value": 1,
+        "name": "成绩"
+    },
+    {
+        "value": 1,
+        "name": "优异"
+    },
+    {
+        "value": 7,
+        "name": "体现"
+    },
+    {
+        "value": 1,
+        "name": "韧性"
+    },
+    {
+        "value": 6,
+        "name": "价值"
+    },
+    {
+        "value": 2,
+        "name": "更好"
+    },
+    {
+        "value": 1,
+        "name": "战胜"
+    },
+    {
+        "value": 1,
+        "name": "鲁莽"
+    },
+    {
+        "value": 14,
+        "name": "资本"
+    },
+    {
+        "value": 2,
+        "name": "孤单"
+    },
+    {
+        "value": 1,
+        "name": "默声"
+    },
+    {
+        "value": 1,
+        "name": "理性"
+    },
+    {
+        "value": 35,
+        "name": "投资者"
+    },
+    {
+        "value": 1,
+        "name": "迎接"
+    },
+    {
+        "value": 1,
+        "name": "风雨"
+    },
+    {
+        "value": 1,
+        "name": "彩虹"
+    },
+    {
+        "value": 4,
+        "name": "提请"
+    },
+    {
+        "value": 7,
+        "name": "议案"
+    },
+    {
+        "value": 1,
+        "name": "快点"
+    },
+    {
+        "value": 3,
+        "name": "万能"
+    },
+    {
+        "value": 1,
+        "name": "险举牌"
+    },
+    {
+        "value": 1,
+        "name": "险"
+    },
+    {
+        "value": 3,
+        "name": "投票权"
+    },
+    {
+        "value": 3,
+        "name": "归属"
+    },
+    {
+        "value": 1,
+        "name": "国内"
+    },
+    {
+        "value": 2,
+        "name": "争议"
+    },
+    {
+        "value": 1,
+        "name": "何不"
+    },
+    {
+        "value": 1,
+        "name": "入手"
+    },
+    {
+        "value": 8,
+        "name": "买入"
+    },
+    {
+        "value": 1,
+        "name": "险买"
+    },
+    {
+        "value": 4,
+        "name": "压力"
+    },
+    {
+        "value": 1,
+        "name": "小点"
+    },
+    {
+        "value": 4,
+        "name": "华润集团"
+    },
+    {
+        "value": 3,
+        "name": "置业"
+    },
+    {
+        "value": 1,
+        "name": "60%"
+    },
+    {
+        "value": 1,
+        "name": "兼任"
+    },
+    {
+        "value": 4,
+        "name": "法律"
+    },
+    {
+        "value": 1,
+        "name": "独立性"
+    },
+    {
+        "value": 4,
+        "name": "倍"
+    },
+    {
+        "value": 11,
+        "name": "杠杆"
+    },
+    {
+        "value": 8,
+        "name": "银行"
+    },
+    {
+        "value": 19,
+        "name": "资金"
+    },
+    {
+        "value": 1,
+        "name": "傅"
+    },
+    {
+        "value": 1,
+        "name": "同流合污"
+    },
+    {
+        "value": 2,
+        "name": "监管部门"
+    },
+    {
+        "value": 1,
+        "name": "视而不见"
+    },
+    {
+        "value": 1,
+        "name": "法院"
+    },
+    {
+        "value": 2,
+        "name": "部门"
+    },
+    {
+        "value": 1,
+        "name": "申诉"
+    },
+    {
+        "value": 7,
+        "name": "算"
+    },
+    {
+        "value": 19,
+        "name": "管理"
+    },
+    {
+        "value": 16,
+        "name": "团队"
+    },
+    {
+        "value": 1,
+        "name": "负责"
+    },
+    {
+        "value": 1,
+        "name": "害群之马"
+    },
+    {
+        "value": 1,
+        "name": "丢架"
+    },
+    {
+        "value": 4,
+        "name": "随意"
+    },
+    {
+        "value": 1,
+        "name": "忽悠"
+    },
+    {
+        "value": 1,
+        "name": "式"
+    },
+    {
+        "value": 2,
+        "name": "美国"
+    },
+    {
+        "value": 1,
+        "name": "台湾"
+    },
+    {
+        "value": 3,
+        "name": "香港"
+    },
+    {
+        "value": 1,
+        "name": "随便"
+    },
+    {
+        "value": 1,
+        "name": "摆明"
+    },
+    {
+        "value": 1,
+        "name": "坑"
+    },
+    {
+        "value": 3,
+        "name": "散户"
+    },
+    {
+        "value": 7,
+        "name": "保护"
+    },
+    {
+        "value": 8,
+        "name": "保证"
+    },
+    {
+        "value": 1,
+        "name": "90%"
+    },
+    {
+        "value": 3,
+        "name": "半个"
+    },
+    {
+        "value": 2,
+        "name": "亏"
+    },
+    {
+        "value": 1,
+        "name": "亏了"
+    },
+    {
+        "value": 3,
+        "name": "深"
+    },
+    {
+        "value": 3,
+        "name": "拟"
+    },
+    {
+        "value": 2,
+        "name": "转让"
+    },
+    {
+        "value": 1,
+        "name": "两块"
+    },
+    {
+        "value": 2,
+        "name": "拍卖"
+    },
+    {
+        "value": 1,
+        "name": "竞拍"
+    },
+    {
+        "value": 8,
+        "name": "二级"
+    },
+    {
+        "value": 7,
+        "name": "融资"
+    },
+    {
+        "value": 2,
+        "name": "摊薄"
+    },
+    {
+        "value": 8,
+        "name": "收益"
+    },
+    {
+        "value": 8,
+        "name": "稳定"
+    },
+    {
+        "value": 5,
+        "name": "提高"
+    },
+    {
+        "value": 5,
+        "name": "钜"
+    },
+    {
+        "value": 4,
+        "name": "盛华"
+    },
+    {
+        "value": 25,
+        "name": "海"
+    },
+    {
+        "value": 17,
+        "name": "人寿"
+    },
+    {
+        "value": 13,
+        "name": "资产"
+    },
+    {
+        "value": 24,
+        "name": "收购"
+    },
+    {
+        "value": 3,
+        "name": "市"
+    },
+    {
+        "value": 1,
+        "name": "利益冲突"
+    },
+    {
+        "value": 1,
+        "name": "抛售"
+    },
+    {
+        "value": 1,
+        "name": "先"
+    },
+    {
+        "value": 3,
+        "name": "涉及"
+    },
+    {
+        "value": 2,
+        "name": "利益输送"
+    },
+    {
+        "value": 1,
+        "name": "嫌"
+    },
+    {
+        "value": 12,
+        "name": "举牌"
+    },
+    {
+        "value": 8,
+        "name": "事件"
+    },
+    {
+        "value": 1,
+        "name": "已早"
+    },
+    {
+        "value": 1,
+        "name": "意料"
+    },
+    {
+        "value": 1,
+        "name": "相应措施"
+    },
+    {
+        "value": 1,
+        "name": "可惜"
+    },
+    {
+        "value": 1,
+        "name": "权之争"
+    },
+    {
+        "value": 4,
+        "name": "发生"
+    },
+    {
+        "value": 2,
+        "name": "前瞻性"
+    },
+    {
+        "value": 1,
+        "name": "点个"
+    },
+    {
+        "value": 2,
+        "name": "赞"
+    },
+    {
+        "value": 4,
+        "name": "董秘"
+    },
+    {
+        "value": 1,
+        "name": "最佳"
+    },
+    {
+        "value": 3,
+        "name": "房企"
+    },
+    {
+        "value": 3,
+        "name": "华发"
+    },
+    {
+        "value": 40,
+        "name": "股份"
+    },
+    {
+        "value": 1,
+        "name": "招商"
+    },
+    {
+        "value": 1,
+        "name": "把脉"
+    },
+    {
+        "value": 1,
+        "name": "再度"
+    },
+    {
+        "value": 1,
+        "name": "走入"
+    },
+    {
+        "value": 1,
+        "name": "大众"
+    },
+    {
+        "value": 1,
+        "name": "视野"
+    },
+    {
+        "value": 2,
+        "name": "何种"
+    },
+    {
+        "value": 4,
+        "name": "方式"
+    },
+    {
+        "value": 5,
+        "name": "之争"
+    },
+    {
+        "value": 3,
+        "name": "负面"
+    },
+    {
+        "value": 2,
+        "name": "周一"
+    },
+    {
+        "value": 7,
+        "name": "学习"
+    },
+    {
+        "value": 1,
+        "name": "大通"
+    },
+    {
+        "value": 1,
+        "name": "郝亮"
+    },
+    {
+        "value": 10,
+        "name": "应对"
+    },
+    {
+        "value": 1,
+        "name": "难题"
+    },
+    {
+        "value": 5,
+        "name": "互动"
+    },
+    {
+        "value": 2,
+        "name": "易"
+    },
+    {
+        "value": 9,
+        "name": "提升"
+    },
+    {
+        "value": 3,
+        "name": "一种"
+    },
+    {
+        "value": 1,
+        "name": "境界"
+    },
+    {
+        "value": 1,
+        "name": "幽默"
+    },
+    {
+        "value": 2,
+        "name": "风趣"
+    },
+    {
+        "value": 1,
+        "name": "耐心"
+    },
+    {
+        "value": 1,
+        "name": "细致"
+    },
+    {
+        "value": 1,
+        "name": "同行"
+    },
+    {
+        "value": 1,
+        "name": "见贤思齐"
+    },
+    {
+        "value": 2,
+        "name": "配"
+    },
+    {
+        "value": 2,
+        "name": "得"
+    },
+    {
+        "value": 1,
+        "name": "岗位"
+    },
+    {
+        "value": 1,
+        "name": "打着"
+    },
+    {
+        "value": 1,
+        "name": "官腔"
+    },
+    {
+        "value": 1,
+        "name": "财报"
+    },
+    {
+        "value": 1,
+        "name": "别具一格"
+    },
+    {
+        "value": 1,
+        "name": "开场白"
+    },
+    {
+        "value": 1,
+        "name": "印象"
+    },
+    {
+        "value": 1,
+        "name": "宝万之争"
+    },
+    {
+        "value": 1,
+        "name": "公司法"
+    },
+    {
+        "value": 2,
+        "name": "保险资金"
+    },
+    {
+        "value": 2,
+        "name": "层面"
+    },
+    {
+        "value": 1,
+        "name": "深思"
+    },
+    {
+        "value": 1,
+        "name": "反省"
+    },
+    {
+        "value": 3,
+        "name": "打造"
+    },
+    {
+        "value": 1,
+        "name": "透明"
+    },
+    {
+        "value": 5,
+        "name": "解决"
+    },
+    {
+        "value": 1,
+        "name": "诉讼"
+    },
+    {
+        "value": 1,
+        "name": "求"
+    },
+    {
+        "value": 4,
+        "name": "值得"
+    },
+    {
+        "value": 4,
+        "name": "各方"
+    },
+    {
+        "value": 1,
+        "name": "反思"
+    },
+    {
+        "value": 3,
+        "name": "规范"
+    },
+    {
+        "value": 2,
+        "name": "产权"
+    },
+    {
+        "value": 2,
+        "name": "结构"
+    },
+    {
+        "value": 3,
+        "name": "好好"
+    },
+    {
+        "value": 1,
+        "name": "总结经验"
+    },
+    {
+        "value": 1,
+        "name": "教训"
+    },
+    {
+        "value": 7,
+        "name": "上海"
+    },
+    {
+        "value": 2,
+        "name": "家化"
+    },
+    {
+        "value": 1,
+        "name": "阴影"
+    },
+    {
+        "value": 1,
+        "name": "上演"
+    },
+    {
+        "value": 2,
+        "name": "类似"
+    },
+    {
+        "value": 2,
+        "name": "格力"
+    },
+    {
+        "value": 1,
+        "name": "坠入"
+    },
+    {
+        "value": 1,
+        "name": "纷争"
+    },
+    {
+        "value": 2,
+        "name": "之中"
+    },
+    {
+        "value": 2,
+        "name": "一是"
+    },
+    {
+        "value": 3,
+        "name": "申请"
+    },
+    {
+        "value": 4,
+        "name": "并购"
+    },
+    {
+        "value": 1,
+        "name": "对象"
+    },
+    {
+        "value": 24,
+        "name": "增持"
+    },
+    {
+        "value": 4,
+        "name": "嫌疑"
+    },
+    {
+        "value": 1,
+        "name": "有独"
+    },
+    {
+        "value": 2,
+        "name": "文章"
+    },
+    {
+        "value": 1,
+        "name": "佐证"
+    },
+    {
+        "value": 1,
+        "name": "详见"
+    },
+    {
+        "value": 1,
+        "name": "上证"
+    },
+    {
+        "value": 3,
+        "name": "报"
+    },
+    {
+        "value": 2,
+        "name": "H"
+    },
+    {
+        "value": 2,
+        "name": "二是"
+    },
+    {
+        "value": 3,
+        "name": "高管"
+    },
+    {
+        "value": 4,
+        "name": "大幅"
+    },
+    {
+        "value": 3,
+        "name": "上涨"
+    },
+    {
+        "value": 5,
+        "name": "卖出"
+    },
+    {
+        "value": 2,
+        "name": "涉嫌"
+    },
+    {
+        "value": 5,
+        "name": "拿出"
+    },
+    {
+        "value": 1,
+        "name": "证据"
+    },
+    {
+        "value": 3,
+        "name": "自证"
+    },
+    {
+        "value": 2,
+        "name": "清白"
+    },
+    {
+        "value": 1,
+        "name": "没收"
+    },
+    {
+        "value": 1,
+        "name": "记录"
+    },
+    {
+        "value": 2,
+        "name": "诚信"
+    },
+    {
+        "value": 1,
+        "name": "档案"
+    },
+    {
+        "value": 1,
+        "name": "央企找"
+    },
+    {
+        "value": 1,
+        "name": "学界"
+    },
+    {
+        "value": 1,
+        "name": "宗师"
+    },
+    {
+        "value": 1,
+        "name": "站台"
+    },
+    {
+        "value": 2,
+        "name": "江湖"
+    },
+    {
+        "value": 1,
+        "name": "抬"
+    },
+    {
+        "value": 7,
+        "name": "出"
+    },
+    {
+        "value": 1,
+        "name": "潮汕"
+    },
+    {
+        "value": 1,
+        "name": "帮会"
+    },
+    {
+        "value": 1,
+        "name": "后盾"
+    },
+    {
+        "value": 1,
+        "name": "说事"
+    },
+    {
+        "value": 2,
+        "name": "基础"
+    },
+    {
+        "value": 4,
+        "name": "面对"
+    },
+    {
+        "value": 2,
+        "name": "政府"
+    },
+    {
+        "value": 2,
+        "name": "之间"
+    },
+    {
+        "value": 1,
+        "name": "层次"
+    },
+    {
+        "value": 2,
+        "name": "务必"
+    },
+    {
+        "value": 4,
+        "name": "保障"
+    },
+    {
+        "value": 3,
+        "name": "找到"
+    },
+    {
+        "value": 1,
+        "name": "平衡"
+    },
+    {
+        "value": 7,
+        "name": "目标"
+    },
+    {
+        "value": 1,
+        "name": "数"
+    },
+    {
+        "value": 1,
+        "name": "滚出去"
+    },
+    {
+        "value": 1,
+        "name": "见意"
+    },
+    {
+        "value": 1,
+        "name": "同"
+    },
+    {
+        "value": 1,
+        "name": "过"
+    },
+    {
+        "value": 1,
+        "name": "渠道"
+    },
+    {
+        "value": 1,
+        "name": "查查"
+    },
+    {
+        "value": 2,
+        "name": "高层"
+    },
+    {
+        "value": 1,
+        "name": "贪污受贿"
+    },
+    {
+        "value": 1,
+        "name": "也许"
+    },
+    {
+        "value": 1,
+        "name": "下马威"
+    },
+    {
+        "value": 2,
+        "name": "国企"
+    },
+    {
+        "value": 1,
+        "name": "贪官"
+    },
+    {
+        "value": 5,
+        "name": "爆仓"
+    },
+    {
+        "value": 1,
+        "name": "倒闭"
+    },
+    {
+        "value": 1,
+        "name": "优先"
+    },
+    {
+        "value": 1,
+        "name": "清偿"
+    },
+    {
+        "value": 2,
+        "name": "保险客户"
+    },
+    {
+        "value": 2,
+        "name": "资管"
+    },
+    {
+        "value": 3,
+        "name": "出资"
+    },
+    {
+        "value": 1,
+        "name": "抵押放款"
+    },
+    {
+        "value": 2,
+        "name": "券商"
+    },
+    {
+        "value": 1,
+        "name": "劣后"
+    },
+    {
+        "value": 1,
+        "name": "赎回"
+    },
+    {
+        "value": 1,
+        "name": "无锡"
+    },
+    {
+        "value": 1,
+        "name": "·"
+    },
+    {
+        "value": 1,
+        "name": "信成"
+    },
+    {
+        "value": 1,
+        "name": "道"
+    },
+    {
+        "value": 8,
+        "name": "投诉"
+    },
+    {
+        "value": 1,
+        "name": "复合地板"
+    },
+    {
+        "value": 1,
+        "name": "沾水"
+    },
+    {
+        "value": 1,
+        "name": "泡"
+    },
+    {
+        "value": 1,
+        "name": "烂"
+    },
+    {
+        "value": 1,
+        "name": "钥匙"
+    },
+    {
+        "value": 1,
+        "name": "托管"
+    },
+    {
+        "value": 1,
+        "name": "贴墙纸"
+    },
+    {
+        "value": 1,
+        "name": "保洁"
+    },
+    {
+        "value": 1,
+        "name": "家里"
+    },
+    {
+        "value": 1,
+        "name": "弄"
+    },
+    {
+        "value": 1,
+        "name": "一塌糊涂"
+    },
+    {
+        "value": 2,
+        "name": "态度"
+    },
+    {
+        "value": 1,
+        "name": "差"
+    },
+    {
+        "value": 1,
+        "name": "叫上来"
+    },
+    {
+        "value": 1,
+        "name": "对质"
+    },
+    {
+        "value": 1,
+        "name": "抵赖"
+    },
+    {
+        "value": 2,
+        "name": "大部分"
+    },
+    {
+        "value": 1,
+        "name": "人买套"
+    },
+    {
+        "value": 12,
+        "name": "房子"
+    },
+    {
+        "value": 1,
+        "name": "房产商"
+    },
+    {
+        "value": 1,
+        "name": "商家"
+    },
+    {
+        "value": 4,
+        "name": "赚钱"
+    },
+    {
+        "value": 1,
+        "name": "活着"
+    },
+    {
+        "value": 2,
+        "name": "口碑"
+    },
+    {
+        "value": 2,
+        "name": "这件"
+    },
+    {
+        "value": 8,
+        "name": "事情"
+    },
+    {
+        "value": 3,
+        "name": "变"
+    },
+    {
+        "value": 2,
+        "name": "有个"
+    },
+    {
+        "value": 5,
+        "name": "不错"
+    },
+    {
+        "value": 1,
+        "name": "处理结果"
+    },
+    {
+        "value": 1,
+        "name": "往年"
+    },
+    {
+        "value": 4,
+        "name": "预案"
+    },
+    {
+        "value": 2,
+        "name": "最"
+    },
+    {
+        "value": 2,
+        "name": "多"
+    },
+    {
+        "value": 1,
+        "name": "不超"
+    },
+    {
+        "value": 1,
+        "name": "十天"
+    },
+    {
+        "value": 7,
+        "name": "实施"
+    },
+    {
+        "value": 10,
+        "name": "月底"
+    },
+    {
+        "value": 1,
+        "name": "款去"
+    },
+    {
+        "value": 1,
+        "name": "深证"
+    },
+    {
+        "value": 1,
+        "name": "否中诚"
+    },
+    {
+        "value": 4,
+        "name": "关联"
+    },
+    {
+        "value": 6,
+        "name": "公司股票"
+    },
+    {
+        "value": 3,
+        "name": "天天"
+    },
+    {
+        "value": 1,
+        "name": "阴跌"
+    },
+    {
+        "value": 1,
+        "name": "想到"
+    },
+    {
+        "value": 1,
+        "name": "光明"
+    },
+    {
+        "value": 1,
+        "name": "新区"
+    },
+    {
+        "value": 1,
+        "name": "电子"
+    },
+    {
+        "value": 1,
+        "name": "工厂"
+    },
+    {
+        "value": 2,
+        "name": "城市更新"
+    },
+    {
+        "value": 5,
+        "name": "开工"
+    },
+    {
+        "value": 1,
+        "name": "港媒"
+    },
+    {
+        "value": 1,
+        "name": "曝将"
+    },
+    {
+        "value": 1,
+        "name": "否认"
+    },
+    {
+        "value": 1,
+        "name": "秘密"
+    },
+    {
+        "value": 1,
+        "name": "交"
+    },
+    {
+        "value": 1,
+        "name": "变脸"
+    },
+    {
+        "value": 2,
+        "name": "三会"
+    },
+    {
+        "value": 1,
+        "name": "保监会"
+    },
+    {
+        "value": 1,
+        "name": "银监会"
+    },
+    {
+        "value": 1,
+        "name": "资金来源"
+    },
+    {
+        "value": 1,
+        "name": "合规性"
+    },
+    {
+        "value": 1,
+        "name": "核查"
+    },
+    {
+        "value": 1,
+        "name": "这封"
+    },
+    {
+        "value": 1,
+        "name": "信批"
+    },
+    {
+        "value": 2,
+        "name": "举报信"
+    },
+    {
+        "value": 1,
+        "name": "有罪"
+    },
+    {
+        "value": 3,
+        "name": "否决"
+    },
+    {
+        "value": 7,
+        "name": "年度报告"
+    },
+    {
+        "value": 3,
+        "name": "两个"
+    },
+    {
+        "value": 1,
+        "name": "置之不理"
+    },
+    {
+        "value": 4,
+        "name": "不用"
+    },
+    {
+        "value": 1,
+        "name": "交由"
+    },
+    {
+        "value": 1,
+        "name": "时至"
+    },
+    {
+        "value": 1,
+        "name": "一个月"
+    },
+    {
+        "value": 6,
+        "name": "工作"
+    },
+    {
+        "value": 7,
+        "name": "有限公司"
+    },
+    {
+        "value": 28,
+        "name": "中"
+    },
+    {
+        "value": 3,
+        "name": "持有者"
+    },
+    {
+        "value": 1,
+        "name": "发言权"
+    },
+    {
+        "value": 1,
+        "name": "阻止"
+    },
+    {
+        "value": 2,
+        "name": "持有人"
+    },
+    {
+        "value": 1,
+        "name": "行使权力"
+    },
+    {
+        "value": 3,
+        "name": "主人"
+    },
+    {
+        "value": 2,
+        "name": "管理者"
+    },
+    {
+        "value": 3,
+        "name": "权利"
+    },
+    {
+        "value": 1,
+        "name": "退避三舍"
+    },
+    {
+        "value": 1,
+        "name": "对宝能"
+    },
+    {
+        "value": 7,
+        "name": "集团"
+    },
+    {
+        "value": 1,
+        "name": "推三阻四"
+    },
+    {
+        "value": 4,
+        "name": "有无"
+    },
+    {
+        "value": 1,
+        "name": "股票买卖"
+    },
+    {
+        "value": 4,
+        "name": "动作"
+    },
+    {
+        "value": 1,
+        "name": "运作"
+    },
+    {
+        "value": 1,
+        "name": "指引"
+    },
+    {
+        "value": 1,
+        "name": "3.2"
+    },
+    {
+        "value": 3,
+        "name": "监事"
+    },
+    {
+        "value": 4,
+        "name": "高级"
+    },
+    {
+        "value": 3,
+        "name": "管理人员"
+    },
+    {
+        "value": 7,
+        "name": "辞职"
+    },
+    {
+        "value": 1,
+        "name": "提交"
+    },
+    {
+        "value": 1,
+        "name": "书面"
+    },
+    {
+        "value": 2,
+        "name": "辞职报告"
+    },
+    {
+        "value": 2,
+        "name": "情形"
+    },
+    {
+        "value": 2,
+        "name": "外"
+    },
+    {
+        "value": 2,
+        "name": "送达"
+    },
+    {
+        "value": 1,
+        "name": "生效"
+    },
+    {
+        "value": 2,
+        "name": "三"
+    },
+    {
+        "value": 5,
+        "name": "导致"
+    },
+    {
+        "value": 1,
+        "name": "少于"
+    },
+    {
+        "value": 1,
+        "name": "成员"
+    },
+    {
+        "value": 1,
+        "name": "三分之一"
+    },
+    {
+        "value": 1,
+        "name": "会计专业"
+    },
+    {
+        "value": 3,
+        "name": "人士"
+    },
+    {
+        "value": 1,
+        "name": "第一款"
+    },
+    {
+        "value": 1,
+        "name": "二个月"
+    },
+    {
+        "value": 2,
+        "name": "补选"
+    },
+    {
+        "value": 1,
+        "name": "海文"
+    },
+    {
+        "value": 1,
+        "name": "为啥"
+    },
+    {
+        "value": 1,
+        "name": "到户"
+    },
+    {
+        "value": 1,
+        "name": "底"
+    },
+    {
+        "value": 4,
+        "name": "肯定"
+    },
+    {
+        "value": 2,
+        "name": "红利"
+    },
+    {
+        "value": 3,
+        "name": "账"
+    },
+    {
+        "value": 1,
+        "name": "群发"
+    },
+    {
+        "value": 1,
+        "name": "一份"
+    },
+    {
+        "value": 1,
+        "name": "查处"
+    },
+    {
+        "value": 1,
+        "name": "控制"
+    },
+    {
+        "value": 1,
+        "name": "违规行为"
+    },
+    {
+        "value": 5,
+        "name": "不发"
+    },
+    {
+        "value": 1,
+        "name": "日发"
+    },
+    {
+        "value": 5,
+        "name": "指"
+    },
+    {
+        "value": 1,
+        "name": "刊登"
+    },
+    {
+        "value": 1,
+        "name": "为准"
+    },
+    {
+        "value": 1,
+        "name": "发不盖"
+    },
+    {
+        "value": 1,
+        "name": "公章"
+    },
+    {
+        "value": 2,
+        "name": "试问"
+    },
+    {
+        "value": 1,
+        "name": "网站"
+    },
+    {
+        "value": 1,
+        "name": "如宝能"
+    },
+    {
+        "value": 7,
+        "name": "贴"
+    },
+    {
+        "value": 1,
+        "name": "红"
+    },
+    {
+        "value": 2,
+        "name": "周刊"
+    },
+    {
+        "value": 2,
+        "name": "发文"
+    },
+    {
+        "value": 1,
+        "name": "十问"
+    },
+    {
+        "value": 5,
+        "name": "给予"
+    },
+    {
+        "value": 2,
+        "name": "详细"
+    },
+    {
+        "value": 2,
+        "name": "承担"
+    },
+    {
+        "value": 4,
+        "name": "责任"
+    },
+    {
+        "value": 32,
+        "name": "亿"
+    },
+    {
+        "value": 18,
+        "name": "市值"
+    },
+    {
+        "value": 1,
+        "name": "灰飞烟灭"
+    },
+    {
+        "value": 1,
+        "name": "排名"
+    },
+    {
+        "value": 1,
+        "name": "后退"
+    },
+    {
+        "value": 2,
+        "name": "N"
+    },
+    {
+        "value": 1,
+        "name": "名王石"
+    },
+    {
+        "value": 2,
+        "name": "国籍"
+    },
+    {
+        "value": 2,
+        "name": "排斥"
+    },
+    {
+        "value": 1,
+        "name": "小家子气"
+    },
+    {
+        "value": 1,
+        "name": "华人"
+    },
+    {
+        "value": 1,
+        "name": "民粹主义"
+    },
+    {
+        "value": 11,
+        "name": "原因"
+    },
+    {
+        "value": 1,
+        "name": "青睐"
+    },
+    {
+        "value": 1,
+        "name": "抽时间"
+    },
+    {
+        "value": 1,
+        "name": "登"
+    },
+    {
+        "value": 1,
+        "name": "珠峰"
+    },
+    {
+        "value": 3,
+        "name": "世界"
+    },
+    {
+        "value": 1,
+        "name": "想过"
+    },
+    {
+        "value": 1,
+        "name": "解决方案"
+    },
+    {
+        "value": 4,
+        "name": "表决权"
+    },
+    {
+        "value": 9,
+        "name": "比例"
+    },
+    {
+        "value": 9,
+        "name": "只能"
+    },
+    {
+        "value": 7,
+        "name": "一年"
+    },
+    {
+        "value": 3,
+        "name": "100%"
+    },
+    {
+        "value": 1,
+        "name": "四川"
+    },
+    {
+        "value": 2,
+        "name": "地震"
+    },
+    {
+        "value": 1,
+        "name": "灾区"
+    },
+    {
+        "value": 1,
+        "name": "捐款"
+    },
+    {
+        "value": 6,
+        "name": "万元"
+    },
+    {
+        "value": 1,
+        "name": "捐出"
+    },
+    {
+        "value": 1,
+        "name": "万是"
+    },
+    {
+        "value": 3,
+        "name": "合适"
+    },
+    {
+        "value": 1,
+        "name": "普通员工"
+    },
+    {
+        "value": 1,
+        "name": "限捐"
+    },
+    {
+        "value": 24,
+        "name": "元"
+    },
+    {
+        "value": 1,
+        "name": "慈善"
+    },
+    {
+        "value": 1,
+        "name": "负担"
+    },
+    {
+        "value": 2,
+        "name": "真"
+    },
+    {
+        "value": 4,
+        "name": "事"
+    },
+    {
+        "value": 5,
+        "name": "媒体报道"
+    },
+    {
+        "value": 1,
+        "name": "发布会"
+    },
+    {
+        "value": 1,
+        "name": "邓舸"
+    },
+    {
+        "value": 2,
+        "name": "日前"
+    },
+    {
+        "value": 5,
+        "name": "网上"
+    },
+    {
+        "value": 6,
+        "name": "关注"
+    },
+    {
+        "value": 2,
+        "name": "证监局"
+    },
+    {
+        "value": 1,
+        "name": "基金业"
+    },
+    {
+        "value": 2,
+        "name": "协会"
+    },
+    {
+        "value": 2,
+        "name": "收到"
+    },
+    {
+        "value": 1,
+        "name": "书面报告"
+    },
+    {
+        "value": 2,
+        "name": "对此"
+    },
+    {
+        "value": 1,
+        "name": "展开"
+    },
+    {
+        "value": 1,
+        "name": "调查"
+    },
+    {
+        "value": 2,
+        "name": "履行"
+    },
+    {
+        "value": 1,
+        "name": "决策"
+    },
+    {
+        "value": 1,
+        "name": "违法行为"
+    },
+    {
+        "value": 3,
+        "name": "监管"
+    },
+    {
+        "value": 1,
+        "name": "遵守"
+    },
+    {
+        "value": 1,
+        "name": "杜绝"
+    },
+    {
+        "value": 2,
+        "name": "此类"
+    },
+    {
+        "value": 1,
+        "name": "谴责"
+    },
+    {
+        "value": 4,
+        "name": "网络"
+    },
+    {
+        "value": 1,
+        "name": "绝大多数"
+    },
+    {
+        "value": 1,
+        "name": "义愤填膺"
+    },
+    {
+        "value": 2,
+        "name": "预告"
+    },
+    {
+        "value": 1,
+        "name": "昨天"
+    },
+    {
+        "value": 1,
+        "name": "收盘价"
+    },
+    {
+        "value": 1,
+        "name": "17.92"
+    },
+    {
+        "value": 1,
+        "name": "开盘价"
+    },
+    {
+        "value": 1,
+        "name": "17.20"
+    },
+    {
+        "value": 5,
+        "name": "没"
+    },
+    {
+        "value": 3,
+        "name": "分"
+    },
+    {
+        "value": 1,
+        "name": "缴税"
+    },
+    {
+        "value": 1,
+        "name": "诈骗"
+    },
+    {
+        "value": 2,
+        "name": "攻击"
+    },
+    {
+        "value": 5,
+        "name": "水军"
+    },
+    {
+        "value": 2,
+        "name": "造谣惑众"
+    },
+    {
+        "value": 2,
+        "name": "混肴"
+    },
+    {
+        "value": 2,
+        "name": "视听"
+    },
+    {
+        "value": 3,
+        "name": "处"
+    },
+    {
+        "value": 2,
+        "name": "乌烟瘴气"
+    },
+    {
+        "value": 5,
+        "name": "手段"
+    },
+    {
+        "value": 2,
+        "name": "删帖"
+    },
+    {
+        "value": 4,
+        "name": "反驳"
+    },
+    {
+        "value": 2,
+        "name": "理性分析"
+    },
+    {
+        "value": 2,
+        "name": "说理"
+    },
+    {
+        "value": 2,
+        "name": "贴子"
+    },
+    {
+        "value": 2,
+        "name": "删掉"
+    },
+    {
+        "value": 2,
+        "name": "胡说八道"
+    },
+    {
+        "value": 5,
+        "name": "事实"
+    },
+    {
+        "value": 2,
+        "name": "颠倒黑白"
+    },
+    {
+        "value": 2,
+        "name": "帖子"
+    },
+    {
+        "value": 2,
+        "name": "横行"
+    },
+    {
+        "value": 4,
+        "name": "优秀"
+    },
+    {
+        "value": 5,
+        "name": "经理人"
+    },
+    {
+        "value": 2,
+        "name": "下三滥"
+    },
+    {
+        "value": 2,
+        "name": "古话"
+    },
+    {
+        "value": 2,
+        "name": "三人成虎"
+    },
+    {
+        "value": 3,
+        "name": "舆论"
+    },
+    {
+        "value": 2,
+        "name": "阵地"
+    },
+    {
+        "value": 2,
+        "name": "平等"
+    },
+    {
+        "value": 5,
+        "name": "形象"
+    },
+    {
+        "value": 2,
+        "name": "抹黑"
+    },
+    {
+        "value": 4,
+        "name": "研究"
+    },
+    {
+        "value": 1,
+        "name": "接前"
+    },
+    {
+        "value": 1,
+        "name": "指责"
+    },
+    {
+        "value": 7,
+        "name": "维护"
+    },
+    {
+        "value": 2,
+        "name": "声音"
+    },
+    {
+        "value": 1,
+        "name": "铺天盖地"
+    },
+    {
+        "value": 1,
+        "name": "淹没"
+    },
+    {
+        "value": 1,
+        "name": "并不等于"
+    },
+    {
+        "value": 1,
+        "name": "正义感"
+    },
+    {
+        "value": 1,
+        "name": "良知"
+    },
+    {
+        "value": 1,
+        "name": "赞成"
+    },
+    {
+        "value": 1,
+        "name": "造谣生事"
+    },
+    {
+        "value": 1,
+        "name": "正义"
+    },
+    {
+        "value": 1,
+        "name": "之声"
+    },
+    {
+        "value": 2,
+        "name": "压制"
+    },
+    {
+        "value": 1,
+        "name": "为所欲为"
+    },
+    {
+        "value": 1,
+        "name": "无德之人"
+    },
+    {
+        "value": 1,
+        "name": "雇"
+    },
+    {
+        "value": 1,
+        "name": "正直"
+    },
+    {
+        "value": 2,
+        "name": "之"
+    },
+    {
+        "value": 2,
+        "name": "人"
+    },
+    {
+        "value": 1,
+        "name": "反击"
+    },
+    {
+        "value": 1,
+        "name": "敌人"
+    },
+    {
+        "value": 1,
+        "name": "武器"
+    },
+    {
+        "value": 6,
+        "name": "社会"
+    },
+    {
+        "value": 1,
+        "name": "悲哀"
+    },
+    {
+        "value": 1,
+        "name": "举报"
+    },
+    {
+        "value": 9,
+        "name": "第一"
+    },
+    {
+        "value": 3,
+        "name": "制造"
+    },
+    {
+        "value": 2,
+        "name": "利空"
+    },
+    {
+        "value": 1,
+        "name": "别跟我"
+    },
+    {
+        "value": 2,
+        "name": "情怀"
+    },
+    {
+        "value": 1,
+        "name": "看中"
+    },
+    {
+        "value": 1,
+        "name": "我能"
+    },
+    {
+        "value": 1,
+        "name": "本月"
+    },
+    {
+        "value": 1,
+        "name": "二十八"
+    },
+    {
+        "value": 2,
+        "name": "登记"
+    },
+    {
+        "value": 2,
+        "name": "二十九"
+    },
+    {
+        "value": 3,
+        "name": "派息"
+    },
+    {
+        "value": 1,
+        "name": "冠上"
+    },
+    {
+        "value": 1,
+        "name": "XD"
+    },
+    {
+        "value": 2,
+        "name": "提示"
+    },
+    {
+        "value": 2,
+        "name": "解释"
+    },
+    {
+        "value": 1,
+        "name": "理由"
+    },
+    {
+        "value": 2,
+        "name": "混合制"
+    },
+    {
+        "value": 8,
+        "name": "经济"
+    },
+    {
+        "value": 2,
+        "name": "鼓励"
+    },
+    {
+        "value": 1,
+        "name": "各路"
+    },
+    {
+        "value": 1,
+        "name": "有序"
+    },
+    {
+        "value": 1,
+        "name": "进退"
+    },
+    {
+        "value": 1,
+        "name": "政策"
+    },
+    {
+        "value": 1,
+        "name": "相符"
+    },
+    {
+        "value": 1,
+        "name": "国资委"
+    },
+    {
+        "value": 2,
+        "name": "深铁"
+    },
+    {
+        "value": 1,
+        "name": "欲"
+    },
+    {
+        "value": 1,
+        "name": "须"
+    },
+    {
+        "value": 1,
+        "name": "购得"
+    },
+    {
+        "value": 3,
+        "name": "定增"
+    },
+    {
+        "value": 1,
+        "name": "此种"
+    },
+    {
+        "value": 1,
+        "name": "方法"
+    },
+    {
+        "value": 1,
+        "name": "可行"
+    },
+    {
+        "value": 4,
+        "name": "关键"
+    },
+    {
+        "value": 1,
+        "name": "多钱"
+    },
+    {
+        "value": 2,
+        "name": "月份"
+    },
+    {
+        "value": 2,
+        "name": "打算"
+    },
+    {
+        "value": 1,
+        "name": "自然人"
+    },
+    {
+        "value": 1,
+        "name": "刘元生"
+    },
+    {
+        "value": 1,
+        "name": "留"
+    },
+    {
+        "value": 1,
+        "name": "管不了"
+    },
+    {
+        "value": 1,
+        "name": "划归"
+    },
+    {
+        "value": 2,
+        "name": "泊寓"
+    },
+    {
+        "value": 1,
+        "name": "广告"
+    },
+    {
+        "value": 5,
+        "name": "关系"
+    },
+    {
+        "value": 18,
+        "name": "合伙人"
+    },
+    {
+        "value": 1,
+        "name": "崩溃"
+    },
+    {
+        "value": 1,
+        "name": "操纵"
+    },
+    {
+        "value": 1,
+        "name": "放下"
+    },
+    {
+        "value": 1,
+        "name": "偏见"
+    },
+    {
+        "value": 1,
+        "name": "傲慢"
+    },
+    {
+        "value": 2,
+        "name": "诚意"
+    },
+    {
+        "value": 3,
+        "name": "沟通"
+    },
+    {
+        "value": 1,
+        "name": "一致意见"
+    },
+    {
+        "value": 2,
+        "name": "一件"
+    },
+    {
+        "value": 2,
+        "name": "好事"
+    },
+    {
+        "value": 1,
+        "name": "启动"
+    },
+    {
+        "value": 2,
+        "name": "时机"
+    },
+    {
+        "value": 5,
+        "name": "选择"
+    },
+    {
+        "value": 1,
+        "name": "盘面"
+    },
+    {
+        "value": 6,
+        "name": "野蛮"
+    },
+    {
+        "value": 1,
+        "name": "背后"
+    },
+    {
+        "value": 2,
+        "name": "强大"
+    },
+    {
+        "value": 2,
+        "name": "邪恶势力"
+    },
+    {
+        "value": 1,
+        "name": "‘"
+    },
+    {
+        "value": 1,
+        "name": "特郎普"
+    },
+    {
+        "value": 1,
+        "name": "’"
+    },
+    {
+        "value": 1,
+        "name": "胜选后"
+    },
+    {
+        "value": 1,
+        "name": "完败"
+    },
+    {
+        "value": 2,
+        "name": "尊敬"
+    },
+    {
+        "value": 1,
+        "name": "着急"
+    },
+    {
+        "value": 1,
+        "name": "幕后"
+    },
+    {
+        "value": 1,
+        "name": "对付"
+    },
+    {
+        "value": 1,
+        "name": "讲文明"
+    },
+    {
+        "value": 3,
+        "name": "进一步"
+    },
+    {
+        "value": 1,
+        "name": "多难"
+    },
+    {
+        "value": 3,
+        "name": "退"
+    },
+    {
+        "value": 2,
+        "name": "您们好"
+    },
+    {
+        "value": 10,
+        "name": "重视"
+    },
+    {
+        "value": 2,
+        "name": "低价"
+    },
+    {
+        "value": 8,
+        "name": "增加"
+    },
+    {
+        "value": 92,
+        "name": "回购"
+    },
+    {
+        "value": 1,
+        "name": "关键时刻"
+    },
+    {
+        "value": 1,
+        "name": "人事变动"
+    },
+    {
+        "value": 1,
+        "name": "事权"
+    },
+    {
+        "value": 1,
+        "name": "旁边"
+    },
+    {
+        "value": 1,
+        "name": "看热闹"
+    },
+    {
+        "value": 1,
+        "name": "证券法"
+    },
+    {
+        "value": 2,
+        "name": "买进"
+    },
+    {
+        "value": 3,
+        "name": "六个月"
+    },
+    {
+        "value": 1,
+        "name": "难到"
+    },
+    {
+        "value": 1,
+        "name": "说了算"
+    },
+    {
+        "value": 2,
+        "name": "尊重"
+    },
+    {
+        "value": 3,
+        "name": "出售"
+    },
+    {
+        "value": 1,
+        "name": "乱搞"
+    },
+    {
+        "value": 1,
+        "name": "没人管"
+    },
+    {
+        "value": 2,
+        "name": "一笔"
+    },
+    {
+        "value": 1,
+        "name": "好不好"
+    },
+    {
+        "value": 1,
+        "name": "记住"
+    },
+    {
+        "value": 4,
+        "name": "盈利"
+    },
+    {
+        "value": 6,
+        "name": "百亿"
+    },
+    {
+        "value": 2,
+        "name": "积累"
+    },
+    {
+        "value": 2,
+        "name": "自有"
+    },
+    {
+        "value": 1,
+        "name": "对抗"
+    },
+    {
+        "value": 3,
+        "name": "引进"
+    },
+    {
+        "value": 1,
+        "name": "稀释"
+    },
+    {
+        "value": 1,
+        "name": "小股民"
+    },
+    {
+        "value": 2,
+        "name": "请贵"
+    },
+    {
+        "value": 1,
+        "name": "强烈要求"
+    },
+    {
+        "value": 4,
+        "name": "兑现"
+    },
+    {
+        "value": 4,
+        "name": "关心"
+    },
+    {
+        "value": 1,
+        "name": "早点"
+    },
+    {
+        "value": 10,
+        "name": "回报"
+    },
+    {
+        "value": 1,
+        "name": "解善"
+    },
+    {
+        "value": 2,
+        "name": "生活"
+    },
+    {
+        "value": 6,
+        "name": "平台"
+    },
+    {
+        "value": 1,
+        "name": "戏言"
+    },
+    {
+        "value": 2,
+        "name": "本月底"
+    },
+    {
+        "value": 1,
+        "name": "信守"
+    },
+    {
+        "value": 2,
+        "name": "加油"
+    },
+    {
+        "value": 1,
+        "name": "事要"
+    },
+    {
+        "value": 1,
+        "name": "上个月"
+    },
+    {
+        "value": 3,
+        "name": "除权"
+    },
+    {
+        "value": 1,
+        "name": "无风不起浪"
+    },
+    {
+        "value": 1,
+        "name": "知晓"
+    },
+    {
+        "value": 1,
+        "name": "7.2"
+    },
+
+    {
+        "value": 3,
+        "name": "本届"
+    },
+    {
+        "value": 1,
+        "name": "第十一次"
+    },
+    {
+        "value": 4,
+        "name": "会议"
+    },
+    {
+        "value": 1,
+        "name": "第十二次"
+    },
+    {
+        "value": 1,
+        "name": "第十一"
+    },
+    {
+        "value": 1,
+        "name": "跳出"
+    },
+    {
+        "value": 2,
+        "name": "乱局"
+    },
+    {
+        "value": 9,
+        "name": "提供"
+    },
+    {
+        "value": 1,
+        "name": "资料"
+    },
+    {
+        "value": 1,
+        "name": "严重破坏"
+    },
+    {
+        "value": 1,
+        "name": "金融市场"
+    },
+    {
+        "value": 2,
+        "name": "决不能"
+    },
+    {
+        "value": 1,
+        "name": "妥协"
+    },
+    {
+        "value": 1,
+        "name": "和平共处"
+    },
+    {
+        "value": 1,
+        "name": "表明态度"
+    },
+    {
+        "value": 1,
+        "name": "胜"
+    },
+    {
+        "value": 4,
+        "name": "事业"
+    },
+    {
+        "value": 2,
+        "name": "太"
+    },
+    {
+        "value": 1,
+        "name": "压抑"
+    },
+    {
+        "value": 2,
+        "name": "激励"
+    },
+    {
+        "value": 2,
+        "name": "拥有"
+    },
+    {
+        "value": 2,
+        "name": "不该"
+    },
+    {
+        "value": 1,
+        "name": "花钱"
+    },
+    {
+        "value": 2,
+        "name": "贡献"
+    },
+    {
+        "value": 7,
+        "name": "业绩"
+    },
+    {
+        "value": 1,
+        "name": "兑换"
+    },
+    {
+        "value": 3,
+        "name": "各大"
+    },
+    {
+        "value": 1,
+        "name": "发挥"
+    },
+    {
+        "value": 6,
+        "name": "效率"
+    },
+    {
+        "value": 1,
+        "name": "攀升"
+    },
+    {
+        "value": 4,
+        "name": "牛市"
+    },
+    {
+        "value": 1,
+        "name": "多谢您"
+    },
+    {
+        "value": 2,
+        "name": "好"
+    },
+    {
+        "value": 1,
+        "name": "努力"
+    },
+    {
+        "value": 1,
+        "name": "私利"
+    },
+    {
+        "value": 2,
+        "name": "争执"
+    },
+    {
+        "value": 2,
+        "name": "效益"
+    },
+    {
+        "value": 1,
+        "name": "受损"
+    },
+    {
+        "value": 1,
+        "name": "团结一致"
+    },
+    {
+        "value": 1,
+        "name": "做优"
+    },
+    {
+        "value": 1,
+        "name": "做强"
+    },
+    {
+        "value": 2,
+        "name": "做大"
+    },
+    {
+        "value": 1,
+        "name": "优良"
+    },
+    {
+        "value": 1,
+        "name": "心中"
+    },
+    {
+        "value": 1,
+        "name": "法则"
+    },
+    {
+        "value": 1,
+        "name": "同步"
+    },
+    {
+        "value": 4,
+        "name": "称"
+    },
+    {
+        "value": 1,
+        "name": "豁免"
+    },
+    {
+        "value": 1,
+        "name": "讨论"
+    },
+    {
+        "value": 2,
+        "name": "简单"
+    },
+    {
+        "value": 19,
+        "name": "房地产"
+    },
+    {
+        "value": 1,
+        "name": "标杆"
+    },
+    {
+        "value": 1,
+        "name": "搞乱"
+    },
+    {
+        "value": 6,
+        "name": "产业"
+    },
+    {
+        "value": 1,
+        "name": "受"
+    },
+    {
+        "value": 1,
+        "name": "捍卫"
+    },
+    {
+        "value": 4,
+        "name": "房地产业"
+    },
+    {
+        "value": 2,
+        "name": "焦土"
+    },
+    {
+        "value": 2,
+        "name": "抗战"
+    },
+    {
+        "value": 1,
+        "name": "打垮"
+    },
+    {
+        "value": 1,
+        "name": "阴谋"
+    },
+    {
+        "value": 4,
+        "name": "砸"
+    },
+    {
+        "value": 3,
+        "name": "几个"
+    },
+    {
+        "value": 1,
+        "name": "跌停板"
+    },
+    {
+        "value": 3,
+        "name": "出局"
+    },
+    {
+        "value": 1,
+        "name": "炒"
+    },
+    {
+        "value": 10,
+        "name": "高"
+    },
+    {
+        "value": 1,
+        "name": "哪方"
+    },
+    {
+        "value": 1,
+        "name": "胜利"
+    },
+    {
+        "value": 1,
+        "name": "争斗"
+    },
+    {
+        "value": 1,
+        "name": "结束"
+    },
+    {
+        "value": 15,
+        "name": "价格"
+    },
+    {
+        "value": 1,
+        "name": "看齐"
+    },
+    {
+        "value": 2,
+        "name": "a"
+    },
+    {
+        "value": 4,
+        "name": "销售额"
+    },
+    {
+        "value": 15,
+        "name": "亿元"
+    },
+    {
+        "value": 1,
+        "name": "指应"
+    },
+    {
+        "value": 3,
+        "name": "占"
+    },
+    {
+        "value": 6,
+        "name": "权益"
+    },
+    {
+        "value": 1,
+        "name": "合同额"
+    },
+    {
+        "value": 4,
+        "name": "总额"
+    },
+    {
+        "value": 1,
+        "name": "多大"
+    },
+    {
+        "value": 1,
+        "name": "有权"
+    },
+    {
+        "value": 1,
+        "name": "提案"
+    },
+    {
+        "value": 1,
+        "name": "登记日"
+    },
+    {
+        "value": 1,
+        "name": "哪一天"
+    },
+    {
+        "value": 1,
+        "name": "佩服"
+    },
+    {
+        "value": 3,
+        "name": "褚时健"
+    },
+    {
+        "value": 2,
+        "name": "总说"
+    },
+    {
+        "value": 1,
+        "name": "飞"
+    },
+    {
+        "value": 2,
+        "name": "低谷"
+    },
+    {
+        "value": 2,
+        "name": "反弹力"
+    },
+    {
+        "value": 1,
+        "name": "学"
+    },
+    {
+        "value": 1,
+        "name": "东山再起"
+    },
+    {
+        "value": 1,
+        "name": "率"
+    },
+    {
+        "value": 2,
+        "name": "集体"
+    },
+    {
+        "value": 1,
+        "name": "再造"
+    },
+    {
+        "value": 17,
+        "name": "新"
+    },
+    {
+        "value": 1,
+        "name": "亿科"
+    },
+    {
+        "value": 1,
+        "name": "再立新功"
+    },
+    {
+        "value": 4,
+        "name": "成功"
+    },
+    {
+        "value": 2,
+        "name": "站"
+    },
+    {
+        "value": 2,
+        "name": "顶峰"
+    },
+    {
+        "value": 1,
+        "name": "跌落"
+    },
+    {
+        "value": 1,
+        "name": "带领"
+    },
+    {
+        "value": 1,
+        "name": "出走"
+    },
+    {
+        "value": 1,
+        "name": "造"
+    },
+    {
+        "value": 1,
+        "name": "中旬"
+    },
+    {
+        "value": 1,
+        "name": "此战"
+    },
+    {
+        "value": 3,
+        "name": "意义"
+    },
+    {
+        "value": 2,
+        "name": "保卫"
+    },
+    {
+        "value": 2,
+        "name": "金融体系"
+    },
+    {
+        "value": 1,
+        "name": "宝能们"
+    },
+    {
+        "value": 1,
+        "name": "乱"
+    },
+    {
+        "value": 7,
+        "name": "金融"
+    },
+    {
+        "value": 1,
+        "name": "谋取私利"
+    },
+    {
+        "value": 1,
+        "name": "毁掉"
+    },
+    {
+        "value": 6,
+        "name": "股市"
+    },
+    {
+        "value": 1,
+        "name": "决一死战"
+    },
+    {
+        "value": 1,
+        "name": "逼宝能"
+    },
+    {
+        "value": 1,
+        "name": "今日"
+    },
+    {
+        "value": 1,
+        "name": "姚老板"
+    },
+    {
+        "value": 2,
+        "name": "宇宙"
+    },
+    {
+        "value": 1,
+        "name": "大笑话"
+    },
+    {
+        "value": 15,
+        "name": "战略"
+    },
+    {
+        "value": 5,
+        "name": "财务"
+    },
+    {
+        "value": 2,
+        "name": "投资人"
+    },
+    {
+        "value": 1,
+        "name": "有用"
+    },
+    {
+        "value": 1,
+        "name": "不买"
+    },
+    {
+        "value": 1,
+        "name": "便宜"
+    },
+    {
+        "value": 1,
+        "name": "拖累"
+    },
+    {
+        "value": 4,
+        "name": "跌停"
+    },
+    {
+        "value": 1,
+        "name": "可不"
+    },
+    {
+        "value": 1,
+        "name": "素"
+    },
+    {
+        "value": 1,
+        "name": "闹着玩"
+    },
+    {
+        "value": 2,
+        "name": "整体"
+    },
+    {
+        "value": 8,
+        "name": "进展"
+    },
+    {
+        "value": 1,
+        "name": "程度"
+    },
+    {
+        "value": 1,
+        "name": "失败"
+    },
+    {
+        "value": 1,
+        "name": "自私"
+    },
+    {
+        "value": 3,
+        "name": "平均"
+    },
+    {
+        "value": 1,
+        "name": "持仓"
+    },
+    {
+        "value": 9,
+        "name": "成本"
+    },
+    {
+        "value": 1,
+        "name": "周转"
+    },
+    {
+        "value": 5,
+        "name": "模式"
+    },
+    {
+        "value": 2,
+        "name": "转换"
+    },
+    {
+        "value": 1,
+        "name": "将会"
+    },
+    {
+        "value": 2,
+        "name": "注重"
+    },
+    {
+        "value": 1,
+        "name": "哪些方面"
+    },
+    {
+        "value": 6,
+        "name": "看待"
+    },
+    {
+        "value": 1,
+        "name": "大势"
+    },
+    {
+        "value": 1,
+        "name": "贵会"
+    },
+    {
+        "value": 2,
+        "name": "措施"
+    },
+    {
+        "value": 1,
+        "name": "宝安"
+    },
+    {
+        "value": 1,
+        "name": "资产负债率"
+    },
+    {
+        "value": 1,
+        "name": "三方"
+    },
+    {
+        "value": 1,
+        "name": "谈妥"
+    },
+    {
+        "value": 1,
+        "name": "长远利益"
+    },
+    {
+        "value": 1,
+        "name": "着想"
+    },
+    {
+        "value": 3,
+        "name": "永远"
+    },
+    {
+        "value": 1,
+        "name": "停留"
+    },
+    {
+        "value": 1,
+        "name": "保值"
+    },
+    {
+        "value": 1,
+        "name": "稳稳当当"
+    },
+    {
+        "value": 3,
+        "name": "喜欢"
+    },
+    {
+        "value": 1,
+        "name": "独"
+    },
+    {
+        "value": 3,
+        "name": "大"
+    },
+    {
+        "value": 1,
+        "name": "这么久"
+    },
+    {
+        "value": 1,
+        "name": "划算"
+    },
+    {
+        "value": 2,
+        "name": "待见"
+    },
+    {
+        "value": 11,
+        "name": "业务"
+    },
+    {
+        "value": 1,
+        "name": "负"
+    },
+    {
+        "value": 1,
+        "name": "循环"
+    },
+    {
+        "value": 1,
+        "name": "自内心"
+    },
+    {
+        "value": 1,
+        "name": "高估"
+    },
+    {
+        "value": 1,
+        "name": "基准"
+    },
+    {
+        "value": 1,
+        "name": "底部"
+    },
+    {
+        "value": 2,
+        "name": "涨"
+    },
+    {
+        "value": 1,
+        "name": "一倍"
+    },
+    {
+        "value": 4,
+        "name": "估值"
+    },
+    {
+        "value": 6,
+        "name": "卖"
+    },
+    {
+        "value": 7,
+        "name": "收入"
+    },
+    {
+        "value": 4,
+        "name": "持续"
+    },
+    {
+        "value": 4,
+        "name": "开"
+    },
+    {
+        "value": 1,
+        "name": "几次"
+    },
+    {
+        "value": 1,
+        "name": "提到"
+    },
+    {
+        "value": 3,
+        "name": "资产重组"
+    },
+    {
+        "value": 1,
+        "name": "a6"
+    },
+    {
+        "value": 6,
+        "name": "很大"
+    },
+    {
+        "value": 1,
+        "name": "复"
+    },
+    {
+        "value": 1,
+        "name": "牌请"
+    },
+    {
+        "value": 5,
+        "name": "争夺"
+    },
+    {
+        "value": 9,
+        "name": "东莞"
+    },
+    {
+        "value": 14,
+        "name": "虎门"
+    },
+    {
+        "value": 4,
+        "name": "南面"
+    },
+    {
+        "value": 4,
+        "name": "村"
+    },
+    {
+        "value": 2,
+        "name": "投地"
+    },
+    {
+        "value": 2,
+        "name": "拿下"
+    },
+    {
+        "value": 4,
+        "name": "地块"
+    },
+    {
+        "value": 7,
+        "name": "信心"
+    },
+    {
+        "value": 2,
+        "name": "地理位置"
+    },
+    {
+        "value": 2,
+        "name": "优越"
+    },
+    {
+        "value": 9,
+        "name": "总"
+    },
+    {
+        "value": 2,
+        "name": "每况愈下"
+    },
+    {
+        "value": 4,
+        "name": "担心"
+    },
+    {
+        "value": 1,
+        "name": "很想"
+    },
+    {
+        "value": 5,
+        "name": "楼盘"
+    },
+    {
+        "value": 1,
+        "name": "受欢迎"
+    },
+    {
+        "value": 9,
+        "name": "房价"
+    },
+    {
+        "value": 1,
+        "name": "带动"
+    },
+    {
+        "value": 2,
+        "name": "听说"
+    },
+    {
+        "value": 1,
+        "name": "拿到"
+    },
+    {
+        "value": 5,
+        "name": "开发"
+    },
+    {
+        "value": 2,
+        "name": "面临"
+    },
+    {
+        "value": 2,
+        "name": "买房"
+    },
+    {
+        "value": 1,
+        "name": "决择"
+    },
+    {
+        "value": 1,
+        "name": "游玩"
+    },
+    {
+        "value": 4,
+        "name": "环境"
+    },
+    {
+        "value": 7,
+        "name": "房"
+    },
+    {
+        "value": 12,
+        "name": "行业"
+    },
+    {
+        "value": 1,
+        "name": "保险行业"
+    },
+    {
+        "value": 1,
+        "name": "基业"
+    },
+    {
+        "value": 1,
+        "name": "长青"
+    },
+    {
+        "value": 5,
+        "name": "扩张"
+    },
+    {
+        "value": 1,
+        "name": "证券业"
+    },
+    {
+        "value": 1,
+        "name": "变革"
+    },
+    {
+        "value": 14,
+        "name": "郁总"
+    },
+    {
+        "value": 1,
+        "name": "请谈"
+    },
+    {
+        "value": 3,
+        "name": "三好"
+    },
+    {
+        "value": 1,
+        "name": "家"
+    },
+    {
+        "value": 2,
+        "name": "理念"
+    },
+    {
+        "value": 2,
+        "name": "这块"
+    },
+    {
+        "value": 2,
+        "name": "地区"
+    },
+    {
+        "value": 4,
+        "name": "落实"
+    },
+    {
+        "value": 2,
+        "name": "到位"
+    },
+    {
+        "value": 14,
+        "name": "杭州"
+    },
+    {
+        "value": 14,
+        "name": "公园"
+    },
+    {
+        "value": 16,
+        "name": "大道"
+    },
+    {
+        "value": 3,
+        "name": "西庐"
+    },
+    {
+        "value": 2,
+        "name": "这"
+    },
+    {
+        "value": 3,
+        "name": "类"
+    },
+    {
+        "value": 6,
+        "name": "维权"
+    },
+    {
+        "value": 2,
+        "name": "备案"
+    },
+    {
+        "value": 2,
+        "name": "仗"
+    },
+    {
+        "value": 3,
+        "name": "店大欺客"
+    },
+    {
+        "value": 2,
+        "name": "思想"
+    },
+    {
+        "value": 2,
+        "name": "诉求"
+    },
+    {
+        "value": 2,
+        "name": "不管不顾"
+    },
+    {
+        "value": 2,
+        "name": "嚣张"
+    },
+    {
+        "value": 2,
+        "name": "拒绝"
+    },
+    {
+        "value": 2,
+        "name": "置"
+    },
+    {
+        "value": 3,
+        "name": "合法权益"
+    },
+    {
+        "value": 2,
+        "name": "不顾"
+    },
+    {
+        "value": 2,
+        "name": "只管"
+    },
+    {
+        "value": 23,
+        "name": "利润"
+    },
+    {
+        "value": 5,
+        "name": "最大化"
+    },
+    {
+        "value": 2,
+        "name": "水能载舟"
+    },
+    {
+        "value": 2,
+        "name": "亦能覆舟"
+    },
+    {
+        "value": 3,
+        "name": "切实"
+    },
+    {
+        "value": 4,
+        "name": "答复"
+    },
+    {
+        "value": 2,
+        "name": "整改措施"
+    },
+    {
+        "value": 2,
+        "name": "领导者"
+    },
+    {
+        "value": 2,
+        "name": "风范"
+    },
+    {
+        "value": 4,
+        "name": "信任"
+    },
+    {
+        "value": 14,
+        "name": "品牌"
+    },
+    {
+        "value": 2,
+        "name": "期房"
+    },
+    {
+        "value": 2,
+        "name": "上次"
+    },
+    {
+        "value": 6,
+        "name": "实体"
+    },
+    {
+        "value": 10,
+        "name": "样板房"
+    },
+    {
+        "value": 2,
+        "name": "参观"
+    },
+    {
+        "value": 6,
+        "name": "小区"
+    },
+    {
+        "value": 5,
+        "name": "减配"
+    },
+    {
+        "value": 4,
+        "name": "绿化"
+    },
+    {
+        "value": 2,
+        "name": "极差"
+    },
+    {
+        "value": 1,
+        "name": "名不副实"
+    },
+    {
+        "value": 1,
+        "name": "本来"
+    },
+    {
+        "value": 1,
+        "name": "信得过"
+    },
+    {
+        "value": 1,
+        "name": "并非如此"
+    },
+    {
+        "value": 9,
+        "name": "质量"
+    },
+    {
+        "value": 1,
+        "name": "堪忧"
+    },
+    {
+        "value": 6,
+        "name": "每平"
+    },
+    {
+        "value": 4,
+        "name": "不到"
+    },
+    {
+        "value": 1,
+        "name": "插座"
+    },
+    {
+        "value": 1,
+        "name": "窗户"
+    },
+    {
+        "value": 1,
+        "name": "开关"
+    },
+    {
+        "value": 4,
+        "name": "设计"
+    },
+    {
+        "value": 1,
+        "name": "反"
+    },
+    {
+        "value": 1,
+        "name": "人类"
+    },
+    {
+        "value": 2,
+        "name": "怀疑"
+    },
+    {
+        "value": 1,
+        "name": "贪污"
+    },
+    {
+        "value": 1,
+        "name": "招牌"
+    },
+    {
+        "value": 2,
+        "name": "毁"
+    },
+    {
+        "value": 1,
+        "name": "节奏"
+    },
+    {
+        "value": 3,
+        "name": "珍惜"
+    },
+    {
+        "value": 1,
+        "name": "血汗钱"
+    },
+    {
+        "value": 1,
+        "name": "成就"
+    },
+    {
+        "value": 1,
+        "name": "很难"
+    },
+    {
+        "value": 1,
+        "name": "瑕疵"
+    },
+    {
+        "value": 1,
+        "name": "推拖"
+    },
+    {
+        "value": 1,
+        "name": "横郁"
+    },
+    {
+        "value": 6,
+        "name": "客户"
+    },
+    {
+        "value": 1,
+        "name": "高品质"
+    },
+    {
+        "value": 8,
+        "name": "产品"
+    },
+    {
+        "value": 1,
+        "name": "提高质量"
+    },
+    {
+        "value": 5,
+        "name": "减少"
+    },
+    {
+        "value": 1,
+        "name": "人工"
+    },
+    {
+        "value": 1,
+        "name": "依赖"
+    },
+    {
+        "value": 2,
+        "name": "金草"
+    },
+    {
+        "value": 2,
+        "name": "公寓"
+    },
+    {
+        "value": 2,
+        "name": "敷衍"
+    },
+    {
+        "value": 2,
+        "name": "简配"
+    },
+    {
+        "value": 2,
+        "name": "运货"
+    },
+    {
+        "value": 2,
+        "name": "梯"
+    },
+    {
+        "value": 2,
+        "name": "开门"
+    },
+    {
+        "value": 2,
+        "name": "电梯"
+    },
+    {
+        "value": 2,
+        "name": "窗帘"
+    },
+    {
+        "value": 2,
+        "name": "位置"
+    },
+    {
+        "value": 2,
+        "name": "预留"
+    },
+    {
+        "value": 2,
+        "name": "导轨"
+    },
+    {
+        "value": 2,
+        "name": "凹槽"
+    },
+    {
+        "value": 2,
+        "name": "A2"
+    },
+    {
+        "value": 4,
+        "name": "阳台"
+    },
+    {
+        "value": 4,
+        "name": "采光"
+    },
+    {
+        "value": 4,
+        "name": "面"
+    },
+    {
+        "value": 4,
+        "name": "小于"
+    },
+    {
+        "value": 4,
+        "name": "原"
+    },
+    {
+        "value": 2,
+        "name": "柱子"
+    },
+    {
+        "value": 2,
+        "name": "尺寸"
+    },
+    {
+        "value": 5,
+        "name": "卫生间"
+    },
+    {
+        "value": 2,
+        "name": "台盆"
+    },
+    {
+        "value": 2,
+        "name": "两侧"
+    },
+    {
+        "value": 2,
+        "name": "正面"
+    },
+    {
+        "value": 2,
+        "name": "墙面"
+    },
+    {
+        "value": 5,
+        "name": "瓷砖"
+    },
+    {
+        "value": 9,
+        "name": "合同"
+    },
+    {
+        "value": 4,
+        "name": "写"
+    },
+    {
+        "value": 5,
+        "name": "宣传"
+    },
+    {
+        "value": 2,
+        "name": "户内"
+    },
+    {
+        "value": 2,
+        "name": "不锈钢"
+    },
+    {
+        "value": 2,
+        "name": "晾衣架"
+    },
+    {
+        "value": 2,
+        "name": "卫间"
+    },
+    {
+        "value": 2,
+        "name": "伸缩"
+    },
+    {
+        "value": 2,
+        "name": "镜"
+    },
+    {
+        "value": 5,
+        "name": "里"
+    },
+    {
+        "value": 2,
+        "name": "明细"
+    },
+    {
+        "value": 2,
+        "name": "声称"
+    },
+    {
+        "value": 4,
+        "name": "商业"
+    },
+    {
+        "value": 2,
+        "name": "机密"
+    },
+    {
+        "value": 2,
+        "name": "拒"
+    },
+    {
+        "value": 2,
+        "name": "偷工减料"
+    },
+    {
+        "value": 3,
+        "name": "学校"
+    },
+    {
+        "value": 4,
+        "name": "诸多"
+    },
+    {
+        "value": 2,
+        "name": "多方面"
+    },
+    {
+        "value": 2,
+        "name": "负责人"
+    },
+    {
+        "value": 2,
+        "name": "超级"
+    },
+    {
+        "value": 2,
+        "name": "不负责任"
+    },
+    {
+        "value": 4,
+        "name": "建筑"
+    },
+    {
+        "value": 3,
+        "name": "赞美"
+    },
+    {
+        "value": 5,
+        "name": "生命"
+    },
+    {
+        "value": 2,
+        "name": "折磨"
+    },
+    {
+        "value": 2,
+        "name": "远"
+    },
+    {
+        "value": 3,
+        "name": "此事"
+    },
+    {
+        "value": 1,
+        "name": "交付"
+    },
+    {
+        "value": 1,
+        "name": "云峰"
+    },
+    {
+        "value": 1,
+        "name": "主推"
+    },
+    {
+        "value": 4,
+        "name": "混合"
+    },
+    {
+        "value": 4,
+        "name": "所有制"
+    },
+    {
+        "value": 1,
+        "name": "企业债"
+    },
+    {
+        "value": 1,
+        "name": "废债"
+    },
+    {
+        "value": 1,
+        "name": "责任人"
+    },
+    {
+        "value": 1,
+        "name": "制定"
+    },
+    {
+        "value": 1,
+        "name": "推向"
+    },
+    {
+        "value": 2,
+        "name": "前提"
+    },
+    {
+        "value": 1,
+        "name": "衍生"
+    },
+    {
+        "value": 2,
+        "name": "转移"
+    },
+    {
+        "value": 1,
+        "name": "能出"
+    },
+    {
+        "value": 1,
+        "name": "失信"
+    },
+    {
+        "value": 6,
+        "name": "总裁"
+    },
+    {
+        "value": 14,
+        "name": "万亿"
+    },
+    {
+        "value": 1,
+        "name": "两倍"
+    },
+    {
+        "value": 2,
+        "name": "长远"
+    },
+    {
+        "value": 4,
+        "name": "看好"
+    },
+    {
+        "value": 3,
+        "name": "综合"
+    },
+    {
+        "value": 5,
+        "name": "每股"
+    },
+    {
+        "value": 1,
+        "name": "同比"
+    },
+    {
+        "value": 1,
+        "name": "基数"
+    },
+    {
+        "value": 1,
+        "name": "偏"
+    },
+    {
+        "value": 8,
+        "name": "年报"
+    },
+    {
+        "value": 3,
+        "name": "送"
+    },
+    {
+        "value": 2,
+        "name": "皆大欢喜"
+    },
+    {
+        "value": 1,
+        "name": "愉快"
+    },
+    {
+        "value": 1,
+        "name": "过眼云烟"
+    },
+    {
+        "value": 5,
+        "name": "大跌"
+    },
+    {
+        "value": 1,
+        "name": "补跌"
+    },
+    {
+        "value": 1,
+        "name": "算账"
+    },
+    {
+        "value": 1,
+        "name": "绑架"
+    },
+    {
+        "value": 1,
+        "name": "期间"
+    },
+    {
+        "value": 1,
+        "name": "全球股市"
+    },
+    {
+        "value": 4,
+        "name": "风险"
+    },
+    {
+        "value": 3,
+        "name": "私有化"
+    },
+    {
+        "value": 1,
+        "name": "嘴硬"
+    },
+    {
+        "value": 1,
+        "name": "天宝"
+    },
+    {
+        "value": 4,
+        "name": "现有"
+    },
+    {
+        "value": 2,
+        "name": "人员"
+    },
+    {
+        "value": 1,
+        "name": "换血"
+    },
+    {
+        "value": 1,
+        "name": "哭"
+    },
+    {
+        "value": 1,
+        "name": "中长期"
+    },
+    {
+        "value": 1,
+        "name": "拐点"
+    },
+    {
+        "value": 1,
+        "name": "十元"
+    },
+    {
+        "value": 2,
+        "name": "宝万"
+    },
+    {
+        "value": 10,
+        "name": "理解"
+    },
+    {
+        "value": 1,
+        "name": "前述"
+    },
+    {
+        "value": 2,
+        "name": "民企"
+    },
+    {
+        "value": 2,
+        "name": "风波"
+    },
+    {
+        "value": 1,
+        "name": "原有"
+    },
+    {
+        "value": 1,
+        "name": "操守"
+    },
+    {
+        "value": 1,
+        "name": "敏锐"
+    },
+    {
+        "value": 1,
+        "name": "本意"
+    },
+    {
+        "value": 1,
+        "name": "懂"
+    },
+    {
+        "value": 2,
+        "name": "正确"
+    },
+    {
+        "value": 1,
+        "name": "时常"
+    },
+    {
+        "value": 1,
+        "name": "对外"
+    },
+    {
+        "value": 2,
+        "name": "传达"
+    },
+    {
+        "value": 4,
+        "name": "内容"
+    },
+    {
+        "value": 1,
+        "name": "控"
+    },
+    {
+        "value": 1,
+        "name": "引导"
+    },
+    {
+        "value": 1,
+        "name": "华为"
+    },
+    {
+        "value": 1,
+        "name": "赛车"
+    },
+    {
+        "value": 1,
+        "name": "舒马赫"
+    },
+    {
+        "value": 1,
+        "name": "篮球"
+    },
+    {
+        "value": 1,
+        "name": "乔丹"
+    },
+    {
+        "value": 1,
+        "name": "领袖"
+    },
+    {
+        "value": 1,
+        "name": "日能"
+    },
+    {
+        "value": 2,
+        "name": "拿来"
+    },
+    {
+        "value": 2,
+        "name": "卖出去"
+    },
+    {
+        "value": 1,
+        "name": "把门"
+    },
+    {
+        "value": 1,
+        "name": "关"
+    },
+    {
+        "value": 2,
+        "name": "流动性"
+    },
+    {
+        "value": 1,
+        "name": "丧失"
+    },
+    {
+        "value": 4,
+        "name": "加大"
+    },
+    {
+        "value": 2,
+        "name": "每次"
+    },
+    {
+        "value": 1,
+        "name": "高科技"
+    },
+    {
+        "value": 2,
+        "name": "一共"
+    },
+    {
+        "value": 1,
+        "name": "次"
+    },
+    {
+        "value": 1,
+        "name": "停"
+    },
+    {
+        "value": 1,
+        "name": "次牌"
+    },
+    {
+        "value": 1,
+        "name": "间隔"
+    },
+    {
+        "value": 1,
+        "name": "周"
+    },
+    {
+        "value": 1,
+        "name": "流传"
+    },
+    {
+        "value": 4,
+        "name": "透露"
+    },
+    {
+        "value": 3,
+        "name": "已有"
+    },
+    {
+        "value": 1,
+        "name": "时间表"
+    },
+    {
+        "value": 1,
+        "name": "证卷"
+    },
+    {
+        "value": 2,
+        "name": "位"
+    },
+    {
+        "value": 3,
+        "name": "城"
+    },
+    {
+        "value": 8,
+        "name": "预售"
+    },
+    {
+        "value": 4,
+        "name": "64%"
+    },
+    {
+        "value": 2,
+        "name": "080.20"
+    },
+    {
+        "value": 2,
+        "name": "818.00"
+    },
+    {
+        "value": 21,
+        "name": "金额"
+    },
+    {
+        "value": 2,
+        "name": "两年"
+    },
+    {
+        "value": 1,
+        "name": "相加"
+    },
+    {
+        "value": 7,
+        "name": "请教"
+    },
+    {
+        "value": 1,
+        "name": "69%"
+    },
+    {
+        "value": 3,
+        "name": "不知"
+    },
+    {
+        "value": 1,
+        "name": "打扰"
+    },
+    {
+        "value": 2,
+        "name": "问答"
+    },
+    {
+        "value": 1,
+        "name": "亲民"
+    },
+    {
+        "value": 6,
+        "name": "感谢"
+    },
+    {
+        "value": 1,
+        "name": "躲过"
+    },
+    {
+        "value": 1,
+        "name": "全仓"
+    },
+    {
+        "value": 1,
+        "name": "纠结"
+    },
+    {
+        "value": 1,
+        "name": "思前想后"
+    },
+    {
+        "value": 9,
+        "name": "投"
+    },
+    {
+        "value": 1,
+        "name": "后天"
+    },
+    {
+        "value": 1,
+        "name": "感谢您"
+    },
+    {
+        "value": 2,
+        "name": "辛勤劳动"
+    },
+    {
+        "value": 1,
+        "name": "百"
+    },
+    {
+        "value": 2,
+        "name": "多万"
+    },
+    {
+        "value": 1,
+        "name": "流动"
+    },
+    {
+        "value": 1,
+        "name": "想法"
+    },
+    {
+        "value": 1,
+        "name": "折价"
+    },
+    {
+        "value": 7,
+        "name": "增发"
+    },
+    {
+        "value": 1,
+        "name": "高价"
+    },
+    {
+        "value": 1,
+        "name": "肯买"
+    },
+    {
+        "value": 1,
+        "name": "远不止"
+    },
+    {
+        "value": 3,
+        "name": "年末"
+    },
+    {
+        "value": 1,
+        "name": "建造"
+    },
+    {
+        "value": 2,
+        "name": "完工"
+    },
+    {
+        "value": 4,
+        "name": "未结算"
+    },
+    {
+        "value": 6,
+        "name": "住宅"
+    },
+    {
+        "value": 2,
+        "name": "产业化"
+    },
+    {
+        "value": 1,
+        "name": "推广"
+    },
+    {
+        "value": 2,
+        "name": "第三方"
+    },
+    {
+        "value": 1,
+        "name": "预制件"
+    },
+    {
+        "value": 1,
+        "name": "辛苦"
+    },
+    {
+        "value": 1,
+        "name": "开发计划"
+    },
+    {
+        "value": 1,
+        "name": "车公庙"
+    },
+    {
+        "value": 2,
+        "name": "占地面积"
+    },
+    {
+        "value": 7,
+        "name": "平米"
+    },
+    {
+        "value": 3,
+        "name": "建筑面积"
+    },
+    {
+        "value": 16,
+        "name": "面积"
+    },
+    {
+        "value": 3,
+        "name": "储备"
+    },
+    {
+        "value": 1,
+        "name": "不像"
+    },
+    {
+        "value": 1,
+        "name": "早日"
+    },
+    {
+        "value": 7,
+        "name": "复盘"
+    },
+    {
+        "value": 1,
+        "name": "审批"
+    },
+    {
+        "value": 1,
+        "name": "环节"
+    },
+    {
+        "value": 1,
+        "name": "带头"
+    },
+    {
+        "value": 1,
+        "name": "异动"
+    },
+    {
+        "value": 1,
+        "name": "会到"
+    },
+    {
+        "value": 1,
+        "name": "伙伴"
+    },
+    {
+        "value": 1,
+        "name": "注册资本"
+    },
+    {
+        "value": 1,
+        "name": "月初"
+    },
+    {
+        "value": 3,
+        "name": "武汉"
+    },
+    {
+        "value": 6,
+        "name": "新世纪"
+    },
+    {
+        "value": 8,
+        "name": "汉江"
+    },
+    {
+        "value": 8,
+        "name": "湾"
+    },
+    {
+        "value": 5,
+        "name": "一期"
+    },
+    {
+        "value": 4,
+        "name": "封顶"
+    },
+    {
+        "value": 1,
+        "name": "时认"
+    },
+    {
+        "value": 1,
+        "name": "筹交"
+    },
+    {
+        "value": 2,
+        "name": "款"
+    },
+    {
+        "value": 5,
+        "name": "年底"
+    },
+    {
+        "value": 2,
+        "name": "选房"
+    },
+    {
+        "value": 1,
+        "name": "每平方"
+    },
+    {
+        "value": 1,
+        "name": "九仟到"
+    },
+    {
+        "value": 1,
+        "name": "一万"
+    },
+    {
+        "value": 1,
+        "name": "售楼"
+    },
+    {
+        "value": 1,
+        "name": "通知"
+    },
+    {
+        "value": 1,
+        "name": "该盘"
+    },
+    {
+        "value": 1,
+        "name": "改称"
+    },
+    {
+        "value": 3,
+        "name": "翡翠"
+    },
+    {
+        "value": 4,
+        "name": "滨江"
+    },
+    {
+        "value": 1,
+        "name": "退认"
+    },
+    {
+        "value": 3,
+        "name": "筹款"
+    },
+    {
+        "value": 3,
+        "name": "1.2"
+    },
+    {
+        "value": 3,
+        "name": "万到"
+    },
+    {
+        "value": 3,
+        "name": "1.3"
+    },
+    {
+        "value": 2,
+        "name": "龙头"
+    },
+    {
+        "value": 4,
+        "name": "前景"
+    },
+    {
+        "value": 2,
+        "name": "佘户"
+    },
+    {
+        "value": 2,
+        "name": "千到"
+    },
+    {
+        "value": 2,
+        "name": "购房者"
+    },
+    {
+        "value": 3,
+        "name": "改名"
+    },
+    {
+        "value": 2,
+        "name": "认筹者"
+    },
+    {
+        "value": 2,
+        "name": "认"
+    },
+    {
+        "value": 2,
+        "name": "认筹购"
+    },
+    {
+        "value": 2,
+        "name": "原己"
+    },
+    {
+        "value": 2,
+        "name": "合情合理"
+    },
+    {
+        "value": 1,
+        "name": "企"
+    },
+    {
+        "value": 1,
+        "name": "纷纷"
+    },
+    {
+        "value": 1,
+        "name": "爆发"
+    },
+    {
+        "value": 3,
+        "name": "大规模"
+    },
+    {
+        "value": 3,
+        "name": "现象"
+    },
+    {
+        "value": 1,
+        "name": "一落千丈"
+    },
+    {
+        "value": 1,
+        "name": "依然"
+    },
+    {
+        "value": 1,
+        "name": "无动于衷"
+    },
+    {
+        "value": 1,
+        "name": "蔓延"
+    },
+    {
+        "value": 5,
+        "name": "提问"
+    },
+    {
+        "value": 3,
+        "name": "挺"
+    },
+    {
+        "value": 1,
+        "name": "心寒"
+    },
+    {
+        "value": 3,
+        "name": "日后"
+    },
+    {
+        "value": 1,
+        "name": "合"
+    },
+    {
+        "value": 1,
+        "name": "勤快"
+    },
+    {
+        "value": 1,
+        "name": "估摸"
+    },
+    {
+        "value": 3,
+        "name": "赞成票"
+    },
+    {
+        "value": 1,
+        "name": "到手"
+    },
+    {
+        "value": 1,
+        "name": "延期"
+    },
+    {
+        "value": 3,
+        "name": "三个"
+    },
+    {
+        "value": 1,
+        "name": "完票"
+    },
+    {
+        "value": 3,
+        "name": "目的"
+    },
+    {
+        "value": 1,
+        "name": "表演"
+    },
+    {
+        "value": 1,
+        "name": "完毕"
+    },
+    {
+        "value": 1,
+        "name": "黎明"
+    },
+    {
+        "value": 1,
+        "name": "静悄悄"
+    },
+    {
+        "value": 2,
+        "name": "表个态"
+    },
+    {
+        "value": 16,
+        "name": "万达"
+    },
+    {
+        "value": 1,
+        "name": "资本运作"
+    },
+    {
+        "value": 1,
+        "name": "雷厉风行"
+    },
+    {
+        "value": 1,
+        "name": "何年何月"
+    },
+    {
+        "value": 1,
+        "name": "备受"
+    },
+    {
+        "value": 1,
+        "name": "煎熬"
+    },
+    {
+        "value": 3,
+        "name": "加快"
+    },
+    {
+        "value": 3,
+        "name": "步伐"
+    },
+    {
+        "value": 1,
+        "name": "一季度"
+    },
+    {
+        "value": 6,
+        "name": "增长"
+    },
+    {
+        "value": 1,
+        "name": "128%"
+    },
+    {
+        "value": 1,
+        "name": "对手"
+    },
+    {
+        "value": 2,
+        "name": "北京"
+    },
+    {
+        "value": 1,
+        "name": "首都"
+    },
+    {
+        "value": 3,
+        "name": "变化"
+    },
+    {
+        "value": 2,
+        "name": "国资"
+    },
+    {
+        "value": 3,
+        "name": "保利"
+    },
+    {
+        "value": 5,
+        "name": "合并"
+    },
+    {
+        "value": 1,
+        "name": "3.18"
+    },
+    {
+        "value": 1,
+        "name": "拿不出"
+    },
+    {
+        "value": 1,
+        "name": "3.14"
+    },
+    {
+        "value": 1,
+        "name": "确切"
+    },
+    {
+        "value": 1,
+        "name": "空话"
+    },
+    {
+        "value": 1,
+        "name": "一句"
+    },
+    {
+        "value": 1,
+        "name": "得知"
+    },
+    {
+        "value": 10,
+        "name": "提出"
+    },
+    {
+        "value": 7,
+        "name": "感觉"
+    },
+    {
+        "value": 1,
+        "name": "舒坦"
+    },
+    {
+        "value": 1,
+        "name": "日常"
+    },
+    {
+        "value": 7,
+        "name": "服务"
+    },
+    {
+        "value": 1,
+        "name": "电话"
+    },
+    {
+        "value": 1,
+        "name": "管理机制"
+    },
+    {
+        "value": 3,
+        "name": "房屋"
+    },
+    {
+        "value": 1,
+        "name": "漏水"
+    },
+    {
+        "value": 1,
+        "name": "交房"
+    },
+    {
+        "value": 2,
+        "name": "十月份"
+    },
+    {
+        "value": 1,
+        "name": "保修"
+    },
+    {
+        "value": 1,
+        "name": "办"
+    },
+    {
+        "value": 2,
+        "name": "维修"
+    },
+    {
+        "value": 3,
+        "name": "拒交"
+    },
+    {
+        "value": 2,
+        "name": "管理费"
+    },
+    {
+        "value": 1,
+        "name": "效果"
+    },
+    {
+        "value": 1,
+        "name": "物业费"
+    },
+    {
+        "value": 1,
+        "name": "唯一"
+    },
+    {
+        "value": 2,
+        "name": "交了"
+    },
+    {
+        "value": 5,
+        "name": "费用"
+    },
+    {
+        "value": 1,
+        "name": "依旧"
+    },
+    {
+        "value": 1,
+        "name": "计"
+    },
+    {
+        "value": 1,
+        "name": "一层"
+    },
+    {
+        "value": 1,
+        "name": "级"
+    },
+    {
+        "value": 1,
+        "name": "组织"
+    },
+    {
+        "value": 5,
+        "name": "机构"
+    },
+    {
+        "value": 1,
+        "name": "批准"
+    },
+    {
+        "value": 1,
+        "name": "多方"
+    },
+    {
+        "value": 1,
+        "name": "因素"
+    },
+    {
+        "value": 3,
+        "name": "分析"
+    },
+    {
+        "value": 2,
+        "name": "惨败"
+    },
+    {
+        "value": 1,
+        "name": "而终"
+    },
+    {
+        "value": 1,
+        "name": "血流成河"
+    },
+    {
+        "value": 1,
+        "name": "高位"
+    },
+    {
+        "value": 12,
+        "name": "股民"
+    },
+    {
+        "value": 3,
+        "name": "一事"
+    },
+    {
+        "value": 3,
+        "name": "犯"
+    },
+    {
+        "value": 2,
+        "name": "错误"
+    },
+    {
+        "value": 1,
+        "name": "错"
+    },
+    {
+        "value": 1,
+        "name": "若复牌"
+    },
+    {
+        "value": 1,
+        "name": "处理不当"
+    },
+    {
+        "value": 1,
+        "name": "错上加错"
+    },
+    {
+        "value": 1,
+        "name": "故请"
+    },
+    {
+        "value": 2,
+        "name": "切实有效"
+    },
+    {
+        "value": 1,
+        "name": "引爆"
+    },
+    {
+        "value": 1,
+        "name": "负面影响"
+    },
+    {
+        "value": 1,
+        "name": "不可收拾"
+    },
+    {
+        "value": 1,
+        "name": "慎之又慎"
+    },
+    {
+        "value": 1,
+        "name": "口牌"
+    },
+    {
+        "value": 1,
+        "name": "能为"
+    },
+    {
+        "value": 1,
+        "name": "收费"
+    },
+    {
+        "value": 3,
+        "name": "以往"
+    },
+    {
+        "value": 3,
+        "name": "多年"
+    },
+    {
+        "value": 1,
+        "name": "回馈"
+    },
+    {
+        "value": 1,
+        "name": "却是"
+    },
+    {
+        "value": 1,
+        "name": "著名"
+    },
+    {
+        "value": 1,
+        "name": "铁公鸡"
+    },
+    {
+        "value": 1,
+        "name": "认真反思"
+    },
+    {
+        "value": 2,
+        "name": "提议"
+    },
+    {
+        "value": 3,
+        "name": "用于"
+    },
+    {
+        "value": 5,
+        "name": "人民币"
+    },
+    {
+        "value": 2,
+        "name": "余下"
+    },
+    {
+        "value": 2,
+        "name": "多亿"
+    },
+    {
+        "value": 2,
+        "name": "用作"
+    },
+    {
+        "value": 6,
+        "name": "特别"
+    },
+    {
+        "value": 1,
+        "name": "对盈安"
+    },
+    {
+        "value": 5,
+        "name": "合伙"
+    },
+    {
+        "value": 1,
+        "name": "2.0"
+    },
+    {
+        "value": 1,
+        "name": "3.0"
+    },
+    {
+        "value": 2,
+        "name": "定向"
+    },
+    {
+        "value": 1,
+        "name": "大华"
+    },
+    {
+        "value": 1,
+        "name": "基因"
+    },
+    {
+        "value": 2,
+        "name": "过年"
+    },
+    {
+        "value": 1,
+        "name": "眼花缭乱"
+    },
+    {
+        "value": 1,
+        "name": "心乱如麻"
+    },
+    {
+        "value": 1,
+        "name": "最为"
+    },
+    {
+        "value": 2,
+        "name": "眼看"
+    },
+    {
+        "value": 1,
+        "name": "涨跌"
+    },
+    {
+        "value": 3,
+        "name": "旗下"
+    },
+    {
+        "value": 2,
+        "name": "语"
+    },
+    {
+        "value": 4,
+        "name": "玩"
+    },
+    {
+        "value": 4,
+        "name": "APP"
+    },
+    {
+        "value": 1,
+        "name": "功能"
+    },
+    {
+        "value": 1,
+        "name": "视频"
+    },
+    {
+        "value": 1,
+        "name": "违背"
+    },
+    {
+        "value": 1,
+        "name": "初衷"
+    },
+    {
+        "value": 2,
+        "name": "战略性"
+    },
+    {
+        "value": 1,
+        "name": "语玩"
+    },
+    {
+        "value": 1,
+        "name": "堪比"
+    },
+    {
+        "value": 1,
+        "name": "大戏"
+    },
+    {
+        "value": 1,
+        "name": "表现"
+    },
+    {
+        "value": 1,
+        "name": "失"
+    },
+    {
+        "value": 1,
+        "name": "水准"
+    },
+    {
+        "value": 2,
+        "name": "回应"
+    },
+    {
+        "value": 1,
+        "name": "大度"
+    },
+    {
+        "value": 1,
+        "name": "场外"
+    },
+    {
+        "value": 1,
+        "name": "表象"
+    },
+    {
+        "value": 1,
+        "name": "评论"
+    },
+    {
+        "value": 1,
+        "name": "多种"
+    },
+    {
+        "value": 1,
+        "name": "观点"
+    },
+    {
+        "value": 1,
+        "name": "人性本恶"
+    },
+    {
+        "value": 3,
+        "name": "角度"
+    },
+    {
+        "value": 1,
+        "name": "揣测"
+    },
+    {
+        "value": 1,
+        "name": "姚"
+    },
+    {
+        "value": 2,
+        "name": "振华"
+    },
+    {
+        "value": 1,
+        "name": "唱双簧"
+    },
+    {
+        "value": 1,
+        "name": "王石姚"
+    },
+    {
+        "value": 1,
+        "name": "假装"
+    },
+    {
+        "value": 1,
+        "name": "吵架"
+    },
+    {
+        "value": 1,
+        "name": "掩盖"
+    },
+    {
+        "value": 1,
+        "name": "早已"
+    },
+    {
+        "value": 3,
+        "name": "质押"
+    },
+    {
+        "value": 1,
+        "name": "证券公司"
+    },
+    {
+        "value": 2,
+        "name": "好像"
+    },
+    {
+        "value": 4,
+        "name": "操作"
+    },
+    {
+        "value": 7,
+        "name": "盈安"
+    },
+    {
+        "value": 1,
+        "name": "追求"
+    },
+    {
+        "value": 1,
+        "name": "金钱"
+    },
+    {
+        "value": 9,
+        "name": "代表"
+    },
+    {
+        "value": 1,
+        "name": "开刀"
+    },
+    {
+        "value": 3,
+        "name": "职业"
+    },
+    {
+        "value": 2,
+        "name": "每平米"
+    },
+    {
+        "value": 2,
+        "name": "人工费"
+    },
+    {
+        "value": 2,
+        "name": "上万"
+    },
+    {
+        "value": 1,
+        "name": "地皮"
+    },
+    {
+        "value": 1,
+        "name": "推脱"
+    },
+    {
+        "value": 1,
+        "name": "身上"
+    },
+    {
+        "value": 2,
+        "name": "获利"
+    },
+    {
+        "value": 1,
+        "name": "好处"
+    },
+    {
+        "value": 1,
+        "name": "得利"
+    },
+    {
+        "value": 1,
+        "name": "斯都分"
+    },
+    {
+        "value": 1,
+        "name": "牛肉"
+    },
+    {
+        "value": 1,
+        "name": "人宝能"
+    },
+    {
+        "value": 1,
+        "name": "支"
+    },
+    {
+        "value": 1,
+        "name": "几招"
+    },
+    {
+        "value": 1,
+        "name": "到千股"
+    },
+    {
+        "value": 1,
+        "name": "放"
+    },
+    {
+        "value": 2,
+        "name": "盘"
+    },
+    {
+        "value": 1,
+        "name": "年加"
+    },
+    {
+        "value": 2,
+        "name": "暴跌"
+    },
+    {
+        "value": 1,
+        "name": "3.5"
+    },
+    {
+        "value": 1,
+        "name": "气死"
+    },
+    {
+        "value": 2,
+        "name": "一名"
+    },
+    {
+        "value": 4,
+        "name": "王总"
+    },
+    {
+        "value": 1,
+        "name": "无论谁"
+    },
+    {
+        "value": 1,
+        "name": "主沉浮"
+    },
+    {
+        "value": 1,
+        "name": "做个"
+    },
+    {
+        "value": 1,
+        "name": "境况"
+    },
+    {
+        "value": 2,
+        "name": "占用"
+    },
+    {
+        "value": 2,
+        "name": "公款"
+    },
+    {
+        "value": 8,
+        "name": "参与"
+    },
+    {
+        "value": 1,
+        "name": "状况"
+    },
+    {
+        "value": 1,
+        "name": "本次"
+    },
+    {
+        "value": 1,
+        "name": "内"
+    },
+    {
+        "value": 1,
+        "name": "斗"
+    },
+    {
+        "value": 1,
+        "name": "躲"
+    },
+    {
+        "value": 1,
+        "name": "任性"
+    },
+    {
+        "value": 1,
+        "name": "一声"
+    },
+    {
+        "value": 4,
+        "name": "保险公司"
+    },
+    {
+        "value": 1,
+        "name": "保单"
+    },
+    {
+        "value": 1,
+        "name": "再融资"
+    },
+    {
+        "value": 1,
+        "name": "成倍"
+    },
+    {
+        "value": 3,
+        "name": "伤害"
+    },
+    {
+        "value": 1,
+        "name": "理所应当"
+    },
+    {
+        "value": 1,
+        "name": "上加"
+    },
+    {
+        "value": 2,
+        "name": "做出"
+    },
+    {
+        "value": 1,
+        "name": "质疑"
+    },
+    {
+        "value": 5,
+        "name": "询问"
+    },
+    {
+        "value": 1,
+        "name": "做法"
+    },
+    {
+        "value": 1,
+        "name": "合法性"
+    },
+    {
+        "value": 1,
+        "name": "口口声声"
+    },
+    {
+        "value": 1,
+        "name": "爱护"
+    },
+    {
+        "value": 4,
+        "name": "股东会"
+    },
+    {
+        "value": 1,
+        "name": "有利于"
+    },
+    {
+        "value": 2,
+        "name": "转"
+    },
+    {
+        "value": 2,
+        "name": "奖金"
+    },
+    {
+        "value": 1,
+        "name": "正负"
+    },
+    {
+        "value": 1,
+        "name": "双向"
+    },
+    {
+        "value": 2,
+        "name": "调节"
+    },
+    {
+        "value": 1,
+        "name": "机制"
+    },
+    {
+        "value": 5,
+        "name": "引入"
+    },
+    {
+        "value": 1,
+        "name": "配资"
+    },
+    {
+        "value": 6,
+        "name": "购买"
+    },
+    {
+        "value": 2,
+        "name": "将来"
+    },
+    {
+        "value": 2,
+        "name": "股票价格"
+    },
+    {
+        "value": 1,
+        "name": "回落"
+    },
+    {
+        "value": 1,
+        "name": "返还"
+    },
+    {
+        "value": 2,
+        "name": "累计"
+    },
+    {
+        "value": 1,
+        "name": "动用"
+    },
+    {
+        "value": 1,
+        "name": "48.77"
+    },
+    {
+        "value": 1,
+        "name": "来源"
+    },
+    {
+        "value": 3,
+        "name": "写道"
+    },
+    {
+        "value": 12,
+        "name": ":"
+    },
+    {
+        "value": 1,
+        "name": "尚有"
+    },
+    {
+        "value": 8,
+        "name": "万平方米"
+    },
+    {
+        "value": 5,
+        "name": "资源"
+    },
+    {
+        "value": 4,
+        "name": "竣工"
+    },
+    {
+        "value": 7,
+        "name": "结算"
+    },
+    {
+        "value": 1,
+        "name": "总计"
+    },
+    {
+        "value": 5,
+        "name": "报表"
+    },
+    {
+        "value": 1,
+        "name": "已售"
+    },
+    {
+        "value": 1,
+        "name": "未结"
+    },
+    {
+        "value": 1,
+        "name": "损益"
+    },
+    {
+        "value": 1,
+        "name": "毒瘤"
+    },
+    {
+        "value": 2,
+        "name": "金"
+    },
+    {
+        "value": 1,
+        "name": "奉劝"
+    },
+    {
+        "value": 1,
+        "name": "干份"
+    },
+    {
+        "value": 1,
+        "name": "攫取"
+    },
+    {
+        "value": 1,
+        "name": "不应得"
+    },
+    {
+        "value": 1,
+        "name": "王茁"
+    },
+    {
+        "value": 1,
+        "name": "扫地出门"
+    },
+    {
+        "value": 1,
+        "name": "前车之鉴"
+    },
+    {
+        "value": 1,
+        "name": "流于形式"
+    },
+    {
+        "value": 1,
+        "name": "抢"
+    },
+    {
+        "value": 1,
+        "name": "摆在"
+    },
+    {
+        "value": 1,
+        "name": "上班"
+    },
+    {
+        "value": 1,
+        "name": "裹足不前"
+    },
+    {
+        "value": 1,
+        "name": "误判"
+    },
+    {
+        "value": 1,
+        "name": "形势"
+    },
+    {
+        "value": 2,
+        "name": "上半年"
+    },
+    {
+        "value": 1,
+        "name": "促销"
+    },
+    {
+        "value": 3,
+        "name": "下半年"
+    },
+    {
+        "value": 1,
+        "name": "售房"
+    },
+    {
+        "value": 1,
+        "name": "源"
+    },
+    {
+        "value": 1,
+        "name": "绿地"
+    },
+    {
+        "value": 1,
+        "name": "踩"
+    },
+    {
+        "value": 1,
+        "name": "脚下"
+    },
+    {
+        "value": 3,
+        "name": "操盘"
+    },
+    {
+        "value": 1,
+        "name": "显得"
+    },
+    {
+        "value": 1,
+        "name": "目光短浅"
+    },
+    {
+        "value": 1,
+        "name": "利用效率"
+    },
+    {
+        "value": 1,
+        "name": "虽高"
+    },
+    {
+        "value": 1,
+        "name": "错失"
+    },
+    {
+        "value": 1,
+        "name": "加"
+    },
+    {
+        "value": 2,
+        "name": "放弃"
+    },
+    {
+        "value": 4,
+        "name": "改成"
+    },
+    {
+        "value": 1,
+        "name": "足够"
+    },
+    {
+        "value": 1,
+        "name": "打脸"
+    },
+    {
+        "value": 2,
+        "name": "水平"
+    },
+    {
+        "value": 1,
+        "name": "改组"
+    },
+    {
+        "value": 1,
+        "name": "自持"
+    },
+    {
+        "value": 1,
+        "name": "公允"
+    },
+    {
+        "value": 1,
+        "name": "计入"
+    },
+    {
+        "value": 2,
+        "name": "负债表"
+    },
+    {
+        "value": 1,
+        "name": "依法"
+    },
+    {
+        "value": 1,
+        "name": "纳税"
+    },
+    {
+        "value": 2,
+        "name": "十年间"
+    },
+    {
+        "value": 3,
+        "name": "现金流"
+    },
+    {
+        "value": 5,
+        "name": "净额"
+    },
+    {
+        "value": 1,
+        "name": "总共"
+    },
+    {
+        "value": 1,
+        "name": "825.27"
+    },
+    {
+        "value": 7,
+        "name": "净利润"
+    },
+    {
+        "value": 1,
+        "name": "738.89"
+    },
+    {
+        "value": 1,
+        "name": "比值"
+    },
+    {
+        "value": 1,
+        "name": "0.52"
+    },
+    {
+        "value": 1,
+        "name": "周期"
+    },
+    {
+        "value": 1,
+        "name": "一半左右"
+    },
+    {
+        "value": 2,
+        "name": "核算"
+    },
+    {
+        "value": 3,
+        "name": "开发资源"
+    },
+    {
+        "value": 6,
+        "name": "新增"
+    },
+    {
+        "value": 1,
+        "name": "匹配"
+    },
+    {
+        "value": 1,
+        "name": "计算公式"
+    },
+    {
+        "value": 1,
+        "name": "期末"
+    },
+    {
+        "value": 4,
+        "name": "期内"
+    },
+    {
+        "value": 1,
+        "name": "上一年"
+    },
+    {
+        "value": 1,
+        "name": "公式"
+    },
+    {
+        "value": 1,
+        "name": "指正"
+    },
+    {
+        "value": 1,
+        "name": "纸质"
+    },
+    {
+        "value": 1,
+        "name": "版本"
+    },
+    {
+        "value": 2,
+        "name": "806.4"
+    },
+    {
+        "value": 4,
+        "name": "151.3"
+    },
+    {
+        "value": 1,
+        "name": "指出"
+    },
+    {
+        "value": 1,
+        "name": "签约"
+    },
+    {
+        "value": 2,
+        "name": "签署"
+    },
+    {
+        "value": 1,
+        "name": "认购书"
+    },
+    {
+        "value": 2,
+        "name": "确认"
+    },
+    {
+        "value": 1,
+        "name": "购房"
+    },
+    {
+        "value": 4,
+        "name": "可否"
+    },
+    {
+        "value": 3,
+        "name": "营业"
+    },
+    {
+        "value": 1,
+        "name": "转为"
+    },
+    {
+        "value": 1,
+        "name": "预收"
+    },
+    {
+        "value": 1,
+        "name": "帐款"
+    },
+    {
+        "value": 1,
+        "name": "阅读"
+    },
+    {
+        "value": 2,
+        "name": "页"
+    },
+    {
+        "value": 6,
+        "name": "全国"
+    },
+    {
+        "value": 1,
+        "name": "商品住宅"
+    },
+    {
+        "value": 8,
+        "name": "约"
+    },
+    {
+        "value": 1,
+        "name": "10.52"
+    },
+    {
+        "value": 1,
+        "name": "亿平方米"
+    },
+    {
+        "value": 1,
+        "name": "6.24"
+    },
+    {
+        "value": 1,
+        "name": "万亿元"
+    },
+    {
+        "value": 2,
+        "name": "商品房"
+    },
+    {
+        "value": 1,
+        "name": "292.4"
+    },
+    {
+        "value": 1,
+        "name": "市场占有率"
+    },
+    {
+        "value": 1,
+        "name": "2.82%"
+    },
+    {
+        "value": 4,
+        "name": "数据"
+    },
+    {
+        "value": 3,
+        "name": "相差"
+    },
+    {
+        "value": 1,
+        "name": "房贷"
+    },
+    {
+        "value": 3,
+        "name": "利息"
+    },
+    {
+        "value": 1,
+        "name": "抵税"
+    },
+    {
+        "value": 1,
+        "name": "缓慢"
+    },
+    {
+        "value": 1,
+        "name": "存量房"
+    },
+    {
+        "value": 5,
+        "name": "时代"
+    },
+    {
+        "value": 2,
+        "name": "楼面"
+    },
+    {
+        "value": 1,
+        "name": "价为"
+    },
+    {
+        "value": 1,
+        "name": "容积率"
+    },
+    {
+        "value": 1,
+        "name": "建"
+    },
+    {
+        "value": 1,
+        "name": "成本价"
+    },
+    {
+        "value": 9,
+        "name": "转型"
+    },
+    {
+        "value": 3,
+        "name": "十年"
+    },
+    {
+        "value": 1,
+        "name": "近日"
+    },
+    {
+        "value": 1,
+        "name": "网传"
+    },
+    {
+        "value": 1,
+        "name": "实行"
+    },
+    {
+        "value": 1,
+        "name": "先租后"
+    },
+    {
+        "value": 1,
+        "name": "租金"
+    },
+    {
+        "value": 1,
+        "name": "可抵"
+    },
+    {
+        "value": 2,
+        "name": "房款"
+    },
+    {
+        "value": 1,
+        "name": "创客"
+    },
+    {
+        "value": 1,
+        "name": "网址"
+    },
+    {
+        "value": 1,
+        "name": "设想"
+    },
+    {
+        "value": 1,
+        "name": "性"
+    },
+    {
+        "value": 1,
+        "name": "博鳌"
+    },
+    {
+        "value": 1,
+        "name": "论坛"
+    },
+    {
+        "value": 1,
+        "name": "星河湾"
+    },
+    {
+        "value": 2,
+        "name": "产品品质"
+    },
+    {
+        "value": 1,
+        "name": "高端"
+    },
+    {
+        "value": 1,
+        "name": "消费"
+    },
+    {
+        "value": 4,
+        "name": "升级"
+    },
+    {
+        "value": 2,
+        "name": "需求"
+    },
+    {
+        "value": 1,
+        "name": "改善"
+    },
+    {
+        "value": 1,
+        "name": "利润率"
+    },
+    {
+        "value": 6,
+        "name": "规模"
+    },
+    {
+        "value": 1,
+        "name": "导向"
+    },
+    {
+        "value": 2,
+        "name": "加速"
+    },
+    {
+        "value": 1,
+        "name": "价格便宜"
+    },
+    {
+        "value": 1,
+        "name": "产品线"
+    },
+    {
+        "value": 1,
+        "name": "一味"
+    },
+    {
+        "value": 13,
+        "name": "城市"
+    },
+    {
+        "value": 3,
+        "name": "推出"
+    },
+    {
+        "value": 3,
+        "name": "急需"
+    },
+    {
+        "value": 2,
+        "name": "运营"
+    },
+    {
+        "value": 4,
+        "name": "能力"
+    },
+    {
+        "value": 2,
+        "name": "合作项目"
+    },
+    {
+        "value": 2,
+        "name": "三季度"
+    },
+    {
+        "value": 1,
+        "name": "回款"
+    },
+    {
+        "value": 1,
+        "name": "率不高"
+    },
+    {
+        "value": 11,
+        "name": "物流"
+    },
+    {
+        "value": 4,
+        "name": "物业管理"
+    },
+    {
+        "value": 4,
+        "name": "每月"
+    },
+    {
+        "value": 1,
+        "name": "季度"
+    },
+    {
+        "value": 1,
+        "name": "非经营性"
+    },
+    {
+        "value": 1,
+        "name": "资金占用"
+    },
+    {
+        "value": 1,
+        "name": "往来"
+    },
+    {
+        "value": 1,
+        "name": "专项"
+    },
+    {
+        "value": 2,
+        "name": "房产"
+    },
+    {
+        "value": 3,
+        "name": "投入"
+    },
+    {
+        "value": 1,
+        "name": "46.3"
+    },
+    {
+        "value": 1,
+        "name": "区域"
+    },
+    {
+        "value": 2,
+        "name": "参股"
+    },
+    {
+        "value": 5,
+        "name": "并表"
+    },
+    {
+        "value": 1,
+        "name": "大增"
+    },
+    {
+        "value": 1,
+        "name": "所有者"
+    },
+    {
+        "value": 1,
+        "name": "甚微"
+    },
+    {
+        "value": 1,
+        "name": "癌细胞"
+    },
+    {
+        "value": 1,
+        "name": "生存之道"
+    },
+    {
+        "value": 1,
+        "name": "解释一下"
+    },
+    {
+        "value": 1,
+        "name": "全天"
+    },
+    {
+        "value": 1,
+        "name": "12.7"
+    },
+    {
+        "value": 1,
+        "name": "日才"
+    },
+    {
+        "value": 1,
+        "name": "不积积"
+    },
+    {
+        "value": 2,
+        "name": "浓缩"
+    },
+    {
+        "value": 1,
+        "name": "感到"
+    },
+    {
+        "value": 4,
+        "name": "额度"
+    },
+    {
+        "value": 3,
+        "name": "没用"
+    },
+    {
+        "value": 1,
+        "name": "考核"
+    },
+    {
+        "value": 1,
+        "name": "霸王"
+    },
+    {
+        "value": 1,
+        "name": "较差"
+    },
+    {
+        "value": 1,
+        "name": "经历"
+    },
+    {
+        "value": 1,
+        "name": "信任危机"
+    },
+    {
+        "value": 1,
+        "name": "虚与委蛇"
+    },
+    {
+        "value": 1,
+        "name": "病"
+    },
+    {
+        "value": 2,
+        "name": "体验"
+    },
+    {
+        "value": 1,
+        "name": "产品质量"
+    },
+    {
+        "value": 1,
+        "name": "后期"
+    },
+    {
+        "value": 1,
+        "name": "冬天"
+    },
+    {
+        "value": 1,
+        "name": "应收"
+    },
+    {
+        "value": 1,
+        "name": "账款"
+    },
+    {
+        "value": 1,
+        "name": "逐季"
+    },
+    {
+        "value": 1,
+        "name": "包括"
+    },
+    {
+        "value": 2,
+        "name": "咨询"
+    },
+    {
+        "value": 3,
+        "name": "活动"
+    },
+    {
+        "value": 3,
+        "name": "现金流量"
+    },
+    {
+        "value": 1,
+        "name": "栏目"
+    },
+    {
+        "value": 1,
+        "name": "19.23"
+    },
+    {
+        "value": 1,
+        "name": "年贵"
+    },
+    {
+        "value": 1,
+        "name": "182.9"
+    },
+    {
+        "value": 1,
+        "name": "192.8"
+    },
+    {
+        "value": 3,
+        "name": "季报"
+    },
+    {
+        "value": 3,
+        "name": "报里"
+    },
+    {
+        "value": 3,
+        "name": "等价物"
+    },
+    {
+        "value": 4,
+        "name": "净"
+    },
+    {
+        "value": 4,
+        "name": "增加额"
+    },
+    {
+        "value": 3,
+        "name": "流出量"
+    },
+    {
+        "value": 3,
+        "name": "较大"
+    },
+    {
+        "value": 2,
+        "name": "跌破"
+    },
+    {
+        "value": 8,
+        "name": "13.2"
+    },
+    {
+        "value": 4,
+        "name": "价"
+    },
+    {
+        "value": 1,
+        "name": "首日"
+    },
+    {
+        "value": 1,
+        "name": "本周"
+    },
+    {
+        "value": 7,
+        "name": "低于"
+    },
+    {
+        "value": 3,
+        "name": "力度"
+    },
+    {
+        "value": 1,
+        "name": "执行"
+    },
+    {
+        "value": 1,
+        "name": "每日"
+    },
+    {
+        "value": 1,
+        "name": "预计"
+    },
+    {
+        "value": 6,
+        "name": "跌"
+    },
+    {
+        "value": 1,
+        "name": "亿问"
+    },
+    {
+        "value": 2,
+        "name": "确保"
+    },
+    {
+        "value": 1,
+        "name": "还会"
+    },
+    {
+        "value": 1,
+        "name": "弹药"
+    },
+    {
+        "value": 1,
+        "name": "留着"
+    },
+    {
+        "value": 1,
+        "name": "深幅"
+    },
+    {
+        "value": 2,
+        "name": "短"
+    },
+    {
+        "value": 4,
+        "name": "交代"
+    },
+    {
+        "value": 1,
+        "name": "股本"
+    },
+    {
+        "value": 1,
+        "name": "噱头"
+    },
+    {
+        "value": 1,
+        "name": "剩下"
+    },
+    {
+        "value": 1,
+        "name": "途径"
+    },
+    {
+        "value": 1,
+        "name": "说用"
+    },
+    {
+        "value": 1,
+        "name": "珍宝"
+    },
+    {
+        "value": 1,
+        "name": "币"
+    },
+    {
+        "value": 1,
+        "name": "抵扣"
+    },
+    {
+        "value": 1,
+        "name": "挂托单"
+    },
+    {
+        "value": 1,
+        "name": "PS"
+    },
+    {
+        "value": 3,
+        "name": "一周"
+    },
+    {
+        "value": 1,
+        "name": "麻烦"
+    },
+    {
+        "value": 1,
+        "name": "下降"
+    },
+    {
+        "value": 1,
+        "name": "见到"
+    },
+    {
+        "value": 1,
+        "name": "回事儿"
+    },
+    {
+        "value": 4,
+        "name": "注销"
+    },
+    {
+        "value": 1,
+        "name": "狙击"
+    },
+    {
+        "value": 1,
+        "name": "入股"
+    },
+    {
+        "value": 1,
+        "name": "入主"
+    },
+    {
+        "value": 1,
+        "name": "大哥"
+    },
+    {
+        "value": 1,
+        "name": "不想"
+    },
+    {
+        "value": 2,
+        "name": "失望"
+    },
+    {
+        "value": 1,
+        "name": "元时"
+    },
+    {
+        "value": 1,
+        "name": "两天"
+    },
+    {
+        "value": 1,
+        "name": "未见"
+    },
+    {
+        "value": 1,
+        "name": "亮"
+    },
+    {
+        "value": 3,
+        "name": "哥"
+    },
+    {
+        "value": 5,
+        "name": "报告书"
+    },
+    {
+        "value": 1,
+        "name": "账户"
+    },
+    {
+        "value": 2,
+        "name": "办事效率"
+    },
+    {
+        "value": 1,
+        "name": "慢"
+    },
+    {
+        "value": 2,
+        "name": "伊利"
+    },
+    {
+        "value": 1,
+        "name": "恪守"
+    },
+    {
+        "value": 1,
+        "name": "上限"
+    },
+    {
+        "value": 2,
+        "name": "调整"
+    },
+    {
+        "value": 1,
+        "name": "13.20"
+    },
+    {
+        "value": 1,
+        "name": "平均价格"
+    },
+    {
+        "value": 1,
+        "name": "韭菜"
+    },
+    {
+        "value": 3,
+        "name": "专业"
+    },
+    {
+        "value": 1,
+        "name": "1.2015"
+    },
+    {
+        "value": 4,
+        "name": "半年"
+    },
+    {
+        "value": 1,
+        "name": "附注"
+    },
+    {
+        "value": 1,
+        "name": "存货"
+    },
+    {
+        "value": 1,
+        "name": "项"
+    },
+    {
+        "value": 1,
+        "name": "明细表"
+    },
+    {
+        "value": 2,
+        "name": "本期"
+    },
+    {
+        "value": 2,
+        "name": "在建"
+    },
+    {
+        "value": 1,
+        "name": "期末余额"
+    },
+    {
+        "value": 1,
+        "name": "期初余额"
+    },
+    {
+        "value": 1,
+        "name": "不太"
+    },
+    {
+        "value": 1,
+        "name": "明白"
+    },
+    {
+        "value": 1,
+        "name": "小白"
+    },
+    {
+        "value": 1,
+        "name": "添麻烦"
+    },
+    {
+        "value": 1,
+        "name": "日晚"
+    },
+    {
+        "value": 2,
+        "name": "发布公告"
+    },
+    {
+        "value": 2,
+        "name": "当天"
+    },
+    {
+        "value": 1,
+        "name": "首次"
+    },
+    {
+        "value": 1,
+        "name": "5045.88"
+    },
+    {
+        "value": 2,
+        "name": "蓝筹"
+    },
+    {
+        "value": 1,
+        "name": "以身作则"
+    },
+    {
+        "value": 4,
+        "name": "两次"
+    },
+    {
+        "value": 2,
+        "name": "均价"
+    },
+    {
+        "value": 1,
+        "name": "13.37"
+    },
+    {
+        "value": 1,
+        "name": "752.15"
+    },
+    {
+        "value": 1,
+        "name": "13.34"
+    },
+    {
+        "value": 1,
+        "name": "2974.3"
+    },
+    {
+        "value": 1,
+        "name": "15.29%"
+    },
+    {
+        "value": 3,
+        "name": "15%"
+    },
+    {
+        "value": 1,
+        "name": "出具"
+    },
+    {
+        "value": 3,
+        "name": "变动"
+    },
+    {
+        "value": 1,
+        "name": "最高价"
+    },
+    {
+        "value": 1,
+        "name": "地"
+    },
+    {
+        "value": 1,
+        "name": "最低价"
+    },
+    {
+        "value": 4,
+        "name": "赚"
+    },
+    {
+        "value": 1,
+        "name": "金地少"
+    },
+    {
+        "value": 1,
+        "name": "中长线"
+    },
+    {
+        "value": 1,
+        "name": "有何感想"
+    },
+    {
+        "value": 1,
+        "name": "免红"
+    },
+    {
+        "value": 3,
+        "name": "利税"
+    },
+    {
+        "value": 1,
+        "name": "这样一来"
+    },
+    {
+        "value": 2,
+        "name": "相比"
+    },
+    {
+        "value": 1,
+        "name": "自行决定"
+    },
+    {
+        "value": 3,
+        "name": "短期"
+    },
+    {
+        "value": 1,
+        "name": "不介意"
+    },
+    {
+        "value": 1,
+        "name": "及红"
+    },
+    {
+        "value": 1,
+        "name": "各得其所"
+    },
+    {
+        "value": 1,
+        "name": "金域"
+    },
+    {
+        "value": 1,
+        "name": "缇"
+    },
+    {
+        "value": 1,
+        "name": "香"
+    },
+    {
+        "value": 1,
+        "name": "二期"
+    },
+    {
+        "value": 2,
+        "name": "木地板"
+    },
+    {
+        "value": 1,
+        "name": "发霉"
+    },
+    {
+        "value": 1,
+        "name": "更换"
+    },
+    {
+        "value": 2,
+        "name": "成"
+    },
+    {
+        "value": 1,
+        "name": "磁砖"
+    },
+    {
+        "value": 1,
+        "name": "15.23%"
+    },
+    {
+        "value": 5,
+        "name": "不"
+    },
+    {
+        "value": 1,
+        "name": "简式"
+    },
+    {
+        "value": 3,
+        "name": "几天"
+    },
+    {
+        "value": 1,
+        "name": "跌穿"
+    },
+    {
+        "value": 2,
+        "name": "块"
+    },
+    {
+        "value": 2,
+        "name": "办理"
+    },
+    {
+        "value": 2,
+        "name": "程序"
+    },
+    {
+        "value": 1,
+        "name": "内出"
+    },
+    {
+        "value": 1,
+        "name": "社会公众"
+    },
+    {
+        "value": 1,
+        "name": "侠之大者"
+    },
+    {
+        "value": 1,
+        "name": "为国"
+    },
+    {
+        "value": 1,
+        "name": "接盘"
+    },
+    {
+        "value": 1,
+        "name": "稳住"
+    },
+    {
+        "value": 1,
+        "name": "面子"
+    },
+    {
+        "value": 1,
+        "name": "还称"
+    },
+    {
+        "value": 1,
+        "name": "门口"
+    },
+    {
+        "value": 1,
+        "name": "半死不活"
+    },
+    {
+        "value": 1,
+        "name": "不让"
+    },
+    {
+        "value": 1,
+        "name": "拉"
+    },
+    {
+        "value": 1,
+        "name": "眼里"
+    },
+    {
+        "value": 5,
+        "name": "提"
+    },
+    {
+        "value": 2,
+        "name": "数量"
+    },
+    {
+        "value": 1,
+        "name": "N年"
+    },
+    {
+        "value": 1,
+        "name": "优惠"
+    },
+    {
+        "value": 1,
+        "name": "刺激"
+    },
+    {
+        "value": 1,
+        "name": "销量"
+    },
+    {
+        "value": 1,
+        "name": "ì"
+    },
+    {
+        "value": 4,
+        "name": "海外"
+    },
+    {
+        "value": 1,
+        "name": "HK"
+    },
+    {
+        "value": 1,
+        "name": "纯利"
+    },
+    {
+        "value": 1,
+        "name": "升"
+    },
+    {
+        "value": 1,
+        "name": "20%"
+    },
+    {
+        "value": 1,
+        "name": "163.2"
+    },
+    {
+        "value": 1,
+        "name": "鼓吹"
+    },
+    {
+        "value": 1,
+        "name": "住房"
+    },
+    {
+        "value": 1,
+        "name": "合计"
+    },
+    {
+        "value": 1,
+        "name": "锯盛"
+    },
+    {
+        "value": 1,
+        "name": "华以"
+    },
+    {
+        "value": 1,
+        "name": "互换"
+    },
+    {
+        "value": 4,
+        "name": "形式"
+    },
+    {
+        "value": 1,
+        "name": "4.7"
+    },
+    {
+        "value": 2,
+        "name": "亿股"
+    },
+    {
+        "value": 1,
+        "name": "增量"
+    },
+    {
+        "value": 1,
+        "name": "量"
+    },
+    {
+        "value": 1,
+        "name": "第三次"
+    },
+    {
+        "value": 1,
+        "name": "跃升"
+    },
+    {
+        "value": 1,
+        "name": "紧急"
+    },
+    {
+        "value": 1,
+        "name": "昨晚"
+    },
+    {
+        "value": 1,
+        "name": "语焉不详"
+    },
+    {
+        "value": 1,
+        "name": "盛华是"
+    },
+    {
+        "value": 1,
+        "name": "阿里巴巴"
+    },
+    {
+        "value": 1,
+        "name": "众筹"
+    },
+    {
+        "value": 2,
+        "name": "基金"
+    },
+    {
+        "value": 2,
+        "name": "宝"
+    },
+    {
+        "value": 1,
+        "name": "借款"
+    },
+    {
+        "value": 1,
+        "name": "自筹资金"
+    },
+    {
+        "value": 1,
+        "name": "集资"
+    },
+    {
+        "value": 1,
+        "name": "建房"
+    },
+    {
+        "value": 1,
+        "name": "淘宝"
+    },
+    {
+        "value": 1,
+        "name": "买房人"
+    },
+    {
+        "value": 1,
+        "name": "支付宝"
+    },
+    {
+        "value": 2,
+        "name": "贷款"
+    },
+    {
+        "value": 1,
+        "name": "再"
+    },
+    {
+        "value": 1,
+        "name": "以"
+    },
+    {
+        "value": 1,
+        "name": "RETIS"
+    },
+    {
+        "value": 2,
+        "name": "证券化"
+    },
+    {
+        "value": 1,
+        "name": "发售"
+    },
+    {
+        "value": 5,
+        "name": "低"
+    },
+    {
+        "value": 1,
+        "name": "市盈率"
+    },
+    {
+        "value": 2,
+        "name": "奇怪"
+    },
+    {
+        "value": 1,
+        "name": "口号"
+    },
+    {
+        "value": 1,
+        "name": "住"
+    },
+    {
+        "value": 1,
+        "name": "下载量"
+    },
+    {
+        "value": 1,
+        "name": "活跃"
+    },
+    {
+        "value": 4,
+        "name": "用户"
+    },
+    {
+        "value": 1,
+        "name": "立下"
+    },
+    {
+        "value": 1,
+        "name": "军令状"
+    },
+    {
+        "value": 1,
+        "name": "亿是"
+    },
+    {
+        "value": 1,
+        "name": "几日"
+    },
+    {
+        "value": 2,
+        "name": "14.65"
+    },
+    {
+        "value": 3,
+        "name": "大单"
+    },
+    {
+        "value": 1,
+        "name": "压盘"
+    },
+    {
+        "value": 1,
+        "name": "更是"
+    },
+    {
+        "value": 1,
+        "name": "不计成本"
+    },
+    {
+        "value": 1,
+        "name": "lv2"
+    },
+    {
+        "value": 1,
+        "name": "手"
+    },
+    {
+        "value": 1,
+        "name": "做空"
+    },
+    {
+        "value": 1,
+        "name": "大战"
+    },
+    {
+        "value": 1,
+        "name": "新闻报道"
+    },
+    {
+        "value": 2,
+        "name": "取消"
+    },
+    {
+        "value": 2,
+        "name": "年终奖"
+    },
+    {
+        "value": 1,
+        "name": "现状"
+    },
+    {
+        "value": 3,
+        "name": "二线"
+    },
+    {
+        "value": 1,
+        "name": "土地价格"
+    },
+    {
+        "value": 1,
+        "name": "飙涨"
+    },
+    {
+        "value": 1,
+        "name": "摘牌"
+    },
+    {
+        "value": 2,
+        "name": "挂"
+    },
+    {
+        "value": 1,
+        "name": "极高"
+    },
+    {
+        "value": 7,
+        "name": "土地"
+    },
+    {
+        "value": 1,
+        "name": "内房"
+    },
+    {
+        "value": 1,
+        "name": "一批"
+    },
+    {
+        "value": 1,
+        "name": "融创"
+    },
+    {
+        "value": 1,
+        "name": "逾"
+    },
+    {
+        "value": 1,
+        "name": "下同"
+    },
+    {
+        "value": 2,
+        "name": "成都"
+    },
+    {
+        "value": 1,
+        "name": "商住"
+    },
+    {
+        "value": 1,
+        "name": "价才"
+    },
+    {
+        "value": 2,
+        "name": "恒大"
+    },
+    {
+        "value": 1,
+        "name": "中渝置"
+    },
+    {
+        "value": 1,
+        "name": "重庆"
+    },
+    {
+        "value": 1,
+        "name": "照片"
+    },
+    {
+        "value": 3,
+        "name": "更新"
+    },
+    {
+        "value": 1,
+        "name": "几十年"
+    },
+    {
+        "value": 1,
+        "name": "老照片"
+    },
+    {
+        "value": 2,
+        "name": "误导"
+    },
+    {
+        "value": 1,
+        "name": "第一批"
+    },
+    {
+        "value": 1,
+        "name": "小小的"
+    },
+    {
+        "value": 1,
+        "name": "原则上"
+    },
+    {
+        "value": 1,
+        "name": "承接"
+    },
+    {
+        "value": 1,
+        "name": "售楼盘"
+    },
+    {
+        "value": 4,
+        "name": "竞争"
+    },
+    {
+        "value": 1,
+        "name": "售"
+    },
+    {
+        "value": 1,
+        "name": "健康"
+    },
+    {
+        "value": 2,
+        "name": "物业公司"
+    },
+    {
+        "value": 1,
+        "name": "造就"
+    },
+    {
+        "value": 3,
+        "name": "一点"
+    },
+    {
+        "value": 1,
+        "name": "愚见"
+    },
+    {
+        "value": 1,
+        "name": "见笑"
+    },
+    {
+        "value": 2,
+        "name": "教育"
+    },
+    {
+        "value": 3,
+        "name": "方向"
+    },
+    {
+        "value": 1,
+        "name": "机械"
+    },
+    {
+        "value": 3,
+        "name": "达"
+    },
+    {
+        "value": 1,
+        "name": "快成"
+    },
+    {
+        "value": 2,
+        "name": "领导"
+    },
+    {
+        "value": 1,
+        "name": "慢半拍"
+    },
+    {
+        "value": 1,
+        "name": "警惕"
+    },
+    {
+        "value": 1,
+        "name": "前海哟"
+    },
+    {
+        "value": 1,
+        "name": "郁"
+    },
+    {
+        "value": 1,
+        "name": "真该"
+    },
+    {
+        "value": 1,
+        "name": "想点"
+    },
+    {
+        "value": 1,
+        "name": "办法"
+    },
+    {
+        "value": 1,
+        "name": "咯"
+    },
+    {
+        "value": 1,
+        "name": "不失为"
+    },
+    {
+        "value": 1,
+        "name": "十大"
+    },
+    {
+        "value": 1,
+        "name": "流通股东"
+    },
+    {
+        "value": 1,
+        "name": "东"
+    },
+    {
+        "value": 1,
+        "name": "增是"
+    },
+    {
+        "value": 1,
+        "name": "减"
+    },
+    {
+        "value": 1,
+        "name": "目标价"
+    },
+    {
+        "value": 6,
+        "name": "价位"
+    },
+    {
+        "value": 1,
+        "name": "择机"
+    },
+    {
+        "value": 1,
+        "name": "选"
+    },
+    {
+        "value": 1,
+        "name": "而定"
+    },
+    {
+        "value": 6,
+        "name": "13.7"
+    },
+    {
+        "value": 2,
+        "name": "托底"
+    },
+    {
+        "value": 1,
+        "name": "实际上"
+    },
+    {
+        "value": 1,
+        "name": "真跌"
+    },
+    {
+        "value": 1,
+        "name": "高点"
+    },
+    {
+        "value": 1,
+        "name": "向上"
+    },
+    {
+        "value": 1,
+        "name": "吸引"
+    },
+    {
+        "value": 1,
+        "name": "照样"
+    },
+    {
+        "value": 1,
+        "name": "强烈建议"
+    },
+    {
+        "value": 1,
+        "name": "修改"
+    },
+    {
+        "value": 1,
+        "name": "无所谓"
+    },
+    {
+        "value": 1,
+        "name": "晚间"
+    },
+    {
+        "value": 1,
+        "name": "从即日起"
+    },
+    {
+        "value": 1,
+        "name": "并称"
+    },
+    {
+        "value": 7,
+        "name": "近期"
+    },
+    {
+        "value": 1,
+        "name": "非理性"
+    },
+    {
+        "value": 1,
+        "name": "此举"
+    },
+    {
+        "value": 1,
+        "name": "日起"
+    },
+    {
+        "value": 1,
+        "name": "B"
+    },
+    {
+        "value": 1,
+        "name": "名称"
+    },
+    {
+        "value": 3,
+        "name": "改为"
+    },
+    {
+        "value": 1,
+        "name": "四线"
+    },
+    {
+        "value": 1,
+        "name": "黑洞"
+    },
+    {
+        "value": 1,
+        "name": "四大"
+    },
+    {
+        "value": 2,
+        "name": "一线"
+    },
+    {
+        "value": 1,
+        "name": "体量"
+    },
+    {
+        "value": 1,
+        "name": "支撑"
+    },
+    {
+        "value": 1,
+        "name": "专业人士"
+    },
+    {
+        "value": 1,
+        "name": "家住"
+    },
+    {
+        "value": 1,
+        "name": "郊区"
+    },
+    {
+        "value": 1,
+        "name": "万左右"
+    },
+    {
+        "value": 1,
+        "name": "上年"
+    },
+    {
+        "value": 2,
+        "name": "新房"
+    },
+    {
+        "value": 1,
+        "name": "售价"
+    },
+    {
+        "value": 1,
+        "name": "良心"
+    },
+    {
+        "value": 1,
+        "name": "价了"
+    },
+    {
+        "value": 1,
+        "name": "可买"
+    },
+    {
+        "value": 1,
+        "name": "市区"
+    },
+    {
+        "value": 2,
+        "name": "地价"
+    },
+    {
+        "value": 2,
+        "name": "过高"
+    },
+    {
+        "value": 1,
+        "name": "大幅度"
+    },
+    {
+        "value": 2,
+        "name": "高于"
+    },
+    {
+        "value": 1,
+        "name": "周边"
+    },
+    {
+        "value": 1,
+        "name": "畸形"
+    },
+    {
+        "value": 1,
+        "name": "北上"
+    },
+    {
+        "value": 1,
+        "name": "广深"
+    },
+    {
+        "value": 2,
+        "name": "无地"
+    },
+    {
+        "value": 2,
+        "name": "可卖"
+    },
+    {
+        "value": 1,
+        "name": "接近"
+    },
+    {
+        "value": 1,
+        "name": "单个"
+    },
+    {
+        "value": 1,
+        "name": "出让"
+    },
+    {
+        "value": 1,
+        "name": "处于"
+    },
+    {
+        "value": 1,
+        "name": "个位数"
+    },
+    {
+        "value": 1,
+        "name": "状态"
+    },
+    {
+        "value": 1,
+        "name": "无人"
+    },
+    {
+        "value": 1,
+        "name": "车是"
+    },
+    {
+        "value": 2,
+        "name": "王"
+    },
+    {
+        "value": 1,
+        "name": "有木有"
+    },
+    {
+        "value": 1,
+        "name": "多人"
+    },
+    {
+        "value": 3,
+        "name": "打人"
+    },
+    {
+        "value": 1,
+        "name": "好玩"
+    },
+    {
+        "value": 1,
+        "name": "要挟"
+    },
+    {
+        "value": 1,
+        "name": "跑"
+    },
+    {
+        "value": 1,
+        "name": "干嘛"
+    },
+    {
+        "value": 1,
+        "name": "都力"
+    },
+    {
+        "value": 1,
+        "name": "挺亮"
+    },
+    {
+        "value": 1,
+        "name": "理会"
+    },
+    {
+        "value": 1,
+        "name": "水鬼"
+    },
+    {
+        "value": 2,
+        "name": "税"
+    },
+    {
+        "value": 1,
+        "name": "策略"
+    },
+    {
+        "value": 1,
+        "name": "亮哥"
+    },
+    {
+        "value": 1,
+        "name": "培育"
+    },
+    {
+        "value": 2,
+        "name": "跨行业"
+    },
+    {
+        "value": 2,
+        "name": "多元化"
+    },
+    {
+        "value": 1,
+        "name": "期待"
+    },
+    {
+        "value": 1,
+        "name": "龙岗"
+    },
+    {
+        "value": 1,
+        "name": "坪"
+    },
+    {
+        "value": 1,
+        "name": "片区"
+    },
+    {
+        "value": 1,
+        "name": "时刻"
+    },
+    {
+        "value": 1,
+        "name": "预测"
+    },
+    {
+        "value": 1,
+        "name": "分成"
+    },
+    {
+        "value": 1,
+        "name": "骗人"
+    },
+    {
+        "value": 1,
+        "name": "赌钱"
+    },
+    {
+        "value": 1,
+        "name": "段时间"
+    },
+    {
+        "value": 1,
+        "name": "听"
+    },
+    {
+        "value": 2,
+        "name": "免费"
+    },
+    {
+        "value": 2,
+        "name": "讲解"
+    },
+    {
+        "value": 2,
+        "name": "选股"
+    },
+    {
+        "value": 1,
+        "name": "讲"
+    },
+    {
+        "value": 1,
+        "name": "清晰"
+    },
+    {
+        "value": 2,
+        "name": "分享"
+    },
+    {
+        "value": 3,
+        "name": "朋友"
+    },
+    {
+        "value": 1,
+        "name": "微"
+    },
+    {
+        "value": 1,
+        "name": "jwa0000"
+    },
+    {
+        "value": 1,
+        "name": "菜鸟"
+    },
+    {
+        "value": 1,
+        "name": "听听"
+    },
+    {
+        "value": 2,
+        "name": "啥时候"
+    },
+    {
+        "value": 1,
+        "name": "谭"
+    },
+    {
+        "value": 3,
+        "name": "无人驾驶"
+    },
+    {
+        "value": 2,
+        "name": "汽车"
+    },
+    {
+        "value": 1,
+        "name": "怎么回事"
+    },
+    {
+        "value": 2,
+        "name": "研发"
+    },
+    {
+        "value": 1,
+        "name": "推向市场"
+    },
+    {
+        "value": 1,
+        "name": "B股"
+    },
+    {
+        "value": 1,
+        "name": "账亮"
+    },
+    {
+        "value": 1,
+        "name": "黄金时代"
+    },
+    {
+        "value": 3,
+        "name": "东西"
+    },
+    {
+        "value": 1,
+        "name": "大牛市"
+    },
+    {
+        "value": 1,
+        "name": "从何而来"
+    },
+    {
+        "value": 1,
+        "name": "蓝图"
+    },
+    {
+        "value": 2,
+        "name": "明明白白"
+    },
+    {
+        "value": 1,
+        "name": "小小"
+    },
+    {
+        "value": 1,
+        "name": "恶霸"
+    },
+    {
+        "value": 1,
+        "name": "令人"
+    },
+    {
+        "value": 1,
+        "name": "超着"
+    },
+    {
+        "value": 2,
+        "name": "恶劣"
+    },
+    {
+        "value": 2,
+        "name": "用脚"
+    },
+    {
+        "value": 1,
+        "name": "拜托"
+    },
+    {
+        "value": 1,
+        "name": "说法"
+    },
+    {
+        "value": 1,
+        "name": "西藏"
+    },
+    {
+        "value": 2,
+        "name": "海上"
+    },
+    {
+        "value": 2,
+        "name": "传奇"
+    },
+    {
+        "value": 1,
+        "name": "交完"
+    },
+    {
+        "value": 2,
+        "name": "定金"
+    },
+    {
+        "value": 1,
+        "name": "向贵"
+    },
+    {
+        "value": 1,
+        "name": "售楼处"
+    },
+    {
+        "value": 1,
+        "name": "未果"
+    },
+    {
+        "value": 1,
+        "name": "因贵"
+    },
+    {
+        "value": 1,
+        "name": "称道"
+    },
+    {
+        "value": 1,
+        "name": "不便"
+    },
+    {
+        "value": 1,
+        "name": "敬请"
+    },
+    {
+        "value": 1,
+        "name": "谅解"
+    },
+    {
+        "value": 1,
+        "name": "朱琳"
+    },
+    {
+        "value": 1,
+        "name": "订金"
+    },
+    {
+        "value": 1,
+        "name": "索要"
+    },
+    {
+        "value": 1,
+        "name": "数次"
+    },
+    {
+        "value": 1,
+        "name": "流程"
+    },
+    {
+        "value": 3,
+        "name": "布局"
+    },
+    {
+        "value": 2,
+        "name": "慎重考虑"
+    },
+    {
+        "value": 1,
+        "name": "自购"
+    },
+    {
+        "value": 1,
+        "name": "角度看"
+    },
+    {
+        "value": 1,
+        "name": "现金管理"
+    },
+    {
+        "value": 2,
+        "name": "理想"
+    },
+    {
+        "value": 1,
+        "name": "妥善处理"
+    },
+    {
+        "value": 4,
+        "name": "证券"
+    },
+    {
+        "value": 1,
+        "name": "正式"
+    },
+    {
+        "value": 2,
+        "name": "成立"
+    },
+    {
+        "value": 1,
+        "name": "到来"
+    },
+    {
+        "value": 1,
+        "name": "制剂"
+    },
+    {
+        "value": 1,
+        "name": "慢于"
+    },
+    {
+        "value": 2,
+        "name": "同业"
+    },
+    {
+        "value": 3,
+        "name": "坏事"
+    },
+    {
+        "value": 1,
+        "name": "固执"
+    },
+    {
+        "value": 1,
+        "name": "没法"
+    },
+    {
+        "value": 2,
+        "name": "地位"
+    },
+    {
+        "value": 1,
+        "name": "名牌"
+    },
+    {
+        "value": 1,
+        "name": "摘"
+    },
+    {
+        "value": 1,
+        "name": "桃子"
+    },
+    {
+        "value": 1,
+        "name": "太牛"
+    },
+    {
+        "value": 1,
+        "name": "神股"
+    },
+    {
+        "value": 3,
+        "name": "天花板"
+    },
+    {
+        "value": 2,
+        "name": "猪肉"
+    },
+    {
+        "value": 1,
+        "name": "行业龙头"
+    },
+    {
+        "value": 1,
+        "name": "双汇发展"
+    },
+    {
+        "value": 2,
+        "name": "进军"
+    },
+    {
+        "value": 1,
+        "name": "食品"
+    },
+    {
+        "value": 1,
+        "name": "食品行业"
+    },
+    {
+        "value": 1,
+        "name": "春天"
+    },
+    {
+        "value": 2,
+        "name": "低估"
+    },
+    {
+        "value": 4,
+        "name": "港股"
+    },
+    {
+        "value": 1,
+        "name": "美股"
+    },
+    {
+        "value": 2,
+        "name": "成熟"
+    },
+    {
+        "value": 1,
+        "name": "深套"
+    },
+    {
+        "value": 1,
+        "name": "强制"
+    },
+    {
+        "value": 1,
+        "name": "平仓"
+    },
+    {
+        "value": 1,
+        "name": "忠实"
+    },
+    {
+        "value": 1,
+        "name": "还配"
+    },
+    {
+        "value": 1,
+        "name": "资款"
+    },
+    {
+        "value": 3,
+        "name": "微博上"
+    },
+    {
+        "value": 1,
+        "name": "欺骗"
+    },
+    {
+        "value": 1,
+        "name": "话题"
+    },
+    {
+        "value": 1,
+        "name": "整改"
+    },
+    {
+        "value": 1,
+        "name": "潜在"
+    },
+    {
+        "value": 1,
+        "name": "间接"
+    },
+    {
+        "value": 1,
+        "name": "同事"
+    },
+    {
+        "value": 1,
+        "name": "动力"
+    },
+    {
+        "value": 3,
+        "name": "至少"
+    },
+    {
+        "value": 1,
+        "name": "几千"
+    },
+    {
+        "value": 1,
+        "name": "益处"
+    },
+    {
+        "value": 1,
+        "name": "苹果"
+    },
+    {
+        "value": 1,
+        "name": "常年"
+    },
+    {
+        "value": 4,
+        "name": "提振"
+    },
+    {
+        "value": 2,
+        "name": "大涨"
+    },
+    {
+        "value": 1,
+        "name": "确"
+    },
+    {
+        "value": 1,
+        "name": "损失惨重"
+    },
+    {
+        "value": 1,
+        "name": "一小部分"
+    },
+    {
+        "value": 1,
+        "name": "军心"
+    },
+    {
+        "value": 1,
+        "name": "企业家"
+    },
+    {
+        "value": 1,
+        "name": "长期投资"
+    },
+    {
+        "value": 1,
+        "name": "投资收益"
+    },
+    {
+        "value": 1,
+        "name": "频繁"
+    },
+    {
+        "value": 1,
+        "name": "挽回"
+    },
+    {
+        "value": 2,
+        "name": "声誉"
+    },
+    {
+        "value": 2,
+        "name": "解答"
+    },
+    {
+        "value": 1,
+        "name": "概率"
+    },
+    {
+        "value": 1,
+        "name": "多大前"
+    },
+    {
+        "value": 1,
+        "name": "电动汽车"
+    },
+    {
+        "value": 1,
+        "name": "介绍"
+    },
+    {
+        "value": 1,
+        "name": "这方面"
+    },
+    {
+        "value": 1,
+        "name": "专利技术"
+    },
+    {
+        "value": 3,
+        "name": "13.70"
+    },
+    {
+        "value": 1,
+        "name": "只会"
+    },
+    {
+        "value": 1,
+        "name": "下方"
+    },
+    {
+        "value": 1,
+        "name": "作用"
+    },
+    {
+        "value": 1,
+        "name": "部"
+    },
+    {
+        "value": 1,
+        "name": "拆分"
+    },
+    {
+        "value": 1,
+        "name": "不利"
+    },
+    {
+        "value": 1,
+        "name": "补偿"
+    },
+    {
+        "value": 2,
+        "name": "首"
+    },
+    {
+        "value": 1,
+        "name": "只鹏华"
+    },
+    {
+        "value": 3,
+        "name": "REITs"
+    },
+    {
+        "value": 4,
+        "name": "发行"
+    },
+    {
+        "value": 1,
+        "name": "类产品"
+    },
+    {
+        "value": 5,
+        "name": "谭总"
+    },
+    {
+        "value": 1,
+        "name": "含"
+    },
+    {
+        "value": 2,
+        "name": "香港证券交易所"
+    },
+    {
+        "value": 2,
+        "name": "应"
+    },
+    {
+        "value": 2,
+        "name": "通函"
+    },
+    {
+        "value": 2,
+        "name": "迟迟"
+    },
+    {
+        "value": 1,
+        "name": "后该"
+    },
+    {
+        "value": 1,
+        "name": "这时候"
+    },
+    {
+        "value": 1,
+        "name": "撒"
+    },
+    {
+        "value": 1,
+        "name": "上方"
+    },
+    {
+        "value": 1,
+        "name": "运行"
+    },
+    {
+        "value": 2,
+        "name": "众多"
+    },
+    {
+        "value": 1,
+        "name": "画"
+    },
+    {
+        "value": 1,
+        "name": "饼"
+    },
+    {
+        "value": 1,
+        "name": "一毛钱"
+    },
+    {
+        "value": 1,
+        "name": "明年"
+    },
+    {
+        "value": 4,
+        "name": "利润分配"
+    },
+    {
+        "value": 1,
+        "name": "中期"
+    },
+    {
+        "value": 1,
+        "name": "事先"
+    },
+    {
+        "value": 1,
+        "name": "持何"
+    },
+    {
+        "value": 1,
+        "name": "态度立场"
+    },
+    {
+        "value": 1,
+        "name": "入侵"
+    },
+    {
+        "value": 1,
+        "name": "考量"
+    },
+    {
+        "value": 3,
+        "name": "利好"
+    },
+    {
+        "value": 1,
+        "name": "意图"
+    },
+    {
+        "value": 1,
+        "name": "何在"
+    },
+    {
+        "value": 1,
+        "name": "价会"
+    },
+    {
+        "value": 1,
+        "name": "三天"
+    },
+    {
+        "value": 2,
+        "name": "救"
+    },
+    {
+        "value": 1,
+        "name": "末能"
+    },
+    {
+        "value": 1,
+        "name": "缓解"
+    },
+    {
+        "value": 1,
+        "name": "只用"
+    },
+    {
+        "value": 1,
+        "name": "一招"
+    },
+    {
+        "value": 2,
+        "name": "即可"
+    },
+    {
+        "value": 1,
+        "name": "转瞬"
+    },
+    {
+        "value": 2,
+        "name": "空头"
+    },
+    {
+        "value": 1,
+        "name": "死地"
+    },
+    {
+        "value": 1,
+        "name": "现沪深"
+    },
+    {
+        "value": 1,
+        "name": "两地"
+    },
+    {
+        "value": 2,
+        "name": "两融"
+    },
+    {
+        "value": 1,
+        "name": "余额"
+    },
+    {
+        "value": 1,
+        "name": "现将"
+    },
+    {
+        "value": 1,
+        "name": "加倍"
+    },
+    {
+        "value": 1,
+        "name": "财政部"
+    },
+    {
+        "value": 1,
+        "name": "－"
+    },
+    {
+        "value": 1,
+        "name": "全额"
+    },
+    {
+        "value": 2,
+        "name": "补贴"
+    },
+    {
+        "value": 1,
+        "name": "减半"
+    },
+    {
+        "value": 1,
+        "name": "来"
+    },
+    {
+        "value": 1,
+        "name": "0.082"
+    },
+    {
+        "value": 1,
+        "name": "＝"
+    },
+    {
+        "value": 1,
+        "name": "27.33"
+    },
+    {
+        "value": 1,
+        "name": "暂停"
+    },
+    {
+        "value": 1,
+        "name": "强平"
+    },
+    {
+        "value": 1,
+        "name": "三日"
+    },
+    {
+        "value": 1,
+        "name": "之内"
+    },
+    {
+        "value": 1,
+        "name": "回到"
+    },
+    {
+        "value": 1,
+        "name": "完用"
+    },
+    {
+        "value": 1,
+        "name": "祖国"
+    },
+    {
+        "value": 1,
+        "name": "繁荣昌盛"
+    },
+    {
+        "value": 1,
+        "name": "但贵"
+    },
+    {
+        "value": 1,
+        "name": "请大"
+    },
+    {
+        "value": 1,
+        "name": "崩盘"
+    },
+    {
+        "value": 1,
+        "name": "中石化"
+    },
+    {
+        "value": 1,
+        "name": "石油"
+    },
+    {
+        "value": 1,
+        "name": "同权"
+    },
+    {
+        "value": 1,
+        "name": "股同权"
+    },
+    {
+        "value": 1,
+        "name": "港币"
+    },
+    {
+        "value": 1,
+        "name": "折"
+    },
+    {
+        "value": 1,
+        "name": "祘"
+    },
+    {
+        "value": 1,
+        "name": "红股"
+    },
+    {
+        "value": 4,
+        "name": "分配"
+    },
+    {
+        "value": 2,
+        "name": "精装修"
+    },
+    {
+        "value": 1,
+        "name": "易出"
+    },
+    {
+        "value": 2,
+        "name": "实质性"
+    },
+    {
+        "value": 1,
+        "name": "签下"
+    },
+    {
+        "value": 1,
+        "name": "好多"
+    },
+    {
+        "value": 1,
+        "name": "公布出来"
+    },
+    {
+        "value": 1,
+        "name": "按特"
+    },
+    {
+        "value": 1,
+        "name": "劳特"
+    },
+    {
+        "value": 1,
+        "name": "定位"
+    },
+    {
+        "value": 1,
+        "name": "理论"
+    },
+    {
+        "value": 1,
+        "name": "品类"
+    },
+    {
+        "value": 1,
+        "name": "应有"
+    },
+    {
+        "value": 1,
+        "name": "专属"
+    },
+    {
+        "value": 1,
+        "name": "延伸"
+    },
+    {
+        "value": 1,
+        "name": "欧元"
+    },
+    {
+        "value": 2,
+        "name": "债券"
+    },
+    {
+        "value": 1,
+        "name": "期限"
+    },
+    {
+        "value": 1,
+        "name": "票面"
+    },
+    {
+        "value": 1,
+        "name": "利率"
+    },
+    {
+        "value": 1,
+        "name": "1.75%"
+    },
+    {
+        "value": 1,
+        "name": "开谭"
+    },
+    {
+        "value": 1,
+        "name": "回暖"
+    },
+    {
+        "value": 1,
+        "name": "建材价格"
+    },
+    {
+        "value": 2,
+        "name": "历史"
+    },
+    {
+        "value": 3,
+        "name": "最低"
+    },
+    {
+        "value": 1,
+        "name": "要交红"
+    },
+    {
+        "value": 1,
+        "name": "相当于"
+    },
+    {
+        "value": 1,
+        "name": "羊毛出在羊身上"
+    },
+    {
+        "value": 1,
+        "name": "顺便"
+    },
+    {
+        "value": 1,
+        "name": "拿走"
+    },
+    {
+        "value": 1,
+        "name": "羊毛"
+    },
+    {
+        "value": 1,
+        "name": "予以"
+    },
+    {
+        "value": 1,
+        "name": "流通股"
+    },
+    {
+        "value": 1,
+        "name": "上策"
+    },
+    {
+        "value": 1,
+        "name": "借助"
+    },
+    {
+        "value": 1,
+        "name": "不花"
+    },
+    {
+        "value": 1,
+        "name": "一分钱"
+    },
+    {
+        "value": 1,
+        "name": "需降"
+    },
+    {
+        "value": 1,
+        "name": "建立"
+    },
+    {
+        "value": 1,
+        "name": "百分之十"
+    },
+    {
+        "value": 1,
+        "name": "提早"
+    },
+    {
+        "value": 1,
+        "name": "趁现在"
+    },
+    {
+        "value": 1,
+        "name": "低多"
+    },
+    {
+        "value": 1,
+        "name": "些"
+    },
+    {
+        "value": 1,
+        "name": "要"
+    },
+    {
+        "value": 1,
+        "name": "早"
+    },
+    {
+        "value": 1,
+        "name": "多买"
+    },
+    {
+        "value": 1,
+        "name": "几股"
+    },
+    {
+        "value": 1,
+        "name": "加力"
+    },
+    {
+        "value": 2,
+        "name": "核心技术"
+    },
+    {
+        "value": 1,
+        "name": "保密工作"
+    },
+    {
+        "value": 1,
+        "name": "保密"
+    },
+    {
+        "value": 2,
+        "name": "睿"
+    },
+    {
+        "value": 1,
+        "name": "竞争力"
+    },
+    {
+        "value": 1,
+        "name": "星期"
+    },
+    {
+        "value": 1,
+        "name": "央行"
+    },
+    {
+        "value": 1,
+        "name": "降准"
+    },
+    {
+        "value": 1,
+        "name": "降息"
+    },
+    {
+        "value": 1,
+        "name": "宽松"
+    },
+    {
+        "value": 1,
+        "name": "货币政策"
+    },
+    {
+        "value": 1,
+        "name": "作战"
+    },
+    {
+        "value": 1,
+        "name": "区别"
+    },
+    {
+        "value": 1,
+        "name": "董和郁"
+    },
+    {
+        "value": 1,
+        "name": "系"
+    },
+    {
+        "value": 1,
+        "name": "生态圈"
+    },
+    {
+        "value": 1,
+        "name": "改了"
+    },
+    {
+        "value": 1,
+        "name": "logo"
+    },
+    {
+        "value": 1,
+        "name": "更具"
+    },
+    {
+        "value": 1,
+        "name": "特性"
+    },
+    {
+        "value": 2,
+        "name": "名字"
+    },
+    {
+        "value": 1,
+        "name": "互联"
+    },
+    {
+        "value": 1,
+        "name": "生态"
+    },
+    {
+        "value": 1,
+        "name": "外界"
+    },
+    {
+        "value": 1,
+        "name": "字面上"
+    },
+    {
+        "value": 2,
+        "name": "低迷"
+    },
+    {
+        "value": 2,
+        "name": "频频"
+    },
+    {
+        "value": 1,
+        "name": "高度重视"
+    },
+    {
+        "value": 1,
+        "name": "门"
+    },
+    {
+        "value": 1,
+        "name": "大便"
+    },
+    {
+        "value": 1,
+        "name": "有史以来"
+    },
+    {
+        "value": 1,
+        "name": "以此"
+    },
+    {
+        "value": 1,
+        "name": "视"
+    },
+    {
+        "value": 1,
+        "name": "丝毫"
+    },
+    {
+        "value": 1,
+        "name": "改变"
+    },
+    {
+        "value": 1,
+        "name": "决策者"
+    },
+    {
+        "value": 1,
+        "name": "发行股票"
+    },
+    {
+        "value": 1,
+        "name": "筹集资金"
+    },
+    {
+        "value": 2,
+        "name": "太慢"
+    },
+    {
+        "value": 1,
+        "name": "碰到"
+    },
+    {
+        "value": 1,
+        "name": "不向"
+    },
+    {
+        "value": 1,
+        "name": "下游"
+    },
+    {
+        "value": 1,
+        "name": "建材行业"
+    },
+    {
+        "value": 1,
+        "name": "工程施工"
+    },
+    {
+        "value": 1,
+        "name": "增加利润"
+    },
+    {
+        "value": 1,
+        "name": "本质"
+    },
+    {
+        "value": 1,
+        "name": "趋势"
+    },
+    {
+        "value": 1,
+        "name": "城镇化"
+    },
+    {
+        "value": 1,
+        "name": "大好"
+    },
+    {
+        "value": 1,
+        "name": "乗"
+    },
+    {
+        "value": 1,
+        "name": "跟随"
+    },
+    {
+        "value": 1,
+        "name": "甩开"
+    },
+    {
+        "value": 1,
+        "name": "追赶"
+    },
+    {
+        "value": 3,
+        "name": "确立"
+    },
+    {
+        "value": 1,
+        "name": "绝对性"
+    },
+    {
+        "value": 1,
+        "name": "动"
+    },
+    {
+        "value": 1,
+        "name": "涨幅"
+    },
+    {
+        "value": 1,
+        "name": "更"
+    },
+    {
+        "value": 1,
+        "name": "少"
+    },
+    {
+        "value": 1,
+        "name": "求教"
+    },
+    {
+        "value": 3,
+        "name": "核心"
+    },
+    {
+        "value": 2,
+        "name": "传统意义"
+    },
+    {
+        "value": 2,
+        "name": "老板"
+    },
+    {
+        "value": 2,
+        "name": "管家"
+    },
+    {
+        "value": 2,
+        "name": "试图"
+    },
+    {
+        "value": 3,
+        "name": "颠覆"
+    },
+    {
+        "value": 4,
+        "name": "传统"
+    },
+    {
+        "value": 2,
+        "name": "真实"
+    },
+    {
+        "value": 2,
+        "name": "增及"
+    },
+    {
+        "value": 2,
+        "name": "道德"
+    },
+    {
+        "value": 2,
+        "name": "骗钱"
+    },
+    {
+        "value": 2,
+        "name": "缺钱"
+    },
+    {
+        "value": 2,
+        "name": "牺牲"
+    },
+    {
+        "value": 1,
+        "name": "恭喜"
+    },
+    {
+        "value": 1,
+        "name": "升职"
+    },
+    {
+        "value": 3,
+        "name": "旅游"
+    },
+    {
+        "value": 2,
+        "name": "休闲"
+    },
+    {
+        "value": 1,
+        "name": "湖南省"
+    },
+    {
+        "value": 1,
+        "name": "新化县"
+    },
+    {
+        "value": 1,
+        "name": "4A"
+    },
+    {
+        "value": 1,
+        "name": "景区"
+    },
+    {
+        "value": 1,
+        "name": "位于"
+    },
+    {
+        "value": 1,
+        "name": "全省"
+    },
+    {
+        "value": 2,
+        "name": "重点"
+    },
+    {
+        "value": 1,
+        "name": "特色"
+    },
+    {
+        "value": 1,
+        "name": "县域"
+    },
+    {
+        "value": 1,
+        "name": "重点县"
+    },
+    {
+        "value": 1,
+        "name": "交通"
+    },
+    {
+        "value": 1,
+        "name": "便利"
+    },
+    {
+        "value": 1,
+        "name": "跨境"
+    },
+    {
+        "value": 1,
+        "name": "高铁"
+    },
+    {
+        "value": 1,
+        "name": "高速"
+    },
+    {
+        "value": 1,
+        "name": "相继"
+    },
+    {
+        "value": 1,
+        "name": "通车"
+    },
+    {
+        "value": 1,
+        "name": "势必"
+    },
+    {
+        "value": 2,
+        "name": "推动"
+    },
+    {
+        "value": 1,
+        "name": "新台阶"
+    },
+    {
+        "value": 1,
+        "name": "尚未"
+    },
+    {
+        "value": 1,
+        "name": "成型"
+    },
+    {
+        "value": 2,
+        "name": "意向"
+    },
+    {
+        "value": 1,
+        "name": "推崇"
+    },
+    {
+        "value": 2,
+        "name": "PPP"
+    },
+    {
+        "value": 1,
+        "name": "请拨"
+    },
+    {
+        "value": 1,
+        "name": "联系电话"
+    },
+    {
+        "value": 1,
+        "name": "福耀"
+    },
+    {
+        "value": 1,
+        "name": "玻璃"
+    },
+    {
+        "value": 1,
+        "name": "雅戈尔"
+    },
+    {
+        "value": 1,
+        "name": "高效"
+    },
+    {
+        "value": 1,
+        "name": "越俎代庖"
+    },
+    {
+        "value": 1,
+        "name": "成为事实"
+    },
+    {
+        "value": 1,
+        "name": "几倍"
+    },
+    {
+        "value": 1,
+        "name": "杠杠"
+    },
+    {
+        "value": 2,
+        "name": "徽商"
+    },
+    {
+        "value": 1,
+        "name": "大陆"
+    },
+    {
+        "value": 3,
+        "name": "家装"
+    },
+    {
+        "value": 1,
+        "name": "cctv2"
+    },
+    {
+        "value": 1,
+        "name": "节目"
+    },
+    {
+        "value": 1,
+        "name": "交换"
+    },
+    {
+        "value": 2,
+        "name": "影响力"
+    },
+    {
+        "value": 1,
+        "name": "赞助"
+    },
+    {
+        "value": 1,
+        "name": "展示"
+    },
+    {
+        "value": 2,
+        "name": "实力"
+    },
+    {
+        "value": 1,
+        "name": "名度"
+    },
+    {
+        "value": 1,
+        "name": "不理"
+    },
+    {
+        "value": 1,
+        "name": "顺口开河"
+    },
+    {
+        "value": 1,
+        "name": "不玩"
+    },
+    {
+        "value": 1,
+        "name": "足球"
+    },
+    {
+        "value": 1,
+        "name": "胆小"
+    },
+    {
+        "value": 1,
+        "name": "戏"
+    },
+    {
+        "value": 1,
+        "name": "大力发展"
+    },
+    {
+        "value": 3,
+        "name": "兴趣"
+    },
+    {
+        "value": 1,
+        "name": "国有企业"
+    },
+    {
+        "value": 5,
+        "name": "改革"
+    },
+    {
+        "value": 1,
+        "name": "竞争性"
+    },
+    {
+        "value": 1,
+        "name": "民间"
+    },
+    {
+        "value": 1,
+        "name": "接洽"
+    },
+    {
+        "value": 1,
+        "name": "为期"
+    },
+    {
+        "value": 1,
+        "name": "整顿"
+    },
+    {
+        "value": 1,
+        "name": "目前为止"
+    },
+    {
+        "value": 3,
+        "name": "软件"
+    },
+    {
+        "value": 1,
+        "name": "二点"
+    },
+    {
+        "value": 1,
+        "name": "启发"
+    },
+    {
+        "value": 1,
+        "name": "开发软件"
+    },
+    {
+        "value": 1,
+        "name": "领域"
+    },
+    {
+        "value": 2,
+        "name": "整合"
+    },
+    {
+        "value": 1,
+        "name": "开发新"
+    },
+    {
+        "value": 1,
+        "name": "控股公司"
+    },
+    {
+        "value": 1,
+        "name": "享受"
+    },
+    {
+        "value": 1,
+        "name": "混改"
+    },
+    {
+        "value": 1,
+        "name": "两大块"
+    },
+    {
+        "value": 1,
+        "name": "综合体"
+    },
+    {
+        "value": 1,
+        "name": "万象"
+    },
+    {
+        "value": 1,
+        "name": "两"
+    },
+    {
+        "value": 1,
+        "name": "加仓"
+    },
+    {
+        "value": 1,
+        "name": "城市化"
+    },
+    {
+        "value": 1,
+        "name": "二手房"
+    },
+    {
+        "value": 1,
+        "name": "买卖"
+    },
+    {
+        "value": 1,
+        "name": "租凭"
+    },
+    {
+        "value": 1,
+        "name": "繁荣"
+    },
+    {
+        "value": 2,
+        "name": "包含"
+    },
+    {
+        "value": 1,
+        "name": "利润表"
+    },
+    {
+        "value": 1,
+        "name": "判断"
+    },
+    {
+        "value": 1,
+        "name": "误导性"
+    },
+    {
+        "value": 1,
+        "name": "单独"
+    },
+    {
+        "value": 1,
+        "name": "列示"
+    },
+    {
+        "value": 1,
+        "name": "踏步"
+    },
+    {
+        "value": 1,
+        "name": "金隅"
+    },
+    {
+        "value": 1,
+        "name": "改制"
+    },
+    {
+        "value": 1,
+        "name": "米兰"
+    },
+    {
+        "value": 1,
+        "name": "开设"
+    },
+    {
+        "value": 1,
+        "name": "分公司"
+    },
+    {
+        "value": 1,
+        "name": "Uber"
+    },
+    {
+        "value": 1,
+        "name": "智慧"
+    },
+    {
+        "value": 5,
+        "name": "社区"
+    },
+    {
+        "value": 1,
+        "name": "有意"
+    },
+    {
+        "value": 7,
+        "name": "中铁"
+    },
+    {
+        "value": 1,
+        "name": "合作开发"
+    },
+    {
+        "value": 1,
+        "name": "轨道交通"
+    },
+    {
+        "value": 1,
+        "name": "想要"
+    },
+    {
+        "value": 1,
+        "name": "日期"
+    },
+    {
+        "value": 1,
+        "name": "同一天"
+    },
+    {
+        "value": 1,
+        "name": "梁洁"
+    },
+    {
+        "value": 1,
+        "name": "如是说"
+    },
+    {
+        "value": 1,
+        "name": "能"
+    },
+    {
+        "value": 1,
+        "name": "套房"
+    },
+    {
+        "value": 1,
+        "name": "只"
+    },
+    {
+        "value": 1,
+        "name": "公"
+    },
+    {
+        "value": 1,
+        "name": "招募"
+    },
+    {
+        "value": 1,
+        "name": "说明书"
+    },
+    {
+        "value": 1,
+        "name": "仍待"
+    },
+    {
+        "value": 1,
+        "name": "打包"
+    },
+    {
+        "value": 1,
+        "name": "日程"
+    },
+    {
+        "value": 1,
+        "name": "鹏华"
+    },
+    {
+        "value": 1,
+        "name": "推首"
+    },
+    {
+        "value": 1,
+        "name": "公募"
+    },
+    {
+        "value": 1,
+        "name": "公馆"
+    },
+    {
+        "value": 2,
+        "name": "轻"
+    },
+    {
+        "value": 2,
+        "name": "哪位"
+    },
+    {
+        "value": 1,
+        "name": "蜗牛"
+    },
+    {
+        "value": 1,
+        "name": "主席"
+    },
+    {
+        "value": 2,
+        "name": "行权"
+    },
+    {
+        "value": 1,
+        "name": "助力"
+    },
+    {
+        "value": 1,
+        "name": "佰嘉"
+    },
+    {
+        "value": 1,
+        "name": "炒作"
+    },
+    {
+        "value": 1,
+        "name": "积极参与"
+    },
+    {
+        "value": 1,
+        "name": "出货"
+    },
+    {
+        "value": 1,
+        "name": "短线"
+    },
+    {
+        "value": 1,
+        "name": "疑虑"
+    },
+    {
+        "value": 1,
+        "name": "平安"
+    },
+    {
+        "value": 1,
+        "name": "成本低"
+    },
+    {
+        "value": 1,
+        "name": "金融公司"
+    },
+    {
+        "value": 1,
+        "name": "主角"
+    },
+    {
+        "value": 1,
+        "name": "预见"
+    },
+    {
+        "value": 1,
+        "name": "金融机构"
+    },
+    {
+        "value": 1,
+        "name": "陆续"
+    },
+    {
+        "value": 1,
+        "name": "市场竞争"
+    },
+    {
+        "value": 1,
+        "name": "白热化"
+    },
+    {
+        "value": 1,
+        "name": "越来越"
+    },
+    {
+        "value": 4,
+        "name": "利用"
+    },
+    {
+        "value": 1,
+        "name": "合资"
+    },
+    {
+        "value": 1,
+        "name": "接入"
+    },
+    {
+        "value": 1,
+        "name": "信托"
+    },
+    {
+        "value": 1,
+        "name": "撬动"
+    },
+    {
+        "value": 1,
+        "name": "最快"
+    },
+    {
+        "value": 1,
+        "name": "速度"
+    },
+    {
+        "value": 2,
+        "name": "联合"
+    },
+    {
+        "value": 1,
+        "name": "挑战"
+    },
+    {
+        "value": 1,
+        "name": "坚守"
+    },
+    {
+        "value": 1,
+        "name": "买房者"
+    },
+    {
+        "value": 1,
+        "name": "到"
+    },
+    {
+        "value": 1,
+        "name": "放心"
+    },
+    {
+        "value": 1,
+        "name": "冒昧"
+    },
+    {
+        "value": 1,
+        "name": "更名"
+    },
+    {
+        "value": 1,
+        "name": "这轮"
+    },
+    {
+        "value": 1,
+        "name": "配股"
+    },
+    {
+        "value": 1,
+        "name": "银行借款"
+    },
+    {
+        "value": 1,
+        "name": "交易商"
+    },
+    {
+        "value": 1,
+        "name": "发短"
+    },
+    {
+        "value": 1,
+        "name": "融中票"
+    },
+    {
+        "value": 1,
+        "name": "境外"
+    },
+    {
+        "value": 1,
+        "name": "税收"
+    },
+    {
+        "value": 1,
+        "name": "滋味"
+    },
+    {
+        "value": 2,
+        "name": "此致"
+    },
+    {
+        "value": 1,
+        "name": "保持中立"
+    },
+    {
+        "value": 1,
+        "name": "珠海"
+    },
+    {
+        "value": 1,
+        "name": "拍地"
+    },
+    {
+        "value": 1,
+        "name": "事实上"
+    },
+    {
+        "value": 1,
+        "name": "国家级"
+    },
+    {
+        "value": 1,
+        "name": "一带"
+    },
+    {
+        "value": 1,
+        "name": "一路"
+    },
+    {
+        "value": 1,
+        "name": "长江"
+    },
+    {
+        "value": 1,
+        "name": "经济带"
+    },
+    {
+        "value": 1,
+        "name": "建设"
+    },
+    {
+        "value": 1,
+        "name": "更新改造"
+    },
+    {
+        "value": 1,
+        "name": "拆迁"
+    },
+    {
+        "value": 1,
+        "name": "手续"
+    },
+    {
+        "value": 1,
+        "name": "尚"
+    },
+    {
+        "value": 1,
+        "name": "条件"
+    },
+    {
+        "value": 1,
+        "name": "七个"
+    },
+    {
+        "value": 1,
+        "name": "网友"
+    },
+    {
+        "value": 6,
+        "name": "创造"
+    },
+    {
+        "value": 1,
+        "name": "蕴含"
+    },
+    {
+        "value": 1,
+        "name": "降低"
+    },
+    {
+        "value": 5,
+        "name": "配套"
+    },
+    {
+        "value": 2,
+        "name": "服务商"
+    },
+    {
+        "value": 1,
+        "name": "中国国情"
+    },
+    {
+        "value": 2,
+        "name": "老年"
+    },
+    {
+        "value": 2,
+        "name": "化"
+    },
+    {
+        "value": 2,
+        "name": "墓地"
+    },
+    {
+        "value": 1,
+        "name": "潜力"
+    },
+    {
+        "value": 1,
+        "name": "充足"
+    },
+    {
+        "value": 1,
+        "name": "一步"
+    },
+    {
+        "value": 1,
+        "name": "意愿"
+    },
+    {
+        "value": 1,
+        "name": "旧区"
+    },
+    {
+        "value": 1,
+        "name": "改造"
+    },
+    {
+        "value": 1,
+        "name": "盘整"
+    },
+    {
+        "value": 1,
+        "name": "落后"
+    },
+    {
+        "value": 1,
+        "name": "上证指数"
+    },
+    {
+        "value": 1,
+        "name": "吸压盘"
+    },
+    {
+        "value": 1,
+        "name": "定期"
+    },
+    {
+        "value": 1,
+        "name": "坚定"
+    },
+    {
+        "value": 2,
+        "name": "万电达"
+    },
+    {
+        "value": 1,
+        "name": "阿里"
+    },
+    {
+        "value": 1,
+        "name": "秒杀"
+    },
+    {
+        "value": 1,
+        "name": "京东"
+    },
+    {
+        "value": 1,
+        "name": "客户群"
+    },
+    {
+        "value": 3,
+        "name": "住户"
+    },
+    {
+        "value": 1,
+        "name": "辐射区"
+    },
+    {
+        "value": 1,
+        "name": "大江南北"
+    },
+    {
+        "value": 1,
+        "name": "黄河"
+    },
+    {
+        "value": 1,
+        "name": "覆盖"
+    },
+    {
+        "value": 1,
+        "name": "版图"
+    },
+    {
+        "value": 2,
+        "name": "商城"
+    },
+    {
+        "value": 2,
+        "name": "万家"
+    },
+    {
+        "value": 1,
+        "name": "买够"
+    },
+    {
+        "value": 1,
+        "name": "电影票"
+    },
+    {
+        "value": 1,
+        "name": "店"
+    },
+    {
+        "value": 1,
+        "name": "遍布全国"
+    },
+    {
+        "value": 1,
+        "name": "载体"
+    },
+    {
+        "value": 1,
+        "name": "大佬"
+    },
+    {
+        "value": 1,
+        "name": "沉默"
+    },
+    {
+        "value": 1,
+        "name": "衣食住行"
+    },
+    {
+        "value": 1,
+        "name": "吃喝拉撒"
+    },
+    {
+        "value": 2,
+        "name": "还原"
+    },
+    {
+        "value": 1,
+        "name": "乃万粉"
+    },
+    {
+        "value": 1,
+        "name": "大幸"
+    },
+    {
+        "value": 1,
+        "name": "协调"
+    },
+    {
+        "value": 1,
+        "name": "小组"
+    },
+    {
+        "value": 1,
+        "name": "副总"
+    },
+    {
+        "value": 1,
+        "name": "牵头"
+    },
+    {
+        "value": 2,
+        "name": "社区资源"
+    },
+    {
+        "value": 2,
+        "name": "组建"
+    },
+    {
+        "value": 2,
+        "name": "金融服务"
+    },
+    {
+        "value": 2,
+        "name": "这才"
+    },
+    {
+        "value": 1,
+        "name": "路"
+    },
+    {
+        "value": 1,
+        "name": "统筹"
+    },
+    {
+        "value": 1,
+        "name": "超市"
+    },
+    {
+        "value": 3,
+        "name": "浏览"
+    },
+    {
+        "value": 1,
+        "name": "晚"
+    },
+    {
+        "value": 1,
+        "name": "垃圾"
+    },
+    {
+        "value": 1,
+        "name": "梦想"
+    },
+    {
+        "value": 1,
+        "name": "分行"
+    },
+    {
+        "value": 1,
+        "name": "不在乎"
+    },
+    {
+        "value": 1,
+        "name": "不断创新"
+    },
+    {
+        "value": 1,
+        "name": "开拓"
+    },
+    {
+        "value": 1,
+        "name": "鼓舞"
+    },
+    {
+        "value": 1,
+        "name": "深知"
+    },
+    {
+        "value": 1,
+        "name": "文人"
+    },
+    {
+        "value": 1,
+        "name": "大话"
+    },
+    {
+        "value": 1,
+        "name": "两回事"
+    },
+    {
+        "value": 1,
+        "name": "告诉"
+    },
+    {
+        "value": 1,
+        "name": "一万元"
+    },
+    {
+        "value": 1,
+        "name": "蓝海"
+    },
+    {
+        "value": 1,
+        "name": "正路"
+    },
+    {
+        "value": 1,
+        "name": "搞个"
+    },
+    {
+        "value": 1,
+        "name": "养老"
+    },
+    {
+        "value": 1,
+        "name": "起到"
+    },
+    {
+        "value": 1,
+        "name": "专家"
+    },
+    {
+        "value": 1,
+        "name": "这算"
+    },
+    {
+        "value": 1,
+        "name": "领教"
+    },
+    {
+        "value": 1,
+        "name": "挑选"
+    },
+    {
+        "value": 1,
+        "name": "没空"
+    },
+    {
+        "value": 1,
+        "name": "失望透顶"
+    },
+    {
+        "value": 1,
+        "name": "不争"
+    },
+    {
+        "value": 1,
+        "name": "一朝一夕"
+    },
+    {
+        "value": 1,
+        "name": "走势"
+    },
+    {
+        "value": 1,
+        "name": "一出"
+    },
+    {
+        "value": 1,
+        "name": "常识"
+    },
+    {
+        "value": 1,
+        "name": "报导"
+    },
+    {
+        "value": 1,
+        "name": "会上"
+    },
+    {
+        "value": 1,
+        "name": "吐露"
+    },
+    {
+        "value": 1,
+        "name": "困难"
+    },
+    {
+        "value": 1,
+        "name": "逾越"
+    }
+]

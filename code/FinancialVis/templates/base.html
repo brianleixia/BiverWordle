@@ -1,0 +1,124 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, maximum-scale=1, shrink-to-fit=no"
+    />
+    <title>{% block title %}{% endblock %}</title>
+    <link
+      rel="icon"
+      type="image/x-icon"
+      href="{% static 'assets/img/favicon.ico' %}"
+    />
+    <link
+      href="{% static 'assets/css/loader.css' %}"
+      rel="stylesheet"
+      type="text/css"
+    />
+    <script src="{% static 'assets/js/loader.js' %}"></script>
+
+    <!-- BEGIN Import D3.js -->
+    <script src="{% static 'd3/d3.min.js' %}"></script>
+    <script src="{% static 'd3/barchart-in-themeriver.js' %}"></script>
+    <script src="{% static 'd3/d3.layout.cloud.js' %}"></script>
+    <!-- END Import D3.js -->
+
+    <!-- BEGIN Import D3.js -->
+
+    <!-- END Import D3.js -->
+
+    <!-- BEGIN GLOBAL MANDATORY STYLES -->
+    <link
+      href="https://fonts.googleapis.com/css?family=Quicksand:400,500,600,700&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      href="{% static 'bootstrap/css/bootstrap.min.css' %}"
+      rel="stylesheet"
+      type="text/css"
+    />
+    <link
+      href="{% static 'assets/css/plugins.css' %}"
+      rel="stylesheet"
+      type="text/css"
+    />
+    <!-- END GLOBAL MANDATORY STYLES -->
+
+    <!-- BEGIN PAGE LEVEL PLUGINS/CUSTOM STYLES -->
+    <link
+      href="{% static 'plugins/apex/apexcharts.css' %}"
+      rel="stylesheet"
+      type="text/css"
+    />
+    <link
+      href="{% static 'assets/css/dashboard/dash_2.css' %}"
+      rel="stylesheet"
+      type="text/css"
+    />
+    <!-- END PAGE LEVEL PLUGINS/CUSTOM STYLES -->
+    {% block CustomCss %}{% endblock %}
+  </head>
+  <body class="alt-menu sidebar-noneoverflow">
+    <!-- BEGIN LOADER -->
+    <div id="load_screen">
+      <div class="loader">
+        <div class="loader-content">
+          <div class="spinner-grow align-self-center"></div>
+        </div>
+      </div>
+    </div>
+    <!--  END LOADER -->
+
+    <!--  BEGIN NAVBAR  -->
+    {% include "navbar.html" %}
+    <!--  BEGIN NAVBAR  -->
+
+    <!--  BEGIN MAIN CONTAINER  -->
+    <div class="main-container" id="container">
+      <div class="overlay"></div>
+      <div class="search-overlay"></div>
+
+      <!--  BEGIN TOPBAR  -->
+      {% include "topbar.html" %}
+      <!--  BEGIN TOPBAR  -->
+
+      <!--  BEGIN CONTENT PART  -->
+      <div id="content" class="main-content">
+        {% block content %}
+        <p>It is base.</p>
+        {% endblock %}
+      </div>
+      <!--  END CONTENT PART  -->
+    </div>
+    <!-- END MAIN CONTAINER -->
+
+    <!-- BEGIN GLOBAL MANDATORY SCRIPTS -->
+    <script src="{% static 'assets/js/libs/jquery-3.1.1.min.js' %}"></script>
+    <script src="{% static 'bootstrap/js/popper.min.js' %}"></script>
+    <script src="{% static 'bootstrap/js/bootstrap.min.js' %}"></script>
+    <script src="{% static 'plugins/perfect-scrollbar/perfect-scrollbar.min.js' %}"></script>
+    <script src="{% static 'assets/js/app.js' %}"></script>
+    <script>
+      $(document).ready(function () {
+        App.init();
+      });
+    </script>
+    <script src="{% static 'assets/js/custom.js' %}"></script>
+
+    <!-- END GLOBAL MANDATORY SCRIPTS -->
+
+    <!-- BEGIN PAGE LEVEL PLUGINS/CUSTOM SCRIPTS -->
+    <script src="{% static 'plugins/apex/apexcharts.min.js' %}"></script>
+    <script src="{% static 'assets/js/dashboard/dash_2.js' %}"></script>
+    <!-- BEGIN PAGE LEVEL PLUGINS/CUSTOM SCRIPTS -->
+
+    <!-- BEGIN Custom JS-->
+
+    <script src="{% static 'plugins/bootstrap-select/bootstrap-select.min.js' %}"></script>
+    {% block CustomJS %}{% endblock %}
+  </body>
+</html>
