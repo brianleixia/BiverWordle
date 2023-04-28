@@ -1,4 +1,4 @@
-# BiverWordle: A Visualization System for Visualizing Stock Market Sentiment with Financial Text Data and Trends
+# BiverWordle: Visualizing Stock Market Sentiment with Financial Text Data and Trends
 
 ## Overview
 
