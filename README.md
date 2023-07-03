@@ -2,6 +2,8 @@
 
 ## Overview
 
+[!Overview of visualization method BiverWordle, using example stock 002594 BYD] (./images/Stock long-term shaking (fall).pdf)
+
 BiverWordle is a novel visualization system for analyzing, visualizing, and verifying the sentiments of stock trends on financial text forums. It combines stock data visualization techniques, such as K-Line diagrams, with text data visualization methods like Theme River and Word Cloud, to provide a comprehensive and intuitive representation of stock market sentiment.
 
 ## Key Features
@@ -36,7 +38,8 @@ To start using BiverWordle, follow these steps:
 1. Clone the repository: `git clone https://github.com/Brian-Lei-XIA/BiverWordle.git`
 2. Navigate to the project directory: `cd BiverWordle`
 3. Install the required dependencies: `pip install -r requirements.txt`
-4. Start the system using Djongo: `python manage.py runserver`
+4. Navigate to the code directory: `cd ./code/FinancialVis`
+5. Start the system using Djongo: `python manage.py runserver`
 
 Make sure you have Python and Djongo installed on your system before running the above commands. You can find more information about installing Djongo in the [Djongo documentation](https://www.djongomapper.com/get-started/).
 
@@ -55,6 +58,7 @@ Contributions to BiverWordle are welcome! If you would like to contribute to the
 ## Future Improvements
 
 We plan to further enhance our system by:
+
 - Employing specialist annotators to redefine tag categories and provide specialized data tagging.
 - Exploring additional classification methods and experimenting with new sentiment analysis algorithms.
 - Building a financial category-specific corpus for sentiment analysis.
@@ -70,8 +74,6 @@ For any inquiries or questions, please contact the BiverWordle team at [brianlei
 
 Enjoy using BiverWordle and happy visualizing!
 
-
 ## License
 
 BiverWordle is released under the [MIT License](LICENSE).
-
