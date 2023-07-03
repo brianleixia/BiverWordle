@@ -21,6 +21,14 @@ BiverWordle is a novel visualization system for analyzing, visualizing, and veri
 ## DataSet and Checkpoints
 
 - **Data Source**: The data source is from [互动易](http://irm.cninfo.com.cn/), provided by Prof. LI Yuelei, Tianjin University.
+  We identified eight categories within the data：
+| **Index** | **Category** | **Index** | **Category** |
+| :---: | :--- | :---: | :--- |
+| 0 | 宏观政策 (Macroeconomic Policy) | 4 | 产品及服务 (Products and Services) |
+| 1 | 业务动态 (Business Dynamics) | 5 | 股票情况及政策 (Stock Status and Policy) |
+| 2 | 收益能力 (Earning Ability) | 6 | 股票价格波动 (Stock Price and Volatility) |
+| 3 | 财务情况 (Financial Situation) | 7 | 其他 (Others) |
+
 - **Checkpoints**: The checkpoints are available in [Google Drive](https://drive.google.com/drive/folders/1RFiNWpuEYn4JRTJFYmAz6n27v46yPPbz?usp=drive_link)
 
 ## Visualization Tools
