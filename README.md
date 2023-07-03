@@ -21,15 +21,55 @@ BiverWordle is a novel visualization system for analyzing, visualizing, and veri
 ## DataSet and Checkpoints
 
 - **Data Source**: The data source is from [互动易](http://irm.cninfo.com.cn/), provided by Prof. LI Yuelei, Tianjin University.
-  We identified eight categories within the data：
-| **Index** | **Category** | **Index** | **Category** |
-| :---: | :--- | :---: | :--- |
-| 0 | 宏观政策 (Macroeconomic Policy) | 4 | 产品及服务 (Products and Services) |
-| 1 | 业务动态 (Business Dynamics) | 5 | 股票情况及政策 (Stock Status and Policy) |
-| 2 | 收益能力 (Earning Ability) | 6 | 股票价格波动 (Stock Price and Volatility) |
-| 3 | 财务情况 (Financial Situation) | 7 | 其他 (Others) |
+  We identified eight categories within the data:
+
+  | **Index** | **Category** | **Index** | **Category** |
+  | :---: | :---: | :---: | :---: |
+  | 0 | 宏观政策 (Macroeconomic Policy) | 4 | 产品及服务 (Products and Services) |
+  | 1 | 业务动态 (Business Dynamics) | 5 | 股票情况及政策 (Stock Status and Policy) |
+  | 2 | 收益能力 (Earning Ability) | 6 | 股票价格波动 (Stock Price and Volatility) |
+  | 3 | 财务情况 (Financial Situation) | 7 | 其他 (Others) |
 
 - **Checkpoints**: The checkpoints are available in [Google Drive](https://drive.google.com/drive/folders/1RFiNWpuEYn4JRTJFYmAz6n27v46yPPbz?usp=drive_link)
+
+## Text Processing Results
+We use three models: **textCNN**, **BERT**, and **Voting**. Here are the experiment results for these models:
+
+| Model | Category | Precision | Recall | F1-score |
+| :---: | :---: | :---: | :---: | :---: |
+| textCNN | 宏观政策 (Macroeconomic Policy) | 0.614 | 0.433 | 0.508 |
+| textCNN | 业务动态 (Business Dynamics) | 0.598 | 0.671 | 0.632 |
+| textCNN | 收益能力 (Earning Ability) | 0.542 | 0.522 | 0.532 |
+| textCNN | 财务情况 (Financial Situation) | 0.748 | 0.593 | 0.661 |
+| textCNN | 产品及服务 (Products and Services) | 0.651 | 0.736 | 0.691 |
+| textCNN | 股票情况及政策 (Stock Status and Policy) | 0.676 | 0.686 | 0.681 |
+| textCNN | 股票价格波动  (Stock Price and Volatility) | 0.611 | 0.627 | 0.619 |
+| textCNN | 其他 (Others) | 0.556 | 0.504 | 0.529 |
+| BERT | 宏观政策 (Macroeconomic Policy) | 0.526 | 0.514 | 0.520 |
+| BERT | 业务动态 (Business Dynamics) | 0.609 | 0.650 | 0.629 |
+| BERT | 收益能力 (Earning Ability) | 0.459 | 0.659 | 0.541 |
+| BERT | 财务情况 (Financial Situation) | 0.669 | 0.605 | 0.636 |
+| BERT | 产品及服务 (Products and Services) | 0.620 | 0.712 | 0.662 |
+| BERT | 股票情况及政策 (Stock Status and Policy) | 0.761 | 0.626 | 0.687 |
+| BERT | 股票价格波动  (Stock Price and Volatility) | 0.578 | 0.650 | 0.612 |
+| BERT | 其他 (Others) | 0.611 | 0.410 | 0.491 |
+| Voting | 宏观政策 (Macroeconomic Policy) | 0.607 | 0.491 | 0.543 |
+| Voting | 业务动态 (Business Dynamics) | 0.620 | 0.697 | 0.656 |
+| Voting | 收益能力 (Earning Ability) | 0.530 | 0.622 | 0.572 |
+| Voting | 财务情况 (Financial Situation) | 0.717 | 0.622 | 0.666 |
+| Voting | 产品及服务 (Products and Services) | 0.649 | 0.758 | 0.699 |
+| Voting | 股票情况及政策 (Stock Status and Policy) | 0.742 | 0.660 | 0.699 |
+| Voting | 股票价格波动  (Stock Price and Volatility) | 0.617 | 0.648 | 0.643 |
+| Voting | 其他 (Others) | 0.628 | 0.479 | 0.543 |
+
+The Accuracy of Each Model:
+
+| Model | Accuracy |
+| :---: | :---: |
+| textCNN | 0.624 |
+| Bert | 0.612 |
+| Voting | 0.642 |
+
 
 ## Visualization Tools
 
