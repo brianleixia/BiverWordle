@@ -2,7 +2,7 @@
 
 ## Overview
 
-![Overview of visualization method BiverWordle, using example stock 002594 BYD] (https://github.com/Brian-Lei-XIA/BiverWordle/blob/main/images/overview.png)
+![Overview of visualization method BiverWordle, using example stock 002594 BYD](https://github.com/Brian-Lei-XIA/BiverWordle/images/overview.png)
 
 BiverWordle is a novel visualization system for analyzing, visualizing, and verifying the sentiments of stock trends on financial text forums. It combines stock data visualization techniques, such as K-Line diagrams, with text data visualization methods like Theme River and Word Cloud, to provide a comprehensive and intuitive representation of stock market sentiment.
 
@@ -17,6 +17,11 @@ BiverWordle is a novel visualization system for analyzing, visualizing, and veri
 
 - **Text Classification**: BiverWordle employs text classification algorithms, such as textCNN and BERT, to analyze and categorize financial text data from forums.
 - **Visualization**: BiverWordle combines various visualization techniques, including K-Line diagrams, Theme River, and Word Cloud, to represent stock trends and sentiments.
+
+## DataSet and Checkpoints
+
+- **Data Source**: The data source is from [互动易](http://irm.cninfo.com.cn/), provided by Prof. LI Yuelei, Tianjin University.
+- **Checkpoints**: The checkpoints are available in [Google Drive](https://drive.google.com/drive/folders/1RFiNWpuEYn4JRTJFYmAz6n27v46yPPbz?usp=drive_link)
 
 ## Visualization Tools
 
