@@ -6,7 +6,7 @@
 
 BiverWordle is an innovative visualization system specifically designed to analyze, visualize, and authenticate sentiments relating to stock trends within financial text forums. This system ingeniously merges a time-series financial data representation, which is inspired by a candlestick chart, with a stacked area chart/streamgraph derived from text classification results. It further integrates word clouds that are uniquely arranged in the shapes of sad, neutral, and happy smiley face ideograms. These combined elements provide a comprehensive and intuitive portrayal of stock market sentiment.
 
-The name "BiverWordle" encapsulates the essence of our approach, alluding to two river-like area charts flowing with words. Our system's effectiveness is evaluated through various measures. These include text classification metrics (accuracy, precision, recall, and F1-score) for test data, and additionally, three use cases that vividly demonstrate the interactive data exploration possibilities of our visualization tool. This thorough evaluation ensures BiverWordle is not only a robust tool for understanding sentiment trends but also an engaging platform for interactive data exploration.
+The name "BiverWordle" encapsulates the essence of our approach, alluding to two river-like area charts flowing with words. Our system's effectiveness is evaluated through various measures. These include text classification metrics (accuracy, precision, recall, and F1-score) for test data, and additionally, three use cases that vividly demonstrate the interactive data exploration possibilities of our visualization tool.
 
 ## Key Features
 
