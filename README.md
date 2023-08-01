@@ -35,6 +35,7 @@ The name "BiverWordle" encapsulates the essence of our approach, alluding to two
 - **Checkpoints**: The checkpoints are available in [Google Drive](https://drive.google.com/drive/folders/1RFiNWpuEYn4JRTJFYmAz6n27v46yPPbz?usp=drive_link)
 
 ## Text Processing Results
+The dataset is partitioned into 11,915 texts for training, 3,910 for testing, and 3,910 for validation, adhering to a 6:2:2 ratio.
 We use three models: **textCNN**, **BERT**, and **Voting**. Here are the experiment results for these models:
 
 | Model | Category | Precision | Recall | F1-score |
