@@ -8,6 +8,9 @@ BiverWordle is an innovative visualization system specifically designed to analy
 
 The name "BiverWordle" encapsulates the essence of our approach, alluding to two river-like area charts flowing with words. Our system's effectiveness is evaluated through various measures. These include text classification metrics (accuracy, precision, recall, and F1-score) for test data, and additionally, three use cases that vividly demonstrate the interactive data exploration possibilities of our visualization tool.
 
+## News
+The paper has been accepted at VINCI 2023 as a short paper!
+
 ## Key Features
 
 - Integration of multiple visualization techniques for a comprehensive understanding of stock market sentiment.
