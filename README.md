@@ -133,6 +133,18 @@ For any inquiries or questions, please contact the BiverWordle team at [brianlei
 
 Enjoy using BiverWordle and happy visualizing!
 
+## Citation
+If you find our paper&tool interesting and useful, please feel free to give us a star and cite us through: 
+```latex
+@inproceedings{10.1145/3615522.3615541,
+author = {Xia, Lei and Gao, Yi-Ping and Lin, Le and Chen, Yu-Xi and Zhang, Kang},
+title = {BiverWordle: Visualizing Stock Market Sentiment with Financial Text Data and Trends},
+booktitle = {Proceedings of the 16th International Symposium on Visual Information Communication and Interaction},
+year = {2023},
+url = {https://doi.org/10.1145/3615522.3615541},
+doi = {10.1145/3615522.3615541},
+}
+```
 ## License
 
 BiverWordle is released under the [MIT License](LICENSE).
